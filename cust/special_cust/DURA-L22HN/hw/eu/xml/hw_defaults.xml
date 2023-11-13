@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+    <!--AR000A6ORA chengxiaolong WX376487 20180524 begin-->
+    <string auto_install_apk_from_mcc="230,HwUserGuide,com.huawei.userguide;216,HwUserGuide,com.huawei.userguide;226,HwUserGuide,com.huawei.userguide;"/>
+    <!--AR000A6ORA chengxiaolong WX376487 20180524 end-->
+</resources>

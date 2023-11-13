@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+/**
+ * Copyright (c) 2009, The Android Open Source Project
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *     http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+-->
+
+<!-- AR000A6OO1 xubin wx533115 20180208 begin -->
+<bookmarks_config version="1">
+    <mccmnc value="20408">
+        <bookmarkitem title="KPN Vandaag">http://www.kpnvandaag.nl</bookmarkitem>
+        <bookmarkitem title="Telfort Internet">http://telfort.nl</bookmarkitem>
+    </mccmnc>
+    <mccmnc value="20412">
+        <bookmarkitem title="KPN Vandaag">http://www.kpnvandaag.nl</bookmarkitem>
+        <bookmarkitem title="Telfort Internet">http://telfort.nl</bookmarkitem>
+    </mccmnc>
+    <!-- AR000A6ONA xubin wx533115 20180208 begin -->
+    <mccmnc value="20820"  bookmarks_folder_name="Bouygues Télécom">
+    <!-- AR000A6ONA xubin wx533115 20180208 end -->
+        <bookmarkitem title="Actualités">http://portail.bouyguestelecom.fr/actu/</bookmarkitem>
+        <bookmarkitem title="Jeux">http://portail.bouyguestelecom.fr/jeux/</bookmarkitem>
+        <bookmarkitem title="Sonneries et fonds d’écran">http://portail.bouyguestelecom.fr/perso/</bookmarkitem>
+        <bookmarkitem title="Programme TV">http://portail.bouyguestelecom.fr/tv/</bookmarkitem>
+    </mccmnc>
+    <mccmnc value="20815">
+        <bookmarkitem title="Free">http://mobile.free.fr</bookmarkitem>
+        <bookmarkitem title="Mon compte">http://mobile.free.fr/moncompte</bookmarkitem>
+    </mccmnc>
+    <!-- DTS2018032308713 xubin wx533115 20180324 begin -->
+    <mccmnc value="21401F01">
+        <bookmarkitem title="Vodafone Start">http://start.vodafone.com</bookmarkitem>
+        <bookmarkitem title="Mi Vodafone">http://m.vodafone.es</bookmarkitem>
+        <bookmarkitem title="Mi Web">http://miweb.vodafone.es</bookmarkitem>
+    </mccmnc>
+    <mccmnc value="21401F09">
+        <bookmarkitem title="Vodafone Start">http://start.vodafone.com</bookmarkitem>
+        <bookmarkitem title="Mi Vodafone">http://m.vodafone.es/</bookmarkitem>
+        <bookmarkitem title="Mi Web">http://miweb.vodafone.es/</bookmarkitem>
+    </mccmnc>
+    <!-- DTS2018032308713 xubin wx533115 20180324 end -->
+    <mccmnc value="21404">
+        <bookmarkitem title="Yoigo SurfPort">http://movil.yoigo.es</bookmarkitem>
+    </mccmnc>
+    <mccmnc value="21407">
+        <bookmarkitem title="emoción">http://wap.movistar.com/?bdp=fav</bookmarkitem>
+        <bookmarkitem title="Movistar.es">http://www.movistar.es</bookmarkitem>
+    </mccmnc>
+    <mccmnc value="23002">
+        <bookmarkitem title="O2 Active">http://wap.o2active.cz</bookmarkitem>
+        <bookmarkitem title="Hry">http://wap.o2active.cz/hry/</bookmarkitem>
+        <bookmarkitem title="Video">http://wap.o2active.cz/video/</bookmarkitem>
+        <bookmarkitem title="Mobilní TV">http://wap.o2active.cz/mobilniTV/</bookmarkitem>
+        <bookmarkitem title="MMS obrázky">http://wap.o2active.cz/obrazky/</bookmarkitem>
+        <bookmarkitem title="Pozadí na telefon">http://wap.o2active.cz/pozadi/</bookmarkitem>
+        <bookmarkitem title="Vyzváněcí melodie">http://wap.o2active.cz/zvoneni/</bookmarkitem>
+        <bookmarkitem title="Zábava">http://wap.o2active.cz/zabava/</bookmarkitem>
+        <bookmarkitem title="Zpravodajství">http://wap.o2active.cz/zpravy/</bookmarkitem>
+        <bookmarkitem title="Programy kin">http://wap.o2active.cz/kino/</bookmarkitem>
+        <bookmarkitem title="Dopravní informace">http://wap.o2active.cz/doprava/</bookmarkitem>
+        <bookmarkitem title="Jízdní řády">http://wap.o2active.cz/jizdnirady/</bookmarkitem>
+    </mccmnc>
+    <mccmnc value="24491">
+        <bookmarkitem title="HUAWEI USER GUIDE">http://www.huaweidevice.com/worldwide/technicaIndex.do?method=gotoProductSupport&amp;productId=3780&amp;tb=0</bookmarkitem>
+    </mccmnc>
+    <mccmnc value="28401">
+        <bookmarkitem title="Mtel zona">https://mtelzona.bg</bookmarkitem>
+        <bookmarkitem title="News">https://mtelzona.bg/news</bookmarkitem>
+        <bookmarkitem title="Astro zona">https://mtelzona.bg/astro</bookmarkitem>
+        <bookmarkitem title="My profile">https://mtelzona.bg/myMtel</bookmarkitem>
+    </mccmnc>
+    <mccmnc_language value="28401_bg_BG">
+        <bookmarkitem title="Мтел зона">https://mtelzona.bg</bookmarkitem>
+        <bookmarkitem title="Новини">https://mtelzona.bg/news</bookmarkitem>
+        <bookmarkitem title="Астро зона">https://mtelzona.bg/astro</bookmarkitem>
+        <bookmarkitem title="Моят профил">https://mtelzona.bg/myMtel</bookmarkitem>
+    </mccmnc_language>
+    <mccmnc value="20601">
+        <bookmarkitem title="Google">http://www.google.be</bookmarkitem>
+        <bookmarkitem title="Proximus">http://www.proximus.be</bookmarkitem>
+    </mccmnc>
+    <mccmnc value="21890">
+        <bookmarkitem title="BH Mobile">https://bhmobile.bhtelecom.ba</bookmarkitem>
+        <bookmarkitem title="BH Telecom">http://www.bhtelecom.ba</bookmarkitem>
+        <bookmarkitem title="HIT Zona">https://bhmobile.bhtelecom.ba/hitzona</bookmarkitem>
+        <bookmarkitem title="Kupovina Ultra dopune">https://bhmobile.bhtelecom.ba/topup/ccok</bookmarkitem>
+        <bookmarkitem title="mCommerce">https://bhmobile.bhtelecom.ba/mcommerce</bookmarkitem>
+        <bookmarkitem title="mTusam">https://bhmobile.bhtelecom.ba/mape</bookmarkitem>
+        <bookmarkitem title="mLiveSport">https://bhmobile.bhtelecom.ba/hitzona/sport/nogomet</bookmarkitem>
+        <bookmarkitem title="Poruke">https://bhmobile.bhtelecom.ba/posalji-poruku</bookmarkitem>
+    </mccmnc>
+    <mccmnc value="22801">
+        <bookmarkitem title="Swisscom">http://www.swisscom.ch?campID=PRECONF_MOBDEV_BOOKM_SC</bookmarkitem>
+        <bookmarkitem title="Swisscom Cockpit">http://cockpit.swisscom.ch</bookmarkitem>
+    </mccmnc>
+    <mccmnc value="22802">
+        <bookmarkitem title="Sunrise live">http://live.sunrise.ch</bookmarkitem>
+        <bookmarkitem title="yallo">http://mobile.yallo.ch/</bookmarkitem>
+        <bookmarkitem title="ALDI-mobile">http://aldi-mobile.ch</bookmarkitem>
+    </mccmnc>
+    <mccmnc value="23205">
+        <bookmarkitem title="Planet3">https://mobile.drei.at/redirect/bm_planet3</bookmarkitem>
+        <bookmarkitem title="3Kundenzone">https://mobile.drei.at/redirect/bm_kundenzone</bookmarkitem>
+        <bookmarkitem title="3Film">https://mobile.drei.at/redirect/bm_3Film</bookmarkitem>
+        <bookmarkitem title="3Kiosk">https://mobile.drei.at/redirect/bm_kiosk</bookmarkitem>
+        <bookmarkitem title="3MobileTV">https://mobile.drei.at/redirect/bm_mobiletv</bookmarkitem>
+        <bookmarkitem title="3Newsflash">https://mobile.drei.at/redirect/bm_newsflash</bookmarkitem>
+        <bookmarkitem title="Spiele">https://mobile.drei.at/redirect/bm_spiele</bookmarkitem>
+        <bookmarkitem title="News">https://mobile.drei.at/redirect/bm_news</bookmarkitem>
+        <bookmarkitem title="Sport Live">https://mobile.drei.at/redirect/bm_sport</bookmarkitem>
+        <bookmarkitem title="Wetter">https://mobile.drei.at/redirect/bm_wetter</bookmarkitem>
+        <bookmarkitem title="3Empfiehlt">https://mobile.drei.at/redirect/bm_empfiehlt</bookmarkitem>
+        <bookmarkitem title="3Friendfinder">https://mobile.drei.at/redirect/bm_friendfinder</bookmarkitem>
+    </mccmnc>
+    <mccmnc value="23210">
+        <bookmarkitem title="Planet3">https://mobile.drei.at/redirect/bm_planet3</bookmarkitem>
+        <bookmarkitem title="3Kundenzone">https://mobile.drei.at/redirect/bm_kundenzone</bookmarkitem>
+        <bookmarkitem title="3Film">https://mobile.drei.at/redirect/bm_3Film</bookmarkitem>
+        <bookmarkitem title="3Kiosk">https://mobile.drei.at/redirect/bm_kiosk</bookmarkitem>
+        <bookmarkitem title="3MobileTV">https://mobile.drei.at/redirect/bm_mobiletv</bookmarkitem>
+        <bookmarkitem title="3Newsflash">https://mobile.drei.at/redirect/bm_newsflash</bookmarkitem>
+        <bookmarkitem title="Spiele">https://mobile.drei.at/redirect/bm_spiele</bookmarkitem>
+        <bookmarkitem title="News">https://mobile.drei.at/redirect/bm_news</bookmarkitem>
+        <bookmarkitem title="Sport Live">https://mobile.drei.at/redirect/bm_sport</bookmarkitem>
+        <bookmarkitem title="Wetter">https://mobile.drei.at/redirect/bm_wetter</bookmarkitem>
+        <bookmarkitem title="3Empfiehlt">https://mobile.drei.at/redirect/bm_empfiehlt</bookmarkitem>
+        <bookmarkitem title="3Friendfinder">https://mobile.drei.at/redirect/bm_friendfinder</bookmarkitem>
+    </mccmnc>
+    <mccmnc value="25001">
+        <bookmarkitem title="Huawei Device">http://shop.huawei.ru/?utm_campaign=vendor_preinstall&amp;utm_source=android_browser&amp;utm_medium=redirect&amp;utm_content=link</bookmarkitem>
+        <bookmarkitem title="Яндекс">http://www.yandex.ru/?clid=1875763</bookmarkitem>
+    </mccmnc>
+    <mccmnc value="25002">
+        <bookmarkitem title="Huawei Device">http://shop.huawei.ru/?utm_campaign=vendor_preinstall&amp;utm_source=android_browser&amp;utm_medium=redirect&amp;utm_content=link</bookmarkitem>
+        <bookmarkitem title="Яндекс">http://www.yandex.ru/?clid=1875763</bookmarkitem>
+    </mccmnc>
+    <mccmnc value="25003">
+        <bookmarkitem title="Huawei Device">http://shop.huawei.ru/?utm_campaign=vendor_preinstall&amp;utm_source=android_browser&amp;utm_medium=redirect&amp;utm_content=link</bookmarkitem>
+        <bookmarkitem title="Яндекс">http://www.yandex.ru/?clid=1875763</bookmarkitem>
+    </mccmnc>
+    <mccmnc value="25005">
+        <bookmarkitem title="Huawei Device">http://shop.huawei.ru/?utm_campaign=vendor_preinstall&amp;utm_source=android_browser&amp;utm_medium=redirect&amp;utm_content=link</bookmarkitem>
+        <bookmarkitem title="Яндекс">http://www.yandex.ru/?clid=1875763</bookmarkitem>
+    </mccmnc>
+    <mccmnc value="25007">
+        <bookmarkitem title="Huawei Device">http://shop.huawei.ru/?utm_campaign=vendor_preinstall&amp;utm_source=android_browser&amp;utm_medium=redirect&amp;utm_content=link</bookmarkitem>
+        <bookmarkitem title="Яндекс">http://www.yandex.ru/?clid=1875763</bookmarkitem>
+    </mccmnc>
+    <mccmnc value="25011">
+        <bookmarkitem title="Huawei Device">http://shop.huawei.ru/?utm_campaign=vendor_preinstall&amp;utm_source=android_browser&amp;utm_medium=redirect&amp;utm_content=link</bookmarkitem>
+        <bookmarkitem title="Яндекс">http://www.yandex.ru/?clid=1875763</bookmarkitem>
+    </mccmnc>
+    <mccmnc value="25012">
+        <bookmarkitem title="Huawei Device">http://shop.huawei.ru/?utm_campaign=vendor_preinstall&amp;utm_source=android_browser&amp;utm_medium=redirect&amp;utm_content=link</bookmarkitem>
+        <bookmarkitem title="Яндекс">http://www.yandex.ru/?clid=1875763</bookmarkitem>
+    </mccmnc>
+    <mccmnc value="25015">
+        <bookmarkitem title="Huawei Device">http://shop.huawei.ru/?utm_campaign=vendor_preinstall&amp;utm_source=android_browser&amp;utm_medium=redirect&amp;utm_content=link</bookmarkitem>
+        <bookmarkitem title="Яндекс">http://www.yandex.ru/?clid=1875763</bookmarkitem>
+    </mccmnc>
+    <mccmnc value="25016">
+        <bookmarkitem title="Huawei Device">http://shop.huawei.ru/?utm_campaign=vendor_preinstall&amp;utm_source=android_browser&amp;utm_medium=redirect&amp;utm_content=link</bookmarkitem>
+        <bookmarkitem title="Яндекс">http://www.yandex.ru/?clid=1875763</bookmarkitem>
+    </mccmnc>
+    <mccmnc value="25017">
+        <bookmarkitem title="Huawei Device">http://shop.huawei.ru/?utm_campaign=vendor_preinstall&amp;utm_source=android_browser&amp;utm_medium=redirect&amp;utm_content=link</bookmarkitem>
+        <bookmarkitem title="Яндекс">http://www.yandex.ru/?clid=1875763</bookmarkitem>
+    </mccmnc>
+    <mccmnc value="25019">
+        <bookmarkitem title="Huawei Device">http://shop.huawei.ru/?utm_campaign=vendor_preinstall&amp;utm_source=android_browser&amp;utm_medium=redirect&amp;utm_content=link</bookmarkitem>
+        <bookmarkitem title="Яндекс">http://www.yandex.ru/?clid=1875763</bookmarkitem>
+    </mccmnc>
+    <mccmnc value="25020">
+        <bookmarkitem title="Huawei Device">http://shop.huawei.ru/?utm_campaign=vendor_preinstall&amp;utm_source=android_browser&amp;utm_medium=redirect&amp;utm_content=link</bookmarkitem>
+        <bookmarkitem title="Яндекс">http://www.yandex.ru/?clid=1875763</bookmarkitem>
+    </mccmnc>
+    <mccmnc value="25027">
+        <bookmarkitem title="Huawei Device">http://shop.huawei.ru/?utm_campaign=vendor_preinstall&amp;utm_source=android_browser&amp;utm_medium=redirect&amp;utm_content=link</bookmarkitem>
+        <bookmarkitem title="Яндекс">http://www.yandex.ru/?clid=1875763</bookmarkitem>
+    </mccmnc>
+    <mccmnc value="25028">
+        <bookmarkitem title="Huawei Device">http://shop.huawei.ru/?utm_campaign=vendor_preinstall&amp;utm_source=android_browser&amp;utm_medium=redirect&amp;utm_content=link</bookmarkitem>
+        <bookmarkitem title="Яндекс">http://www.yandex.ru/?clid=1875763</bookmarkitem>
+    </mccmnc>
+    <mccmnc value="25035">
+        <bookmarkitem title="Huawei Device">http://shop.huawei.ru/?utm_campaign=vendor_preinstall&amp;utm_source=android_browser&amp;utm_medium=redirect&amp;utm_content=link</bookmarkitem>
+        <bookmarkitem title="Яндекс">http://www.yandex.ru/?clid=1875763</bookmarkitem>
+    </mccmnc>
+    <mccmnc value="25037">
+        <bookmarkitem title="Huawei Device">http://shop.huawei.ru/?utm_campaign=vendor_preinstall&amp;utm_source=android_browser&amp;utm_medium=redirect&amp;utm_content=link</bookmarkitem>
+        <bookmarkitem title="Яндекс">http://www.yandex.ru/?clid=1875763</bookmarkitem>
+    </mccmnc>
+    <mccmnc value="25038">
+        <bookmarkitem title="Huawei Device">http://shop.huawei.ru/?utm_campaign=vendor_preinstall&amp;utm_source=android_browser&amp;utm_medium=redirect&amp;utm_content=link</bookmarkitem>
+        <bookmarkitem title="Яндекс">http://www.yandex.ru/?clid=1875763</bookmarkitem>
+    </mccmnc>
+    <mccmnc value="25039">
+        <bookmarkitem title="Huawei Device">http://shop.huawei.ru/?utm_campaign=vendor_preinstall&amp;utm_source=android_browser&amp;utm_medium=redirect&amp;utm_content=link</bookmarkitem>
+        <bookmarkitem title="Яндекс">http://www.yandex.ru/?clid=1875763</bookmarkitem>
+    </mccmnc>
+    <mccmnc value="25099">
+        <bookmarkitem title="Huawei Device">http://shop.huawei.ru/?utm_campaign=vendor_preinstall&amp;utm_source=android_browser&amp;utm_medium=redirect&amp;utm_content=link</bookmarkitem>
+        <bookmarkitem title="Яндекс">http://www.yandex.ru/?clid=1875763</bookmarkitem>
+    </mccmnc>
+    <mccmnc value="25701">
+        <bookmarkitem title="Яндекс">http://www.yandex.ru/?clid=1875763</bookmarkitem>
+        <bookmarkitem title="Huawei Consumer">http://www.huawei.by</bookmarkitem>
+    </mccmnc>
+    <mccmnc value="25702">
+        <bookmarkitem title="Яндекс">http://www.yandex.ru/?clid=1875763</bookmarkitem>
+        <bookmarkitem title="Huawei Consumer">http://www.huawei.by</bookmarkitem>
+    </mccmnc>
+    <mccmnc value="25704">
+        <bookmarkitem title="Яндекс">http://www.yandex.ru/?clid=1875763</bookmarkitem>
+        <bookmarkitem title="Huawei Consumer">http://www.huawei.by</bookmarkitem>
+    </mccmnc>
+    <mccmnc value="34001">
+        <bookmarkitem title="Orange_ca">http://3g.orangecaraibe.com</bookmarkitem>
+    </mccmnc>
+    <mccmnc value="26202F02">
+        <bookmarkitem title="1&amp;1 Portal">https://home.1und1.de/</bookmarkitem>
+    </mccmnc>
+    <mccmnc value="26203F01">
+        <bookmarkitem title="1&amp;1 Portal">https://home.1und1.de/</bookmarkitem>
+    </mccmnc>
+    <mccmnc value="26207F02">
+        <bookmarkitem title="1&amp;1 Portal">https://home.1und1.de/</bookmarkitem>
+    </mccmnc>
+    <mccmnc value="23410F03">
+        <bookmarkitem title="Tesco Mobile">http://www.tescomobile.com/</bookmarkitem>
+    </mccmnc>
+    <mccmnc_language value="21401F09_es_ES"  bookmarks_folder_name="Favoritos del Operador">
+        <bookmarkitem title="Vodafone Start">http://start.vodafone.com</bookmarkitem>
+        <bookmarkitem title="Mi Vodafone">http://m.vodafone.es/</bookmarkitem>
+        <bookmarkitem title="Mi Web">http://miweb.vodafone.es/</bookmarkitem>
+    </mccmnc_language>
+    <mccmnc_language value="21401F01_es_ES"  bookmarks_folder_name="Favoritos del Operador">
+        <bookmarkitem title="Vodafone Start">http://start.vodafone.com</bookmarkitem>
+        <bookmarkitem title="Mi Vodafone">http://m.vodafone.es/</bookmarkitem>
+        <bookmarkitem title="Mi Web">http://miweb.vodafone.es/</bookmarkitem>
+    </mccmnc_language>
+    <mccmnc_language value="21404_es_ES"  bookmarks_folder_name="Favoritos del Operador">
+        <bookmarkitem title="Yoigo SurfPort">http://movil.yoigo.es</bookmarkitem>
+    </mccmnc_language>
+    <mccmnc_language value="21407_es_ES"  bookmarks_folder_name="Favoritos del Operador">
+       <bookmarkitem title="emoción">http://wap.movistar.com/?bdp=fav</bookmarkitem>
+       <bookmarkitem title="Movistar.es">http://www.movistar.es</bookmarkitem>
+    </mccmnc_language>
+</bookmarks_config>
+<!-- AR000A6OO1 xubin wx533115 20180208 end -->

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+rule type:
+0  the Net match
+1  the card match
+-->
+<Datas version="1">
+    <!-- DTS2018041607138 hesen/hwx553920 20180425 begin -->
+    <!--dataenabletable  numeric="26006"/>
+    <dataenabletable  numeric="26003"/>
+    <dataenabletable  numeric="26001"/>
+    <dataenabletable  numeric="26002"/>
+    <dataenabletable  numeric="21401"/>
+    <dataenabletable  numeric="26098"/>
+    <dataenabletable  numeric="26044"/-->
+    <!-- DTS2018041607138 hesen/hwx553920 20180425 end -->
+</Datas>

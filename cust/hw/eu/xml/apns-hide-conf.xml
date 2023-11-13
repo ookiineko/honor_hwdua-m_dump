@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<apnhideConf>
+    <apnhide mccmnc="23420" apn="3hotspot" />
+    <apnhide mccmnc="23001" apn="hos" />
+    <apnhide mccmnc="26002" apn="hos" />
+    <apnhide mccmnc="26201" apn="hos" />
+    <apnhide mccmnc="20201" apn="hos" />
+    <apnhide mccmnc="20416" apn="hos" />
+    <apnhide mccmnc="20420" apn="hos" />
+    <apnhide mccmnc="23102" apn="hos" />
+    <apnhide mccmnc="21901" apn="hos" />
+    <apnhide mccmnc="28602" apn="tapn" />
+</apnhideConf>

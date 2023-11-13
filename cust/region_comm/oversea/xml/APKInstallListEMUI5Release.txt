@@ -1,0 +1,4 @@
+/data/dataapp/HwSoundRecorder/HwSoundRecorder.apk
+/data/hw_init/cust/app/HwDetectRepair/HwDetectRepair.apk,priv
+/data/dataapp/HwPhoneService/HwPhoneService.apk,priv
+/data/hw_init/cust/app/HwCloudDrive_Local/HwCloudDrive_Local.apk,sys

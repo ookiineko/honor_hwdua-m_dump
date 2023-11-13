@@ -1,0 +1,9 @@
+###################################################
+## Add for version number config.                ##
+###################################################
+
+ro.dual.sim.phone=true
+
+#DTS2018051105570 lwx550661 20180511 begin
+ro.config.networktype_char=true
+#DTS2018051105570 lwx550661 20180511 end

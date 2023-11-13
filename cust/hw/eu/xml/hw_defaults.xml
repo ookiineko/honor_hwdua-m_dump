@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+/**
+ * Copyright (c) 2009, The Android Open Source Project
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *     http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+-->
+
+<resources>
+    <!--******************************** 1.PROTOCOL TEAM BEGIN -->
+
+    <!--******************************** 1.PROTOCOL TEAM END -->
+    <!--******************************** 2.APP MANUFACTURE TEAM BEGIN -->
+
+    <!--******************************** 2.APP MANUFACTURE TEAM END -->
+    <!--******************************** 3.BASEAPP TEAM BEGIN -->
+
+    <!--******************************** 3.BASEAPP TEAM END -->
+    <!--******************************** 4.MULTI-MEDIA TEAM BEGIN -->
+
+    <!--******************************** 4.MULTI-MEDIA TEAM END -->
+    <!--******************************** 5.FRAMEWORK TEAM BEGIN -->
+
+    <!--******************************** 5.FRAMEWORK TEAM END -->
+    <!--******************************** 6.DATA SERVICE TEAM BEGIN -->
+
+    <!--******************************** 6.DATA SERVICE TEAM END -->
+    <!--******************************** 7.APPLET TEAM BEGIN -->
+
+    <!--******************************** 7.APPLET TEAM END -->
+    <!--******************************** 8.CUSTOM TEAM BEGIN -->
+    <!--AR000A7B6S zhourui zwx380527 20180209 begin -->
+    <string app_name_two_lines="true"/>
+    <string app_name_calculate_two_lines="true"/>
+    <!--AR000A7B6S zhourui zwx380527 20180209 end -->
+    <!-- AR000A6PH5 wangxiaomao/wwx276169 20180207 begin -->
+    <string list_dual_imsi_apn_area="21407"/>
+    <string hw_prefered_apn_by_imsi="true" />
+    <!-- AR000A6PH5 wangxiaomao/wwx276169 20180207 end -->
+    <!-- AR000A6OQ9 wangxiaomao/wwx276169 20180207 begin -->
+    <!-- AR000A6ORM liuzhen/lwx364114 20180214 begin -->
+    <string predefined_hotline_numbers="pl:260:911:0,Połączenie alarmowe;pl:260:911:1,Połączenie alarmowe;all:26001:997:0,Policja;all:26001:998:0,Straż pożarna;all:26001:999:0,Pogotowie ratunkowe;pl:26001:112:0,Połączenie alarmowe;all:26002:997:0,Policja;all:26002:998:0,Straż pożarna;all:26002:999:0,Pogotowie ratunkowe;pl:26002:112:0,Połączenie alarmowe;all:26003:997:0,Policja;all:26003:998:0,Straż pożarna;all:26003:999:0,Pogotowie ratunkowe;pl:26003:112:0,Połączenie alarmowe;all:26006:997:0,Policja;all:26006:998:0,Straż pożarna;all:26006:999:0,Pogotowie ratunkowe;pl:26006:112:0,Połączenie alarmowe;all:26001:997:1,Policja;all:26001:998:1,Straż pożarna;all:26001:999:1,Pogotowie ratunkowe;pl:26001:112:1,Połączenie alarmowe;all:26002:997:1,Policja;all:26002:998:1,Straż pożarna;all:26002:999:1,Pogotowie ratunkowe;pl:26002:112:1,Połączenie alarmowe;all:26003:997:1,Policja;all:26003:998:1,Straż pożarna;all:26003:999:1,Pogotowie ratunkowe;pl:26003:112:1,Połączenie alarmowe;all:26006:997:1,Policja;all:26006:998:1,Straż pożarna;all:26006:999:1,Pogotowie ratunkowe;pl:26006:112:1,Połączenie alarmowe;all:23101:999:1,Infolinka"/>
+    <!-- AR000A6ORM liuzhen/lwx364114 20180214 end -->
+    <!-- AR000A6OQ9 wangxiaomao/wwx276169 20180207 end -->
+    <!-- AR000A6OQH yanhan/y00384228 20180208 begin -->
+    <!-- DTS2018040808716 yuanhao/ywx284357 20180412 begin -->
+    <string settings.secure.location_providers_allowed="gps"/>
+    <!-- DTS2018040808716 yuanhao/ywx284357 20180412 end -->
+    <!-- AR000A6OQH yanhan/y00384228 20180208 end -->
+    <!-- AR000A6ORR yanhan/y00384228 20180209 begin -->
+    <string settings.global.vowifi_menu_hide="23415;23410"/>
+    <!-- AR000A6ORR yanhan/y00384228 20180209 end -->
+    <!-- DTS2018030703487 yanhan/y00384228 20180312 begin -->
+    <string plmnNotToSettings="21404"/>
+    <!-- DTS2018030703487 yanhan/y00384228 20180312 end -->
+    <!-- AR000A6OOJ zhangyan WX284356 20180208 begin -->
+    <integer hw_forward_popedom="1"/>
+    <!-- AR000A6OOJ zhangyan WX284356 20180208 end -->
+    <!-- AR000A6OPU yuanbin wx218297 20180208 begin -->
+    <integer hw_default_front_timer_value="0"/>
+    <string hw_front_cam_photomode="PhotoMode"/>
+    <!-- AR000A6OPU yuanbin wx218297 20180208 end -->
+    <!-- DTS2018030704959   yuanbin/ywx218297 20180312 begin -->
+    <string hw_front_cam_videomode="VideoMode"/>
+    <!-- DTS2018030704959   yuanhao/ywx218297 20180312 end -->
+    <!-- AR000A7B57 WANGDAN KF64497 20180208 begin -->
+    <string hw_hide_font_style="true"/>
+    <!-- AR000A7B57 WANGDAN WKF64497 20180208 end -->
+    <!-- AR000AAGG1 yanhan/y00384228 20180305 begin -->
+    <!-- AR000A6OO7 wangxu wwx221986 20180208 begin -->
+    <integer wifi_hotspot_auto_disable="1"/>
+    <!-- AR000A6OO7 wangxu wwx221986 20180208  end -->
+    <!-- AR000AAGG1 yanhan/y00384228 20180305 end -->
+    <!-- AR000A6OR8 wangxu wwx221986 20180208 begin -->
+    <integer wifi_hotspot_max_client_num="5"/>
+    <!-- AR000A6OR8 wangxu wwx221986 20180208 end -->
+    <!-- AR000A6OQQ liuzhen/lwx364114 20180208 begin -->
+    <integer hw_remove_2g_only_cust="21401;23430;23431;23432;23433;23434;23486;23420;23594"/>
+    <integer hw_display_sms_cust="23410;23458"/>
+    <integer hw_show_4g_only_cust="250"/>
+    <integer hw_remove_3g_only_cust="21407;21404"/>
+    <integer hw_display_lte_cust="260"/>
+    <integer hw_display_S4G_cust ="286"/>
+    <integer hw_remove_2g_3g_only_cust  ="26801"/>
+    <!-- AR000A6OQQ liuzhen/lwx364114 20180208 end -->
+    <!-- AR000A6OO8 wangxudong wwx424853 20180208 begin -->
+    <string black_languages="tr_CY,es_EA,es_IC"/>
+    <!-- AR000A6OO8 wangxuodng wwx424853 20180208 end -->
+    <!-- AR000A6OS0 zhancaijin/00310544 20180208 begin -->
+    <string clir_config_enable="24601"/>
+    <!-- AR000A6OS0 zhancaijin/00310544 20180208 end -->
+    <!-- AR000A6OO5 zhuxiang/308588 20180208 begin-->
+    <string hw_skip_data_roaming_gid="b2,b3,c3,B2,B3,C3"/>
+    <!-- AR000A6OO5 zhuxiang/308588 20180208 begin-->
+    <!-- AR000A6ORP yuanjuan wx467448 20180227 begin -->
+    <integer battery_percent_switch="1"/>
+    <!-- AR000A6ORP yuanjuan wx467448 20180227 end -->
+    <!-- AR000A6PPP shixiaogang s00323469 20180208 begin -->
+    <string change_sort_by_lang="hu_HU:2,2"/>
+    <!-- AR000A6PPP shixiaogang s00323469 20180208 end -->
+    <!-- AR000A6ONV zhancaijin/00310544 20180208 begin-->
+    <string omacp_apn_add_supl="21404"/>
+    <!-- AR000A6ONV zhancaijin/00310544 20180208 end-->
+    <!-- AR000A6OFK liuzhen/lwx364114 20180208 begin-->
+    <string hw_data_roam_option="26006,27211"/>
+    <string hw_default_roaming_type_by_mccmnc="26006:1;27211:1"/>
+    <!-- AR000A6OFK liuzhen/lwx364114 20180208 end-->
+    <!-- AR000A6OFI yuanjuan wx467448 20180208 begin -->
+    <string cust_show_4_5G_for_mcc="286"/>
+    <string cust_showlte="260;23001;26201;23203;23207"/>
+    <string cust_show_2g_3gplus="20810;20809"/>
+    <!-- AR000A6OFI yuanjuan wx467448 20180208 begin -->
+    <!-- AR000A6OQC yuanhao/wx284357 20180208 begin -->
+    <integer settings.system.haptic_feedback_enabled="0"/>
+    <!-- AR000A6OQC yuanhao/wx284357 20180208  end -->
+    <!--AR000A0G53 zhourui zwx380527 20180208 begin -->
+    <string enable_not_remind_function="true"/>
+    <integer whether_show_pdp_warning="1"/>
+    <string plmn_remind_data_service="26006,26003,26001,26002,26098,26044"/>
+    <!--AR000A0G53 zhourui zwx380527 20180208 end -->
+    <!-- AR000A6ORN jigang/jwx530065 20180208 begin -->
+    <integer settings.system.lockscreen_sounds_enabled="0"/>
+    <!-- AR000A6ORN jigang/jwx530065 20180208  end -->
+    <!-- AR000A6OSC qinjinqiao/qwx323026 20180208 begin -->
+    <!-- AR000A6ORG majinlong/mwx513648 20180309 begin -->
+    <!-- DTS2018032814593 majinlong/mwx513648 20180329 begin -->
+    <string custSyncIntervalByMccMnc="23203:-2:-1;23207:-2:-1;23001:-2:-1;21901:-2:-1;26201:-2:-1;20201:-2:-1;21630:-2:-1;29401:-2:-1;29702:-2:-1;22004:-2:-1;20416:-2:-1;20420:-2:-1;26002:-2:-1;22603:-2:-1;22606:-2:-1;23102:-2:-1;21401:-2:-1;23415:-2:-1;27201:-2:-1;22210:-2:-1;20205:-2:-1;22601:-2:-1;26202:-2:-1;65501:-2:15;21670:-2:15"/>
+    <!-- DTS2018032814593 majinlong/mwx513648 20180329 end -->
+    <!-- AR000A6ORG majinlong/mwx513648 20180309 end -->
+    <!-- AR000A6OSC qinjinqiao/qwx323026 20180208  end -->
+    <!-- AR000A6OPE yunian/y00378902 20180209 begin -->
+    <string hw_2gonly_psnotallowed="23410"/>
+    <!-- AR000A6OPE yunian/y00378902 20180209 end -->
+    <!-- AR000A7B6V yunian/y00378902 20180209 begin -->
+    <string compatible_apn_plmn="21630"/>
+    <!-- AR000A7B6V yunian/y00378902 20180209 end -->
+    <!-- AR000A6ORO wangxudong wwx424853 20180209 begin -->
+    <integer settings.system.screen_brightness_mode="1"/>
+    <!-- AR000A6ORO wangxudong wwx424853 20180209 end -->
+    <!-- AR000A6OP7 WANGDAN KF64497 20180209 begin -->
+    <string hw_apn_authtype="23410:1;"/>
+    <!-- AR000A6OP7 WANGDAN/KF64497 20180209 end -->
+    <!-- AR000A6ORE qinjinqiao/qwx323026 20180209 begin -->
+    <integer eas_default_check_interval="-2"/>
+    <!-- AR000A6ORE qinjinqiao/qwx323026 20180209  end -->
+    <!-- AR000A6OS3 chenke/cwx437466 20180209 begin -->
+    <string hide_violence_number_from_mcc="214:34-016"/>
+    <!-- AR000A6OS3 chenke/cwx437466 20180209 end -->
+    <!-- AR000A6OQD chenke/cwx437466 20180209 begin -->
+    <integer settings.system.dtmf_tone="0"/>
+    <!-- AR000A6OQD chenke/cwx437466 20180209 end -->
+    <!-- AR000A6OQB jigang/jwx530065 20180208 begin -->
+    <integer sound_effects_enabled="0"/>
+    <!-- AR000A6OQB jigang/jwx530065 20180208 end -->
+    <!-- AR000A7B6U wangxiaomao/wx276169 20180209 begin -->
+    <string hw_callforward_networkname="260"/>
+    <!-- AR000A7B6U wangxiaomao/wx276169 20180209 end -->
+    <!-- AR000A6OR2 zhuruping/zwx463324 20180211 begin -->
+    <string hw_ussd_regex="23415,(^#153#1234|#132#(\d+)\*|#45#(\d+)\*$);"/>
+    <!-- AR000A6OR2 zhuruping/zwx463324 20180211 end -->
+    <!-- AR000B0B43 AR000B0B2L chenweihui/c00383707 20180724  begin -->
+    <!-- AR000A6ONU panlunpeng/pwx412260 20180211  begin -->
+    <string hw_predefined_eap_sim="22801:Swisscom_Auto_Login;23410:Wifi Extra;23410: Wifi Extra;23410:Wifi+;20815:FreeWifi_secure;27603:ALBwifi;23415:VodafoneWiFi:EAP_AKA;20404:Vodafone NL Wifi:EAP_AKA;65501:Vodacom.smallcell;21401:VodafoneWiFi;26801:VodafoneWiFi;27201:VodafoneWiFi;22210:VodafoneWiFi;20601:VodafoneWiFi;27801:VodafoneWiFi;20205:VodafoneWiFi;21670:VodafoneWiFi;23003:VodafoneWiFi;22601:VodafoneWiFi;27602:VodafoneWiFi;28602:VodafoneWiFi;21671:UPC Wi-Free:EAP_AKA;23213:UPC Wi-Free:EAP_AKA"/>
+    <!-- AR000B3AGH chenweihui/c00383707 20180803  begin -->
+    <string wifi_notdel_notedit="Wifi+;Wifi Extra; Wifi Extra;VodafoneWiFi;Vodafone NL Wifi;Vodacom.smallcell"/>
+    <!-- AR000B3AGH chenweihui/c00383707 20180803  end -->
+    <!-- AR000A6ONU panlunpeng/pwx412260 20180211  end -->
+    <!-- AR000B0B43 AR000B0B2L chenweihui/c00383707 20180724  end -->
+    <!-- AR000A6OS7/AR000A6PJL、AR000A6PQ6 fengyuping/fwx452421 20180213 begin -->
+    <string hw_vmtag_follow_language="23213"/>
+    <!-- AR000A6OS7/AR000A6PJL、AR000A6PQ6 fengyuping/fwx452421 20180213 end -->
+    <!-- AR000A6ORT lihui/lwx446403 20180223 begin -->
+    <string hw_CustomNumberRelevance="250:10:8,+7;257:9:80,+375"/>
+    <!-- AR000A6ORT lihui/lwx446403 20180223 end -->
+    <!--AR000A6OPI panlunpeng/pwx412260 20180308  begin-->
+    <integer select_open_configure_wi_fi_hotspot="1"/>
+    <!--AR000A6OPI panlunpeng/pwx412260 20180308  end-->
+    <!-- DTS2018030704438 yuanhao/ywx284357 20180309 begin -->
+    <string hw_hide_eap_sim_method="262"/>
+    <!-- DTS2018030704438 yuanhao/ywx284357 20180309 end -->
+    <!-- AR000AAVN5 wangxiaodan/wwx479733 20180319 begin -->
+    <integer settings.global.wifi_sleep_policy="2"/>
+    <!-- AR000AAVN5 wangxiaodan/wwx479733 20180319 end -->
+    <!--AR000A7B6R lanzhe/lwx515148 20180410 begin-->
+    <integer discard_invalid_omacp="1"/>
+    <!--AR000A7B6R lanzhe/lwx515148 20180410 end-->
+    <!-- DTS2018041607138 hesen/hwx553920 20180425 begin -->
+    <!-- AR000AJS4F hesen/hwx553920 20180508 begin -->
+    <string set_data_enable_by_hplmn="26006,0;26003,0;26001,0;26002,0;21401,0;26098,0;26044,0;21407,0;"/>
+    <!-- AR000AJS4F hesen/hwx553920 20180508 end -->
+    <!-- DTS2018041607138 hesen/hwx553920 20180425 end -->
+    <!-- AR000ALBTN wangxiaomao/wx276169 20180523 begin -->
+    <string settings.global.filter_audiofocus_pkglist="com.google.android.apps.tachyon;com.facebook.orca;"/>
+    <!-- AR000ALBTN wangxiaomao/wx276169 20180523 end -->
+    <!-- DTS2018062901931 hesen/hwx553920 20180630 begin -->
+    <string set_data_enable_by_dataSubID_change="26006,26003,26001,26002,21401,26098,26044,21407"/>
+    <!-- DTS2018062901931 hesen/hwx553920 20180630 end -->
+    <!-- AR000A6ORR dangdanyang dwx490343 20180704 begin -->
+    <string settings.global.hw_hide_pop_for_mcc="23420;23420F01;23594;21603"/>
+    <!-- AR000A6ORR dangdanyang dwx490343 20180704 end -->
+    <!--AR000B6673 liuhaochen/lwx585350 20180823 begin-->
+    <string hw_set_mtu_by_mccmnc="28401,1500"/>
+    <!--AR000B6673 liuhaochen/lwx585350 20180823 end-->
+    <!--AR000B7A3C nieying/nwx596018 20180829 begin-->
+    <string custom_sms_shortcodes="555;2043;2050;2051;2052;2053;2070"/>
+    <!--AR000B7A3C nieying/nwx596018 20180829 end-->
+</resources>

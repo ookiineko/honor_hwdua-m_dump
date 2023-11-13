@@ -1,0 +1,2 @@
+/data/hw_init/cust/app/PredefinedEapSim/PredefinedEapSim.apk
+/data/dataapp/HwTrustCircle/HwTrustCircle.apk

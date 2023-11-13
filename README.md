@@ -1,0 +1,20 @@
+## "DUA-L22-user 8.1.0 HONORDUA-L22 1.0.0.145(C432) release-keys"
+- Manufacturer: huawei
+- Platform: mt6739
+- Codename: HWDUA-M
+- Brand: HONOR
+- Flavor: full_dura64-user
+- Release Version: 8.1.0
+- Kernel Version: 4.4.95
+- Id: HONORDUA-L22
+- Incremental: 1.0.0.145(C432)
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: false
+- Treble Device: true
+- Locale: en-US
+- Screen Density: undefined
+- Fingerprint: HONOR/DUA-L22/HWDUA-M:8.1.0/HONORDUA-L22/1.0.0.145(C432):user/release-keys
+- OTA version: 
+- Branch: "DUA-L22-user-8.1.0-HONORDUA-L22-1.0.0.145(C432)-release-keys"
+- Repo: honor_hwdua-m_dump

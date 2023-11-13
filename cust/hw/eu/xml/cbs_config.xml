@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cbs_config version="4">
+    <!-- SW_GLOBAL_EUROPE_087 begin -->
+    <string name="custMccForCBSPreference">204</string>
+    <!--AR000A6OQV limei/lwx217589 20180226 begin -->
+    <int name="add_channel_by_product_6" isVisiable="true" channelName="916" defaultChecked="true" mccShow="22605">916</int>
+    <int name="add_channel_by_product_7" isVisiable="true" channelName="917" defaultChecked="true" mccShow="22605">917</int>
+    <int name="add_channel_by_product_8" isVisiable="true" channelName="918" defaultChecked="true" mccShow="22605">918</int>
+    <!--AR000A6OQV limei/lwx217589 20180226 end -->
+    <!---AR000AP0IT limei/lwx217589 20180608 begin -->
+    <int name="add_channel_by_product_9" isVisiable="true" channelName="916" defaultChecked="true" mccShow="22603;22606">916</int>
+    <int name="add_channel_by_product_10" isVisiable="true" channelName="917" defaultChecked="false" mccShow="22603;22606">917</int>
+    <int name="add_channel_by_product_11" isVisiable="true" channelName="918" defaultChecked="false" mccShow="22603;22606">918</int>
+    <int name="add_channel_by_product_12" isVisiable="true" channelName="919" defaultChecked="false" mccShow="22603;22606">919</int>
+    <!---AR000AP0IT limei/lwx217589 20180608 end -->
+    <!-- DTS2016020600986 zhangxinsheng 00221699 2016-2-17 begin -->
+    <!-- DTS2016021903227 panyu WX224526 2016-2-29 begin -->
+    <!-- AR00044TKH panyu WX224526 2016-4-19 begin -->
+    <!-- AR0009K3TI zhangyuanshu 00213359 20170901 begin -->
+    <!-- AR0009J1IA yuanshiping wx427276 20170918 begin -->
+    <!-- PD version inheritance relationship changes -->
+    <int name="add_channel_by_product_1" isVisiable="true" channelName="919" defaultChecked="true" mccShow="-204;21630;20201;23102;29401;26201;29702;23001;21901;23203;23207;22603;22606;260">919</int>
+    <int name="add_channel_by_product_3" isVisiable="true" channelName="920" defaultChecked="true" mccShow="-204;21630;20201;23102;29401;26201;29702;23001;21901;23203;23207;22603;22606;260">920</int>
+    <int name="add_channel_by_product_4" isVisiable="true" channelName="921" defaultChecked="true" mccShow="-204;21630;20201;23102;29401;26201;29702;23001;21901;23203;23207;22603;22606;260">921</int>
+    <int name="add_channel_by_product_5" isVisiable="true" channelName="922" defaultChecked="true" mccShow="-204;21630;20201;23102;29401;26201;29702;23001;21901;23203;23207;22603;22606;260">922</int>
+    <!-- AR0009J1IA yuanshiping wx427276 20170918 end -->
+    <!-- AR0009K3TI zhangyuanshu 00213359 20170901 end -->
+    <!-- AR0003TIKA panyu WX224526 20160617 begin -->
+    <string name="custMccForDisableCbs">260</string>
+    <!-- AR0003TIKA panyu WX224526 20160617 end -->
+    <!-- AR00044TKH panyu WX224526 2016-4-19 end -->
+    <!-- DTS2016021903227 panyu WX224526 2016-2-29 end -->
+    <!-- DTS2016020600986 zhangxinsheng 00221699 2016-2-17 end -->
+    <!-- SW_GLOBAL_EUROPE_087 end -->
+    <!--AR000A6OQV limei/lwx217589 20180226 begin -->
+    <string name="cust_ro_alert">226</string>
+    <!--AR000A6OQV limei/lwx217589 20180226 end -->
+</cbs_config>

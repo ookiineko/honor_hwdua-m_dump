@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cbs_config version="4">
+
+    <!-- DTS2015031804338 begin -->
+    <bool name="check_language_code">false</bool>
+    <bool name="show_language_select">false</bool> 
+    <!-- DTS2015031804338 end -->
+    <!-- DTS2015092902843 begin -->
+    <!-- Whether to enable ETWS settings (Japan) -->
+    <bool name="show_etws_settings">true</bool>
+    <!-- Whether to enable CMAS settings (United States) -->
+    <bool name="show_cmas_settings">true</bool>
+    <!-- Whether to show channel config -->
+    <bool name="show_channel_config">true</bool>
+    <!-- Whether to show repeat time -->
+    <bool name="show_repeat_time">true</bool>
+    <!-- Whether to enable setting alert from language to speech-->
+    <bool name="show_language_speech">true</bool>
+    <!-- Whether the alert duration setting enable-->
+    <bool name="show_alert_duration">true</bool>
+    <!-- if opened, when simcard is changed, all user's settings should reset -->
+    <bool name="check_sim_changed">true</bool>
+    <!-- Whether to igore the reduplicate message -->
+    <bool name="enable_ignore_reduplicate_message">true</bool>
+    <!-- DTS2015092902843 end -->
+</cbs_config>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contacts version="1">
+    <!-- Spanic-->
+<contact mcc="214" mnc="07" name="Atención al Cliente" number="1004"/>
+<contact mcc="214" mnc="07" name="At. Cliente (extranjero)" number="+34699991004"/>
+<contact mcc="214" mnc="07" name="Inf. 11822" number="11822"/>
+<contact mcc="214" mnc="07" name="Activar Buzón Movistar" number="22500"/>
+<contact mcc="214" mnc="07" name="Emergencias" number="112"/>
+<contact mcc="214" mnc="07" name="Atención Negocios" number="900101010"/>
+</contacts>

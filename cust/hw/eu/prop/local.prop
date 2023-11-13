@@ -1,0 +1,246 @@
+#############################################################################
+########"      __        __               _                     "############
+########"      \ \      / /_ _ _ __ _ __ (_)_ __   __ _         "############
+########"       \ \ /\ / / _` | '__| '_ \| | '_ \ / _` |        "############
+########"        \ V  V / (_| | |  | | | | | | | | (_| |        "############
+########"         \_/\_/ \__,_|_|  |_| |_|_|_| |_|\__, |        "############
+########"                                         |___/         "############
+########"                                                       "############
+########"   ONLY DRIVER PROPS ALLOWED IN THIS SECTION BEGIN     "############
+
+
+########"                                                       "############
+########"                                                       "############
+########"   ONLY DRIVER PROPS ALLOWED IN THIS SECTION END       "############
+#############################################################################
+
+#############################################################################
+########"      __        __               _                     "############
+########"      \ \      / /_ _ _ __ _ __ (_)_ __   __ _         "############
+########"       \ \ /\ / / _` | '__| '_ \| | '_ \ / _` |        "############
+########"        \ V  V / (_| | |  | | | | | | | | (_| |        "############
+########"         \_/\_/ \__,_|_|  |_| |_|_|_| |_|\__, |        "############
+########"                                         |___/         "############
+########"                                                       "############
+########"   ONLY PROTOCOL PROPS ALLOWED IN THIS SECTION BEGIN   "############
+#####################################################################################
+######## 1.DATA SERVICE TEAM BEGIN
+######## 1.DATA SERVICE TEAM END
+#####################################################################################
+
+########"                                                       "############
+########"                                                       "############
+########"   ONLY PROTOCOL PROPS ALLOWED IN THIS SECTION END     "############
+#############################################################################
+
+
+
+#############################################################################
+########"      __        __               _                     "############
+########"      \ \      / /_ _ _ __ _ __ (_)_ __   __ _         "############
+########"       \ \ /\ / / _` | '__| '_ \| | '_ \ / _` |        "############
+########"        \ V  V / (_| | |  | | | | | | | | (_| |        "############
+########"         \_/\_/ \__,_|_|  |_| |_|_|_| |_|\__, |        "############
+########"                                         |___/         "############
+########"                                                       "############
+########"   ONLY APP TEAM PROPS ALLOWED IN THIS SECTION BEGIN   "############
+#####################################################################################
+######## 1.APP MANUFACTURE TEAM BEGIN
+###########1.1.MMI BEGIN
+
+###########1.1.MMI END
+
+###########1.2.PROJECT MENU BEGIN
+
+###########1.2.PROJECT MENU END
+
+###########1.3.RUN IN TEST BEGIN
+
+###########1.3.RUN IN TEST END
+######## 1.APP MANUFACTURE TEAM END
+#####################################################################################
+######## 2.BASEAPP TEAM BEGIN
+ro.config.hw_opta=432
+ro.config.hw_optb=999
+######## 2.BASEAPP TEAM END
+#####################################################################################
+######## 3.MULTI-MEDIA TEAM BEGIN
+# SW_PC_COMM_431 begin
+# SW_PC_COMM_431 end
+#DTS2018030705465 yuanbin ywx218297 20180307 begin
+ro.config.hw_settings.default_ring_volume=15
+#DTS2018030705465 yuanbin ywx218297 20180307 end
+######## 3.MULTI-MEDIA TEAM END
+#####################################################################################
+######## 4.FRAMEWORK TEAM BEGIN
+
+######## 4.FRAMEWORK TEAM END
+#####################################################################################
+######## 5.DATA SERVICE TEAM BEGIN
+
+######## 5.DATA SERVICE TEAM END
+#####################################################################################
+######## 6.APPLET TEAM BEGIN
+
+######## 6.APPLET TEAM END
+#####################################################################################
+######## 7.PRODUCT INFO BEGIN
+
+######## 7.PRODUCT INFO END
+#####################################################################################
+########"                                                       "############
+########"                                                       "############
+########"   ONLY APP TEAM PROPS ALLOWED IN THIS SECTION END     "############
+#############################################################################
+#####################################################################################
+######## 8.CUSTOM TEAM BEGIN
+# PUBLIC begin
+#AR000A6ORQ zwx380527 zhourui 20180209 begin
+ro.config.ifToastDuplicateIcon=false
+#AR000A6ORQ zwx380527 zhourui 20180209 end
+# AR000AAGG1 yanhan/y00384228 20180305 begin
+ro.config.hotspot_power_mode_on=true
+# AR000AAGG1 yanhan/y00384228 20180305 end
+#AR000A6OQ9 wangxiaomao/wwx276169 20180207 begin
+ro.config.hw_radio.show_ecc_calllog=true
+#AR000A6OQ9 wangxiaomao/wwx276169 20180207 end
+# AR000A6OQF limei lwx217589 20180208 begin
+ro.cellbroadcast.emergencyids=0-65534
+# AR000A6OQF limei lwx217589 20180208 end
+######## 8.CUSTOM TEAM END
+#####################################################################################
+######## 9.VOVT TEAM BEGIN
+######## 9.VOVT TEAM END
+#####################################################################################
+#AR000A6OQE luzhen WX224727 20180208 begin
+ro.product.locale=en-GB
+#AR000A6OQE luzhen WX224727 20180208 end
+# AR000AS5FA WANGDAN KF64497 20180630 begin
+ro.config.vowifi_title=WLAN Call;Połączenie przez Wi-Fi;Wi-Fi volání
+ro.config.vowifi_title_mccmnc=26201;26002;23001
+# AR000AS5FA WANGDAN KF64497 20180630 end
+#AR000A6OOQ yuanbin ywx218297 20180319 begin
+ro.huawei.cust.oma=true
+drm.service.enabled=true
+ro.huawei.cust.oma_drm=true
+ro.huawei.cust.drm.fl_only=false
+ro.config.hw_drm_no_padscheme=true
+#AR000A6OOQ yuanbin ywx218297 20180319 end
+#AR000A6OOU yuanbin ywx218297 20180211 begin
+ro.config.huawei_safe_media=true
+ro.config.hw.security_volume=8
+#AR000A6OOU yuanbin ywx218297 20180211 end
+#AR000A6OQL zhancaijin/00310544 20180208 begin
+ro.config.hw_radio.show_sdn=true
+ro.config.hw_radio.sdn_first=true
+#AR000A6OQL zhancaijin/00310544 20180208 end
+#AR000A6OQQ liuzhen/lwx364114 20180208 begin
+ro.config.networktype=true
+#AR000A6OQQ liuzhen/lwx364114 20180208 end
+#AR000A6ORS liuzhen/lwx364114 20180208 begin
+ro.config.hw_radio_fdn_dial=true
+#AR000A6ORS liuzhen/lwx364114 20180208 end
+#AR000A6ORK liuzhen/lwx364114 20180208 begin
+ro.config.hw_radio.vm_disedit=false
+#AR000A6ORK liuzhen/lwx364114 20180208 end
+#AR000A6ORV wangxu wwx221986 20180208 begin
+ro.config.hw_is_ee_show_n=true
+#AR000A6ORV wangxu wwx221986 20180208 end
+#AR000A7B60 wangxudong/wwx424853 20180208 begin
+ro.config.noShowCityName=true
+#AR000A7B60 wangxudong/wwx424853 20180208 end
+#AR000A0G53 zwx380527 zhourui 20180208 begin
+ro.config.on_data_alert_popup=true
+#AR000A0G53 zwx380527 zhourui 20180208 end
+#AR000A6OPT qinjinqiao/qwx323026 20180208 begin
+ro.config.email_show_pb=true
+#AR000A6OPT qinjinqiao/qwx323026 20180208 end
+#AR000A6OR7 qinjinqiao/qwx323026 20180209 begin
+ro.email.inline_as_att=true
+#AR000A6OR7 qinjinqiao/qwx323026 20180209 end
+#AR000A6OP3 gaoxiang gwx527974 20180208 begin
+ro.config.hw.BH_defaultlanguage=true
+#AR000A6OP3 gaoxiang gwx527974 20180208 end
+#AR000A6ONN chenke/cwx437466 20180209 begin
+ro.config.hw_dialer.hebrew_dialpad_show=true
+#AR000A6ONN chenke/cwx437466 20180209 end
+#AR000A6OPS qinjinqiao/qwx323026 20180208 begin
+ro.config.hw_szlTextView_hint=true
+#AR000A6OPS qinjinqiao/qwx323026 20180208 end
+#AR000A6OQN WANGDAN KF64497 20180209 begin
+ro.config.iccid_language=true
+ro.config.readiccid_switch=true
+#AR000A6OQN WANGDAN/KF64497 20180209 end
+#AR000A7B6R zhancaijin/00310544 20180211 begin
+ro.config.omacp_enable_setting=true
+#AR000A7B6R zhancaijin/00310544 20180211 end
+#AR000A6OQ0 leijing lwx463323 20180212 begin
+persist.radio.fd.on.off=2
+#AR000A6OQ0 leijing lwx463323 20180212 end
+#AR000A6OPC wangxiaodan/wwx479733 20180211 begin
+ro.hw.wifi_sim_refreshed=true
+#AR000A6OPC wangxiaodan/wwx479733 20180211 end
+#AR000A6OQP qinjinqiao/qwx323026 20180213 begin
+ro.email.noreply2self=true
+#AR000A6OQP qinjinqiao/qwx323026 20180213 end
+#AR000A6OOM chenke/wx437466 20180224 begin
+ro.config.pre_contact_enabled=true
+#AR000A6OOM chenke/wx437466 20180224 end
+#AR000A6ONU panlunpeng/pwx412260 20180306 begin
+ro.config.preset_wifiByDatacard=true
+#AR000A6ONU panlunpeng/pwx412260 20180306 end
+#AR000A6ORL yuchu/00378713 20180308 BEGIN
+ro.config.hw_use_browser_ua=http://wap1.huawei.com/uaprof/HUAWEI_%s_UAProfile.xml
+#AR000A6ORL yuchu/00378713 20180308 END
+#AR000AB2CR wangxiaomao/wwx276169 20180308 BEGIN
+ro.config.hw_volte_icon_rule=0
+#AR000AB2CR wangxiaomao/wwx276169 20180308 END
+#AR000A6OQK yuanjuan/ywx467448 20180312 BEGIN
+ro.config.show4G=false
+#AR000A6OQK yuanjuan/ywx467448 20180312 END
+#DTS2018030903325  panlunpeng/pwx412260 20180313 BEGIN
+ro.config.DataPopFirstBoot=false
+#DTS2018030903325  panlunpeng/pwx412260 20180313 END
+#AR000AATMN  lilingxuan/wx522837 2018/03/18 begin
+ro.product.locale=en-GB
+#AR000AATMN  lilingxuan/wx522837 2018/03/18 end
+#DTS2018031508110 yangcong/ywx510163 2018/03/20 begin
+ro.config.hw_ECT=true
+#DTS2018031508110 yangcong/ywx510163 2018/03/20 end
+#DTS2018032813652 gaoxiang/gwx527974 2018/03/31 begin
+ro.config.force_auto_plmn=20815
+#DTS2018032813652 gaoxiang/gwx527974 2018/03/31 end
+#DTS2018041013530 yuanjuan/ywx467448 2018/04/17 begin
+ro.setupwizard.wifi_on_exit=false
+#DTS2018041013530 yuanjuan/ywx467448 2018/04/17 end
+#AR000AJ1CR yuanhao/ywx284357 20180508 BEGIN
+ro.config.vowifi.provisioning=true
+#AR000AJ1CR yuanhao/ywx284357 20180508 END
+ro.product.CustCVersion=C432
+#DTS2018041711420 fengweiwei fwx553922 20180604 begin
+ro.config.ro.config.hw_ons_spn_null=true
+#DTS2018041711420 fengweiwei fwx553922 20180604 end
+#AR000AS5FA yuanhao ywx284357 20180702 begin
+ro.config.vowifi.ignore_reset=true
+#AR000AS5FA yuanhao ywx284357 20180702 end
+#DTS2018051111646 dangdanyang dwx490343 20180717 begin
+ro.config.change_card_to_sim=true
+#DTS2018051111646 dangdanyang dwx490343 20180717 end
+#AR000B3AJC liuzhen/lwx364114 20180806 begin
+ro.config.networktype_char=false
+#AR000B3AJC liuzhen/lwx364114 20180806 end
+#AR000A6ONH liuzhen lwx364114 20180806 begin
+ro.config.forbidden_network_selectabale=true
+#AR000A6ONH liuzhen lwx364114 20180806 end
+#AR000B5HD6 zhancaijin/00310544 20180814 begin
+ro.config.omacp.supportnaponly=true
+#AR000B5HD6 zhancaijin/00310544 20180814 end
+#AR000B6673 liuhaochen/lwx585350 20180823 begin
+ro.config.support_hw_cust_mtu=true
+#AR000B6673 liuhaochen/lwx585350 20180823 end
+#AR000B7A3C nieying/nwx596018 20180829 begin
+ro.config.custom_short_codes=true
+#AR000B7A3C nieying/nwx596018 20180829 end
+#DTS2018090510531  liuyuesong/lwx518783 begin
+ro.config.hw_ons_sim_ready=true
+#DTS2018090510531  liuyuesong/lwx518783 end

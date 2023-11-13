@@ -1,0 +1,28 @@
+###################################################
+## Add for version number config.                ##
+# CCM1.0 about CCM-915
+#AR000A6OO2 Added By ywx369204 2018/02/08 BEGIN
+ro.facebook.partnerid=huawei:3ed03d0-8ce2-42fa-a449-b9443817d7b4
+#AR000A6OO2 Added By ywx369204 2018/02/08 END
+#AR000A6OO2 Added By ywx369204 2018/02/08 BEGIN
+ro.com.google.rlzbrandcode=HWDA
+#AR000A6OO2 Added By ywx369204 2018/02/08 END
+#AR000A6OO2 Added By ywx369204 2018/02/08 BEGIN
+ro.com.google.rlz_ap_whitelist=y0,y5,y6,y7
+#AR000A6OO2 Added By ywx369204 2018/02/08 END
+#AR000A6OO2 Added By ywx369204 2018/02/08 BEGIN
+#AR000AIA6P Added By zwx376508 2018/04/36 BEGIN
+ro.booking.channel.path=/cust_spec/xml
+#AR000AIA6P Added By zwx376508 2018/04/36 END
+#AR000A6OO2 Added By ywx369204 2018/02/08 END
+#AR000A0H0L zwx531814 config volte and vowifi begin
+#AR000B759V hwx587529 2018/09/05 config volte and vowifi begin
+ro.config.hw_ims_on=true
+#AR000B759V hwx587529 2018/09/05 config volte and vowifi end
+#AR000A0H0L zwx531814 config volte and vowifi end
+#AR000B345S yuanhao ywx284357 20180806 begin
+ro.com.google.clientidbase.ms=android-huawei-rev1
+#AR000B345S yuanhao ywx284357 20180806 end
+###################################################
+
+ro.product.first_api_level=27

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<hwouc_presets version="1">
+    <!-- AR000A6OQ6 luzhen WX224727 20180208 begin -->
+    <int name="download_limit_size">1</int>
+    <!-- DTS2018031202218 luzhen WX224727 20180316 begin -->
+    <bool name="is_forced_wifi">false</bool>
+    <!-- DTS2018031202218 luzhen WX224727 20180316 end -->
+    <!-- AR000A6OQ6 luzhen WX224727 20180208 end -->
+    <!-- AR000A6OQ4 luzhen WX224727 20180208 begin -->
+    <!-- AR000A6OQ5 luzhen WX224727 20180208 begin -->
+    <!-- AR000BBQ70 wangxudong wwx424853 20181012 begin -->
+    <string name="PLMN_cust_values">21401,0,false^20810,100,true</string>
+    <!-- AR000BBQ70 wangxudong wwx424853 20181012 end -->
+    <!-- AR000A6OQ5 luzhen WX224727 20180208 end -->
+    <!-- AR000A6OQ4 luzhen WX224727 20180208 end -->
+</hwouc_presets>

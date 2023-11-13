@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+rule type:
+0  the Net match
+1  the card match
+-->
+<Datas version="1">
+	<roamingenabletable  numeric="23430"/>
+        <roamingenabletable  numeric="23431"/>
+        <roamingenabletable  numeric="23432"/>
+        <roamingenabletable  numeric="23433"/>
+        <roamingenabletable  numeric="23434"/>
+        <roamingenabletable  numeric="23486"/>
+        <roamingenabletable  numeric="23210"/>
+        <roamingenabletable  numeric="23205"/>
+</Datas>

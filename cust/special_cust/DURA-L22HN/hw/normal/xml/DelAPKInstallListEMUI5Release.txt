@@ -1,0 +1,2 @@
+/data/dataapp/ExactCalculator/ExactCalculator.apk
+/data/hw_init/cust/app/HwInfoSecurity/HwInfoSecurity.apk,priv

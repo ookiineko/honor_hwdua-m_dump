@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<launcher_config>
+<!--AR000A6ONG ywx369204 20180316 begin -->
+    <bool name="config_CloudFolderEnabled">true</bool>
+    <string name="config_CloudFolderHost">https://europefolder.hicloud.com:443/</string>
+<!--AR000A6ONG ywx369204 20180316 begin end -->
+</launcher_config>

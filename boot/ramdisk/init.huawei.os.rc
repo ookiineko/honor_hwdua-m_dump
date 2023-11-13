@@ -1,0 +1,71 @@
+
+service mapper /system/bin/sh /system/bin/mappersh
+    class late_start
+    user root
+    group system
+    disabled
+    seclabel u:r:shell:s0
+
+service ddrtest /vendor/bin/do_ddrtest
+    user root
+    disabled
+    oneshot
+
+service stop_ddrtest /vendor/bin/do_ddrtest
+    user root
+    disabled
+    oneshot
+
+service storage_info /vendor/bin/storage_info
+    class late_start
+    user root
+    group system wakelock
+
+on property:debug.rt.ddr.test=1
+    stop ddrtest
+    start ddrtest
+on property:debug.rt.ddr.test=2
+    start ddrtest
+on property:debug.rt.ddr.test=3
+    start ddrtest
+on property:debug.rt.ddr.test=4
+    start stop_ddrtest
+on property:debug.rt.ddr.test=5
+    stop ddrtest
+    start ddrtest
+on property:debug.rt.ddr.test=6
+    start ddrtest
+
+on boot
+    write /proc/sys/kernel/hung_task_panic 1
+    write /proc/sys/kernel/hung_task_timeout_secs 240
+    write /sys/kernel/hungtask/monitorlist "whitelist,system_server,surfaceflinger,init"
+    write /sys/kernel/hungtask/enable "on"
+    chown system system /sys/kernel/hungtask/vm_heart
+
+on post-fs-data
+    mkdir /data/log/xcollie
+    chown system log /data/log/xcollie
+    chmod 2775 /data/log/xcollie
+    restorecon_recursive /data/log/xcollie
+    setprop vold.crypto_unencrypt_updatedir /data/update
+
+    mkdir /log/storage
+    chmod 0770 /log/storage
+    chown root system /log/storage
+    restorecon_recursive /log/storage
+
+on property:ro.config.enable_rcc=true
+    write /sys/kernel/rcc/event PASSIVE_MODE
+    write /sys/kernel/rcc/max_anon_clean_size 448M
+    write /sys/kernel/rcc/enable 1
+
+on boot
+# rcc module
+    chown system system /sys/kernel/rcc/enable
+    chown system system /sys/kernel/rcc/event
+    chown system system /sys/kernel/rcc/idle_threshold
+    chown system system /sys/kernel/rcc/swap_pecent_low
+    chown system system /sys/kernel/rcc/free_size_min
+    chown system system /sys/kernel/rcc/full_clean_size
+    chown system system /sys/kernel/rcc/stat

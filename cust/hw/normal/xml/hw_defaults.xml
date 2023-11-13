@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+/**
+ * Copyright (c) 2009, The Android Open Source Project
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *     http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+-->
+
+<resources>
+
+<!-- AR000A6OCL zhancaijin/00310544 20180202 begin -->
+<integer hw_omacp_apn_policy="2"/>
+<!-- AR000A6OCL zhancaijin/00310544 20180202  end -->
+<!-- DTS2018032705874 gengweiwei gwx469379 20180329 begin -->
+<string hw_hide_font_style="true"/>
+<!-- DTS2018032705874 gengweiwei gwx469379 20180329 end -->
+<!-- AR000A6Q43 wangxudong wwx424853 20180208 begin -->
+<string black_languages="tr_CY"/>
+<!-- AR000A6Q43 wangxudong wwx424853 20180208  end -->
+<!-- DTS2018030109051 jigang jwx530065 20180303 begin -->
+<integer settings.global.auto_time="1"/>
+<!-- DTS2018030109051 jigang jwx530065 20180303 end -->
+<!-- DTS2018030109051 jigang jwx530065 20180303 begin -->
+<integer settings.global.auto_time_zone="1"/>
+<!-- DTS2018030109051 jigang jwx530065 20180303 end -->
+<!-- DTS2018022806918 jigang jwx530065 20180305 begin -->
+<integer settings.global.wifi_sleep_policy="2"/>
+<!-- DTS2018022806918 jigang jwx530065 20180305 end -->
+<!--AR000AAVMK chenweihui/c00383707 20180309 begin-->
+<integer settings.global.wifi_scan_always_enabled="0"/>
+<!--AR000AAVMK chenweihui/c00383707 20180309 end-->
+<!-- AR000A9O8O wangxudong wwx424853 20180326 begin -->
+<integer power_saving_on="0"/>
+<!-- AR000ADJD4 zhuruping/zwx463324 20180404 begin-->
+<string hw_end_or_hold_call="false"/>
+<!-- AR000ADJD4 zhuruping/zwx463324 20180404 end-->
+<!--DTS2018033009085  leijing lwx463323 20180404 begin-->
+<!--AR000AKIB7 add 50506 zhaoyunxiang 20180516 begin-->
+<!--DTS2018051704687 leijing lwx463323 20180523 begin-->
+<!--AR000AKOGC leijing lwx463323 20180524 begin-->
+<!--AR000AUH44 leijing lwx463323 20180711 begin-->
+<string plmn_esm_flag="46001,20404,20820,21401,21910,22201,23003,23205,23210,23403,23408,23410,23415,23419,23420,23428,23430,23431,23432,23433,23434,23438,23450,23455,23458,23476,23486,23594,26001,26207,27201,27205,41866,44000,44010,44020,46003,50501,50502,50503,50506,310170,310380,310410,310560,311180,502156,23001,26201,26002,21407,22802,22801,21901,20201,21630,310950,310030,310280,23203,23207,23102,20416,20420,71617,334020,74000,72207,71606,310070,310090,310150,310680,26203,50506,52003,37002,21603,28602,302220,302221,302660,302780,302610,28405,44050,71203,732101,27202,44051,41420,42001,23457"/>
+<!--AR000AUH44 leijing lwx463323 20180711 end-->
+<!--AR000AKOGC leijing lwx463323 20180524 begin-->
+<!--DTS2018051704687 leijing lwx463323 20180523 begin-->
+<!--AR000AKIB7 add 50506 zhaoyunxiang 20180516 end-->
+<!--DTS2018033009085  leijing lwx463323 20180404 end-->
+
+    <!-- if device unsupport 4G, only support 3G ,the switch changed as follows 
+    Product cust
+    -->
+<!-- DTS2018060708588 qinjinqiao qwx323026 20180614 begin -->
+<string need_captive_portal_by_hplmn="50503"/>
+<!-- DTS2018060708588 qinjinqiao qwx323026 20180614  end -->
+
+
+
+
+
+
+
+
+
+</resources>

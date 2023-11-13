@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Datas version="1">
+    <scaddress mvno_match_data=""  mvno_type=""  address="+491722270333" mccmnc="26202"/>
+    <scaddress mvno_match_data=""  mvno_type=""  address="+316540881000" mccmnc="20404"/>
+    <scaddress mvno_match_data=""  mvno_type=""  address="+34607003110" mccmnc="21401"/>
+    <scaddress mvno_match_data=""  mvno_type=""  address="+351911616161" mccmnc="26801"/>
+    <scaddress mvno_match_data=""  mvno_type=""  address="+447785016005" mccmnc="23415"/>
+    <scaddress mvno_match_data=""  mvno_type=""  address="+35387699989" mccmnc="27201"/>
+    <scaddress mvno_match_data=""  mvno_type=""  address="+393492000200" mccmnc="22210"/>
+    <scaddress mvno_match_data=""  mvno_type=""  address="+32475161616" mccmnc="20601"/>
+    <scaddress mvno_match_data=""  mvno_type=""  address="+41794999000" mccmnc="22801"/>
+    <scaddress mvno_match_data=""  mvno_type=""  address="+306942190000" mccmnc="20205"/>
+    <scaddress mvno_match_data=""  mvno_type=""  address="+36709996500" mccmnc="21670"/>
+    <scaddress mvno_match_data=""  mvno_type=""  address="+420608005681" mccmnc="23003"/>
+    <scaddress mvno_match_data=""  mvno_type=""  address="+40722004000" mccmnc="22601"/>
+    <scaddress mvno_match_data=""  mvno_type=""  address="+35569200200" mccmnc="27602"/>
+    <scaddress mvno_match_data=""  mvno_type=""  address="+27829129" mccmnc="65501"/>
+    <!-- AR000ADN2F yuchu/00378713 20180403 begin -->
+    <scaddress mvno_match_data=""  mvno_type=""  address="+48601000310" mccmnc="26001"/>
+    <!-- AR000ADN2F yuchu/00378713 20180403 end -->
+    <!-- AR0008U7H0 yuchu/00378713 20180409 begin -->
+    <scaddress mvno_match_data=""  mvno_type=""  address="+48790998250" mccmnc="26006"/>
+    <scaddress mvno_match_data=""  mvno_type=""  address="+48790998250" mccmnc="26098"/>
+    <!-- AR0008U7H0 yuchu/00378713 20180409 end -->
+</Datas>

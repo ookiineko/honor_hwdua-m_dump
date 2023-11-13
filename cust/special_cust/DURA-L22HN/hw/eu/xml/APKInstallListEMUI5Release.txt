@@ -1,0 +1,10 @@
+/data/dataapp/HwSoundRecorder/HwSoundRecorder.apk
+/data/hw_init/cust/app/Installer/Installer.apk,priv
+/data/hw_init/cust/app/Appmanager/Appmanager.apk
+/data/hw_init/cust/app/HwUserExperience/HwUserExperience.apk
+/data/hw_init/cust/app/HwTrustCircle/HwTrustCircle.apk
+/data/hw_init/cust/app/HwDetectRepair/HwDetectRepair.apk,priv
+/data/dataapp/HwPhoneService/HwPhoneService.apk,priv
+/data/hw_init/cust/app/AutoInStallAPKFromMcc/AutoInStallAPKFromMcc.apk
+/data/hw_init/cust/app/Facebook_Services/Facebook_Services.apk,priv
+/data/hw_init/cust/app/SwiftKey/SwiftKey.apk,sys

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<logo_list displayimage="true">
+    <!--DTS2018040311901 majinlong/mwx513648 20180418 begin-->
+    <logo_item image="email_Gmail_icon.png" value="@gmail.com" displayname="Gmail"/>
+    <logo_item image="email_Hotmail_icon.png" value="@hotmail.com" displayname="Hotmail"/>
+    <logo_item image="email_Yahoomail_icon.png" value="@yahoo.com" displayname="Yahoo"/>
+    <!--DTS2018040311901 majinlong/mwx513648 20180418 end-->
+</logo_list>

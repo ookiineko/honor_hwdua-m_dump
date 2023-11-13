@@ -1,0 +1,17 @@
+/data/dataapp/ExactCalculator/ExactCalculator.apk
+/data/hw_init/cust/app/EditorsSheets/EditorsSheets.apk
+/data/hw_init/cust/app/Instagram_Stub/Instagram_Stub.apk
+/data/hw_init/cust/app/Facebook_Stub/Facebook_Stub.apk
+/data/hw_init/cust/app/eBay/eBay.apk
+/data/hw_init/cust/app/idapk-1.0.0.5-117/idapk-1.0.0.5-117.apk
+/data/hw_init/cust/app/DisneyMagicKingdom/DisneyMagicKingdom.apk
+/data/hw_init/cust/app/AsphaltNitro/AsphaltNitro.apk
+/data/hw_init/cust/app/AssassinCreedUnity/AssassinCreedUnity.apk
+/data/hw_init/cust/app/DragonMania/DragonMania.apk
+/data/hw_init/cust/app/EditorsDocs/EditorsDocs.apk
+/data/hw_init/cust/app/PuzzlePets/PuzzlePets.apk
+/data/hw_init/cust/app/EditorsSlides/EditorsSlides.apk
+/data/hw_init/cust/app/SpiderManUltimatePower/SpiderManUltimatePower.apk
+/data/hw_init/cust/app/Booking/Booking.apk
+/data/hw_init/cust/app/NetflixActivation/NetflixActivation.apk
+/data/hw_init/cust/app/NetflixStub/NetflixStub.apk

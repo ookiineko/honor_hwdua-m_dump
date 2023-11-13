@@ -1,0 +1,1845 @@
+<?xml version="1.0" encoding="utf-8"?>
+<spnOverrides version="1">
+    <spnOverride mvno_match_data="" mvno_type="" numeric="60203" spn="etisalat"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="60201" spn="Orange EG"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="60202" spn="Vodafone EG"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="60303" spn="ooredoo"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="60302" spn="DJEZZY"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="60301" spn="Mobilis"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="60400" spn="Meditel"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="41701" spn="Syriatel"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="41702" spn="MTN"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="61002" spn="Orange"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="60401" spn="Maroc Telecom"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="63402" spn="MTN SD"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="63407" spn="Sudani"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="63401" spn="Zain SD"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="42102" spn="MTN"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="42101" spn="SabaFon"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="62203" spn="Tigo"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="60803" spn="Expresso"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="60801" spn="Orange SN"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="61001" spn="Malitel"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="63601" spn="ethio tel"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="61404" spn="Orange NE"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="41601" spn="Zain JO"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="41603" spn="UMNIAH"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="41677" spn="Orange JO"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="60503" spn="Ooredoo"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="60501" spn="Orange TN"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="60502" spn="TUNTEL"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="63801" spn="EVATIS"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="60402" spn="inwi"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="60600" spn="Libyana"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="60601" spn="Almadar"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="62501" spn="CMOVEL"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="62502" spn="Unitel T+"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="60702" spn="AFRICELL"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="60703" spn="GMCOMIUM"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="60701" spn="GAMCEL"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="60704" spn="QC"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="60901" spn="MATTEL"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="60910" spn="MAURITEL"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="61402" spn="CELTEL"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="61403" spn="ETISALAT"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="65906" spn="ZAIN SS"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="60802" spn="tigo"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="62201" spn="CELTEL"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="62207" spn="SALAM"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="421700" spn="Y"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="65903" spn="Gemtel"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="65902" spn="MTN"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="65904" spn="Vivacell"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="41503" spn="Touch"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="41501" spn="alfa"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="41505" spn="OM"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="42104" spn="Y-Telecom"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="416770" spn="Orange JO"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="42103" spn="Yemen Mobile"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="60902" spn="Expresso mr"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="60209" spn="MOD_SDMN"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="60804" spn="ADIE"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="60204" spn="We"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="61003" spn="TELECEL"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="24802" spn="elisa"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="23203" spn="T-Mobile A"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="23210" spn="3 AT"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="23201" spn="A1"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="23207" spn="telering"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="23205" spn="3 AT"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="28403" spn="VIVACOM"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="28405" spn="Telenor BG"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="28401" spn="A1 BG"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="27401" spn="Siminn"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="27411" spn="Nova"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="27402" spn="Vodafone IS"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="21805" spn="m:tel"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="26001" spn="Plus"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="26003" spn="Orange"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="26006" spn="PLAY"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="26002" spn="T-Mobile.pl"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="29001" spn="Tele Greenland A/S"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="23802" spn="Telenor DK"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="23806" spn="3 DK"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="23820" spn="Telia DK"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="23801" spn="TDC DK"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="24803" spn="Tele2"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="24405" spn="elisa"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="24412" spn="DNA"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="24421" spn="elisa"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="24491" spn="Telia FI"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="23001" spn="T-Mobile CZ"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="23002" spn="O2-CZ"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="23003" spn="Vodafone CZ"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="21910" spn="A1 HR"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="21902" spn="TELE2"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="21901" spn="HT HR"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="24702" spn="Tele2"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="24701" spn="LMT"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="24705" spn="Bite"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="24601" spn="Omnitel"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="24603" spn="Tele2 LT"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="24602" spn="Bite"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="22603" spn="TELEKOM.RO"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="22606" spn="TELEKOM.RO"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="22610" spn="ORANGE"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="22601" spn="Vodafone RO"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="22605" spn="DiGi Mobil"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="29401" spn="Telekom MK"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="29403" spn="VIP MK"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="29402" spn="ONE"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="25901" spn="Orange"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="25905" spn="Unite"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="25902" spn="Moldcell"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="24205" spn="Network Norway"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="24201" spn="Telenor"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="24202" spn="Telia"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="24007" spn="Tele2"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="24008" spn="Telenor SE"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="24001" spn="Telia"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="24002" spn="3"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="22001" spn="Telenor"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="22005" spn="Vip mobile"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="23106" spn="O2 SK"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="23101" spn="Orange"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="23102" spn="Telekom SK"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="29341" spn="Mobitel"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="29370" spn="Telemach"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="20205" spn="vodafone GR"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="20201" spn="GR COSMOTE"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="20210" spn="WIND GR"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="21601" spn="Telenor HU"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="21630" spn="Telekom HU"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="21670" spn="vodafone HU"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="29340" spn="A1 SI"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="24801" spn="EMT"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="23211" spn="bob"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="23212" spn="yesss!"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="20209" spn="Q GR"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="28001" spn="Cytamobile-Vodafone"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="28010" spn="MTN"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="22003" spn="mts"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="29701" spn="Telenor"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="29364" spn="T-2"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="21803" spn="Eronet"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="21890" spn="BH Mobile"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="29702" spn="Telekom.me"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="29703" spn="m:tel"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="24005" spn="Telia SE"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="24004" spn="SWEDEN"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="24024" spn="Sweden Mobile"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="42501" spn="Partner"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="42502" spn="Cellcom"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="42503" spn="IL Pelephone"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="42507" spn="HOT mobile"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="42508" spn="Golan Telecom"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="42514" spn="You Phone"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="42515" spn="Home Cellular"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="23877" spn="Telenor DK"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="24403" spn="DNA"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="28801" spn="Foroya Tele"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="28802" spn="VODAFONE FO"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="27412" spn="Siminn"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="27408" spn="On-waves"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="24204" spn="Mobile Norway"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="27601" spn="Telekom.al"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="27603" spn="Eaglemobile AL"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="27604" spn="Plus Communication"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="27602" spn="Vodafone AL"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="23866" spn="Telia-Telenor DK"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="24414" spn="FI AMT"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="27404" spn="Viking"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="42505" spn="JAWWAL"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="21671" spn="UPC HU"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="21801" spn="HT ERONET"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="20214" spn="cyta GR"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="28020" spn="PrimeTel"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="23103" spn="SWAN"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="24014" spn="TDC SE"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="24208" spn="TDC NO"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="23219" spn="Tele2"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="24436" spn="SuomenYV"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="24214" spn="ice"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="22615" spn="RO 2K Telecom"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="24608" spn="MEZON"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="42528" spn="Partner"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="22004" spn="Telekom.me"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="21603" spn="Digi HU"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="42510" spn="Partner"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="26098" spn="PLAY"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="24299" spn="Tampnet"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="90146" spn="Telecom26"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="25915" spn="IDC"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="24413" spn="DNA"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="65510" spn="MTN SA"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="65501" spn="Vodacom SA"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="65507" spn="Cell C"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="65502" spn="TelkomSA"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="63510" spn="MTN Rwanda"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="63102" spn="UNITEL"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="63104" spn="MOVICEL"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="65202" spn="Orange"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="64207" spn="Smart"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="63511" spn="Rwandatel"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="62902" spn="Azur COG"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="62910" spn="MTN-CG"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="62907" spn="Warid CG"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="62901" spn="Airtel CG"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="63008" spn="CCT"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="63089" spn="Tigo"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="63001" spn="VodaCom"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="63002" spn="Airtel"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="64804" spn="ZW ECONET"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="64803" spn="Telecel Zimbabwe"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="63902" spn="Safaricom"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="63907" spn="Orange KE"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="63903" spn="Airtel KE"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="64602" spn="Orange"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="65001" spn="tnm"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="65010" spn="Airtel"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="61701" spn="Orange"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="64002" spn="Tigo"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="64003" spn="Zantel"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="64004" spn="Vodacom Tanzania"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="64005" spn="Airtel TZ"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="64008" spn="Smart LTE"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="64122" spn="Warid Uganda"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="64111" spn="Uganda Telecom"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="64114" spn="AFRICELL"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="64101" spn="AIRTEL UGANDA"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="64110" spn="MTN Uganda"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="64502" spn="MTN"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="64282" spn="leo Burundi"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="64901" spn="MTC"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="64303" spn="Movitel"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="63905" spn="Yu Mobile"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="64700" spn="Orange"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="64710" spn="SFR Reunion"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="61710" spn="Emtel"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="64202" spn="TEMPO-AF"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="64201" spn="EWB"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="64203" spn="ONATEL"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="65204" spn="beMobile"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="65201" spn="Mascom"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="63090" spn="AFRICELL"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="63086" spn="Orange"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="63088" spn="Smart"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="63005" spn="SCELL"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="65401" spn="HURI"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="65102" spn="ETL"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="65101" spn="VCL"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="64601" spn="Airtel"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="64604" spn="TELMA"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="64301" spn="mCel"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="64304" spn="VodaCom"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="61703" spn="CHiLi/MTML"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="64903" spn="tnmobile"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="64702" spn="OUTREMER"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="63514" spn="AR"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="63513" spn="TIGO RW"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="63730" spn="Golis"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="63704" spn="SOMAFONE"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="63720" spn="SOMNET"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="63771" spn="SOMTEL"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="63701" spn="Tele"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="62601" spn="CSTmovel"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="65310" spn="SwaziMTN"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="63301" spn="C&amp;W SEY"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="64501" spn="airtel"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="64801" spn="Net*One"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="63310" spn="AIRTEL"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="62602" spn="Unitel STP"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="64011" spn="Smile TZ"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="64118" spn="suretel"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="65801" spn="Sure"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="64605" spn="Bip"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="64007" spn="TTCL"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="64009" spn="HALOTEL"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="63750" spn="Hormuud"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="65513" spn="Neotel"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="62903" spn="Congo Telecom"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="64701" spn="MMOBILE"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="64703" spn="RE FREE"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="65302" spn="Swazi Mobile"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="64505" spn="Vodafone"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="63910" spn="FAIBA"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="64106" spn="VFU"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="65538" spn="rain"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="64503" spn="ZAMTEL"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="65519" spn="rain"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="64704" spn="ZEOP"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="52000" spn="TRUE-H"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="52003" spn="AIS"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="52004" spn="TRUE-H"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="52015" spn="TOT Mobile"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="52001" spn="TH GSM"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="52018" spn="dtac"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="52005" spn="dtac"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="52099" spn="TRUE"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="45201" spn="Mobifone"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="45202" spn="Vinaphone"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="45204" spn="VIETTEL"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="45205" spn="Vietnamobile"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="45207" spn="Gmobile"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="46692" spn="中華電信"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="46601" spn="遠傳電信"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="46697" spn="台灣大哥大"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="46689" spn="台灣之星"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="45406" spn="SmarTone HK"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="45400" spn="CSL"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="45419" spn="CSL"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="45412" spn="CMHK"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="45403" spn="3 HK"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="45404" spn="3 HK"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="45416" spn="CSL"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="45415" spn="SmarTone HK"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="45417" spn="SmarTone HK"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="45601" spn="Cellcard"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="45608" spn="Metfone"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="45602" spn="Hello"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="45609" spn="Beeline"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="45606" spn="smart"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="45604" spn="qb"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="45703" spn="Unitel"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="45701" spn="Lao Telecom"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="45702" spn="ETL"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="41301" spn="Mobitel"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="41302" spn="Dialog"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="41303" spn="Etisalat"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="41308" spn="Hutch"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="41305" spn="Airtel"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="45500" spn="SmarTone Macau"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="45618" spn="Mfone"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="45708" spn="Beeline"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="45501" spn="CTM"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="45503" spn="3 Macau"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="41401" spn="MPT"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="45413" spn="CMHK"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="47001" spn="grameenphone"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="47002" spn="Robi"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="47003" spn="Banglalink"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="47004" spn="Teletalk"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="47007" spn="Airtel"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="45410" spn="CSL"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="45402" spn="CSL"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="45418" spn="CSL"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="45407" spn="中国联通"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="51403" spn="Telemor"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="51402" spn="TLS-TT"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="51401" spn="TLS-TC"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="42901" spn="Namaste"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="42902" spn="Ncell"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="42904" spn="Smart Cell"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="42900" spn="UTL"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="42903" spn="Sky Phone"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="45420" spn="PCCW-HKT"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="45504" spn="CTM"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="45605" spn="SMART"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="46668" spn="ACeS"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="46688" spn="KGT"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="46693" spn="TW MOB"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="47201" spn="DHIRAAGU"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="47202" spn="Ooredoo"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="52020" spn="ACeS"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="52023" spn="GSM 1800"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="52002" spn="CAT"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="45405" spn="3 HK"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="45414" spn="3 HK"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="45505" spn="3 Macau"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="41405" spn="Ooredoo"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="47000" spn="ROBI"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="46605" spn="GT 4G"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="41406" spn="Telenor"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="47009" spn="BIEL 4G"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="45611" spn="SEATEL"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="46699" spn="TWM TAT"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="45429" spn="PCCW-HKT"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="41404" spn="MPT"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="41403" spn="MECTEL"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="45424" spn="MVNO"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="45431" spn="CTExcel"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="41409" spn="MYTEL"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="41420" spn="ANANDA"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="50212" spn="MY MAXIS"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="50219" spn="MY CELCOM"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="50213" spn="MY CELCOM"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="50216" spn="Digi"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="50218" spn="U Mobile"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="50501" spn="Telstra"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="50502" spn="YES OPTUS"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="50503" spn="Vodafone AU"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="50506" spn="Vodafone AU"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="51011" spn="XL"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="51010" spn="Telkomsel"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="51001" spn="INDOSAT"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="51021" spn="INDOSAT"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="51008" spn="AXIS"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="51089" spn="3"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="51502" spn="GLOBE"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="52501" spn="Singtel"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="52505" spn="StarHub"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="52503" spn="M1"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="52502" spn="Singtel"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="52811" spn="DST"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="52802" spn="PCSB"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="53005" spn="Spark NZ"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="53001" spn="vodafone NZ"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="53602" spn="Digicel"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="54202" spn="Digicel"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="51503" spn="SMART"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="51505" spn="SUN"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="53024" spn="2degrees"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="54201" spn="Vodafone Fj"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="54900" spn="Digicel"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="40211" spn="B-Mobile"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="40277" spn="TASHICELL"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="50510" spn="Norfolk Telecom"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="53701" spn="Bmobile"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="53901" spn="TCC"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="54001" spn="BREEZE"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="54101" spn="SMILE"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="544110" spn="BLUESKY"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="54509" spn="KI-FRIG"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="54601" spn="MOBNCL"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="54715" spn="VODAFONE"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="54801" spn="KOKANET"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="54927" spn="Bluesky"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="55001" spn="FSM Telecom"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="55201" spn="PalauCel"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="55280" spn="PLWPMC"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="51088" spn="BOLT! Super 4G"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="54002" spn="Bmobile"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="52507" spn="CallZone"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="51511" spn="ACeS"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="515030" spn="SMART"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="515031" spn="SMART"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="515032" spn="SMART"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="515033" spn="SMART"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="515036" spn="SMART"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="515037" spn="SMART"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="515038" spn="SMART"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="515039" spn="SMART"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="515034" spn="SMART"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="515035" spn="SMART"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="502156" spn="ALTEL"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="54720" spn="F-VINI"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="53702" spn="Telikom PNG"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="51068" spn="BOLT! Super 4G"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="502152" spn="YES 4G"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="50217" spn="MY MAXIS"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="50211" spn="MY TM"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="52508" spn="StarHub"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="51506" spn="BELLTEL"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="502153" spn="unifi"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="51078" spn="hinet4G"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="55301" spn="FSM Telecom"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="54301" spn="Manuia"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="53700" spn="Telikom PNG"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="51009" spn="SMARTFREN"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="51028" spn="SMARTFREN"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="51000" spn="TelkomFlexi"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="51099" spn="AHA"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="50550" spn="Pivotel"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="52510" spn="TPG"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="62160" spn="9mobile"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="62130" spn="MTN NG"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="62150" spn="Glo"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="62120" spn="Airtel NG"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="62002" spn="Vodafone GH"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="62402" spn="Orange"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="62401" spn="MTN CAM"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="62001" spn="MTN"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="62006" spn="Airtel"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="62003" spn="Tigo"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="61205" spn="MTN CI"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="61203" spn="Orange"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="61202" spn="Moov"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="62803" spn="Airtel GA"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="61302" spn="Orange"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="61301" spn="ONATEL"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="61303" spn="TELECEL"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="61104" spn="Areeba"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="61101" spn="Orange GN"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="61105" spn="Cellcom GN"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="61604" spn="BBCOM"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="61602" spn="ETISALAT"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="61605" spn="GloBenin"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="61603" spn="MTN BENIN"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="62301" spn="ETISALAT"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="62304" spn="NL-RCA"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="62302" spn="Telecel"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="61204" spn="KoZ"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="62802" spn="ETISALAT"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="62801" spn="LIBERTIS"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="62007" spn="Glo Ghana"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="61102" spn="LAGUI"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="63203" spn="ORANGE BS"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="63202" spn="MTN"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="62701" spn="GETESA"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="62703" spn="GNQ-Muni"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="61807" spn="Celcom"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="61804" spn="Novafone"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="61801" spn="LoneStar"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="61901" spn="CELTEL"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="61904" spn="SLE COMIUM"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="61905" spn="Africell"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="61503" spn="ETISALAT"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="61501" spn="TGCELL"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="62303" spn="Orange"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="62404" spn="Nexttel"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="62804" spn="AZUR"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="62140" spn="ntel"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="62403" spn="Camtel"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="61509" spn="TOGO TELECOM"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="62125" spn="Visafone"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="61906" spn="SierraTel"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="20408" spn="KPN"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="20404" spn="vodafone NL"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="20416" spn="T-Mobile NL"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="20412" spn="Telfort"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="20402" spn="Tele2 NL"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="20415" spn="Ziggo"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="20418" spn="Ziggo"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="20420" spn="T-Mobile NL"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="20403" spn="voiceworks"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="20601" spn="Proximus"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="20620" spn="BASE"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="20610" spn="OBE"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="20605" spn="Telenet"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="20810" spn="F SFR"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="20820" spn="Bouygues Telecom"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="20815" spn="Free"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="20801" spn="Orange F"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="20823" spn="Virgin"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="20811" spn="SFR Femto"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="20888" spn="F - Contact"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="20802" spn="F-Contact"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="20809" spn="F SFR"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="20813" spn="F - Contact"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="21201" spn="vala"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="21210" spn="Monaco"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="21303" spn="MOBILAND"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="21401" spn="vodafone ES"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="21421" spn="JAZZTEL"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="21407" spn="Movistar"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="21404" spn="Yoigo"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="21419" spn="simyo"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="21418" spn="ONO"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="21432" spn="tuenti"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="22210" spn="vodafone IT"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="22299" spn="3 ITA"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="22288" spn="I WIND"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="22201" spn="I TIM"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="22802" spn="Sunrise"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="22801" spn="Swisscom"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="22803" spn="Salt"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="22815" spn="OnAir"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="22853" spn="upc ch"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="23430" spn="EE"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="23431" spn="EE"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="23432" spn="EE"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="23420" spn="3"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="23415" spn="vodafone UK"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="23433" spn="EE"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="23434" spn="EE"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="23486" spn="EE"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="23450" spn="JT"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="23458" spn="Manx Telecom"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="23428" spn="Marathon"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="23419" spn="PMN UK"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="23403" spn="Airtel-Vodafone"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="23408" spn="BT OnePhone"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="23594" spn="3"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="26202" spn="Vodafone.de"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="26201" spn="Telekom.de"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="26203" spn="o2 - de"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="26208" spn="O2 de"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="26606" spn="CTS"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="26609" spn="Shine"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="26601" spn="GIBTEL GSM"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="26803" spn="NOS"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="26806" spn="MEO"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="26801" spn="vodafone P"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="27001" spn="POST"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="27077" spn="Tango"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="27099" spn="Orange Lux"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="27205" spn="3"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="27203" spn="meteor"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="27211" spn="Tesco Mobile"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="27202" spn="3"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="27201" spn="vodafone IE"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="27216" spn="iD"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="27821" spn="GO MOBILE"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="27801" spn="vodafone MT"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="27877" spn="MELITA"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="29201" spn="SMT"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="29505" spn="FL1"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="29502" spn="Salt.li"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="34001" spn="F-Orange"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="34003" spn="CHIPPIE"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="90114" spn="AeroMobile"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="90111" spn="Inmarsat"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="90126" spn="TIM@sea"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="90112" spn="Telenor"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="90121" spn="Seanet"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="90105" spn="Thuraya"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="90106" spn="Thuraya"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="90115" spn="OnAir"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="26207" spn="o2 - de"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="90145" spn="AISatSea"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="21425" spn="LycaMobile"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="23476" spn="BT"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="23455" spn="Sure"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="23416" spn="TalkTalk"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="22854" spn="Lycamobile"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="90150" spn="EML"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="22233" spn="PosteMobile"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="21416" spn="telecable"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="22208" spn="FASTWEB"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="20825" spn="Lycamobile"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="20827" spn="Coriolis"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="20469" spn="KPN"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="26209" spn="Vodafone.de"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="29501" spn="Swisscom"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="27215" spn="Virgin Media IE"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="42403" spn="du"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="42402" spn="etisalat"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="42401" spn="etisalat"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="42202" spn="Oman Mobile"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="41003" spn="Ufone"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="41001" spn="Jazz"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="41007" spn="Jazz"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="41004" spn="Zong"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="41006" spn="Telenor"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="42604" spn="VIVA BH"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="42601" spn="Batelco"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="42602" spn="Zain BH"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="42701" spn="Ooredoo"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="42702" spn="Vodafone Qatar"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="41902" spn="zain KW"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="41904" spn="VIVA KW"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="41903" spn="ooredoo"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="42004" spn="Zain KSA"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="42003" spn="Mobily"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="42001" spn="STC KSA"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="41840" spn="KOREK"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="41805" spn="ASIACELL"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="41820" spn="zain IQ"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="41830" spn="zain Iraq"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="43211" spn="IR-MCI"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="43235" spn="Irancell"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="43220" spn="Righ Tel"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="41240" spn="MTNA"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="41220" spn="Roshan"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="43214" spn="KFZO"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="43232" spn="Taliya"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="42506" spn="WM"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="41280" spn="Salaam"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="42203" spn="Ooredoo"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="41201" spn="AWCC"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="41250" spn="etisalat"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="41866" spn="fastlink"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="42075" spn="Mobily"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="41005" spn="SCOM"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="28603" spn="Turk Telekom"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="28604" spn="Turk Telekom"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="28601" spn="TURKCELL"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="28602" spn="VODAFONE TR"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="28202" spn="MAGTI"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="28201" spn="Geocell"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="40001" spn="ACELL"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="40002" spn="BAKCELL"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="40102" spn="Kcell"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="40177" spn="Tele2"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="43701" spn="Beeline KG"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="43705" spn="MEGACOM"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="42888" spn="UNITEL"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="42889" spn="UNITEL"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="43802" spn="TM CELL"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="43405" spn="Ucell"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="43404" spn="Beeline"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="43605" spn="BEELINE"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="43603" spn="MegaFon"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="43601" spn="TCELL"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="43602" spn="TCELL"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="43604" spn="Babilon"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="40101" spn="Beeline"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="28204" spn="BEELINE"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="40107" spn="Altel"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="40004" spn="AZ Nar"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="43709" spn="O!"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="43801" spn="MTS TM"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="43407" spn="UMS"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="42806" spn="GMOBILE_MN"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="42801" spn="Skytel"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="42899" spn="MN MobiCom"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="43408" spn="UzMobile"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="43409" spn="EVO+"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="42800" spn="skytel"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="310160" spn="T-Mobile"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="310210" spn="T-Mobile"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="310230" spn="T-Mobile"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="310240" spn="T-Mobile"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="310250" spn="T-Mobile"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="310260" spn="T-Mobile"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="310270" spn="T-Mobile"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="310300" spn="T-Mobile"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="310310" spn="T-Mobile"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="310490" spn="T-Mobile"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="310530" spn="T-Mobile"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="310580" spn="T-Mobile"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="310590" spn="T-Mobile"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="310640" spn="T-Mobile"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="310660" spn="T-Mobile"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="310800" spn="T-Mobile"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="310220" spn="T-Mobile"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="310200" spn="T-Mobile"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="302490" spn="freedom mobile"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="302720" spn="Rogers"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="302500" spn="Videotron"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="310410" spn="AT&amp;T"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="310690" spn="ADAT"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="310420" spn="CBW"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="311190" spn="Cellular One"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="310320" spn="Cellular One"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="310570" spn="Cellular One"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="310080" spn="Corr"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="310880" spn="DTC"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="311530" spn="Duet"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="310770" spn="I Wireless"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="310870" spn="Kaplan"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="311090" spn="Longlines"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="311500" spn="Mosiac"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="311080" spn="Pine Cellular"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="310100" spn="Plateau"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="310460" spn="Simmetry"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="310020" spn="Union"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="310450" spn="Viaero"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="310340" spn="Westlink"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="302780" spn="SaskTel"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="311220" spn="U.S.Cellular"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="30801" spn="AMERIS"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="302270" spn="Eastlink"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="302340" spn="ETI"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="302370" spn="Fido"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="302380" spn="DMTS"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="302730" spn="TStarSol"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="302770" spn="RuralCom"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="302940" spn="Wightman"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="310032" spn="IT&amp;E"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="310120" spn="Sprint"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="310140" spn="GTA"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="310170" spn="AT&amp;T"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="310190" spn="D-HARBOR"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="310380" spn="AT&amp;T"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="310390" spn="CELL 1 ET"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="310400" spn="iCAN_GSM"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="310470" spn="DOCOMO PACIFIC"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="310630" spn="AMERLINK"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="310650" spn="Jasper"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="310710" spn="ASTAC"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="310730" spn="USCC"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="310740" spn="OTZ"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="310840" spn="telna"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="310890" spn="Verizon"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="311030" spn="Indigo"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="311040" spn="Commnet"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="311150" spn="WILKES"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="311170" spn="Broadpoint"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="311180" spn="AT&amp;T"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="311240" spn="CWCI"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="311330" spn="BTW"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="311480" spn="Verizon"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="311540" spn="ProxMo"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="311680" spn="Green Fly"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="311710" spn="NEWN"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="311730" spn="ProxMo"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="311940" spn="CLEAR"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="312060" spn="CvgCo"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="312230" spn="SRTW"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="312260" spn="USACL"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="310610" spn="Epic"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="310290" spn="NEP"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="55101" spn="NTA"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="311580" spn="USCC"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="310030" spn="AT&amp;T"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="310280" spn="AT&amp;T"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="310180" spn="WCW"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="31050" spn="ACS"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="310560" spn="AT&amp;T"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="312630" spn="NetGenui"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="311740" spn="TCI"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="310370" spn="DOCOMO PACIFIC"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="311810" spn="Bluegrass Wireless"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="302510" spn="Videotron"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="302520" spn="Videotron"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="311660" spn="Metro PCS"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="312180" spn="LMUSA"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="311870" spn="Boost"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="312780" spn="GigSky"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="310990" spn="Worldcall"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="312870" spn="GigSky"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="310150" spn="Cricket"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="310950" spn="AT&amp;T"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="312480" spn="Nemont"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="312280" spn="Pioneer Cellular"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="302620" spn="Ice Wireless Inc"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="312290" spn="Strata"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="302630" spn="Bell"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="302640" spn="Bell"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="302480" spn="SSi"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="311230" spn="C Spire"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="311630" spn="C Spire"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="313070" spn="MNSHub"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="312420" spn="NTW"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="334020" spn="TELCEL"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="334050" spn="AT&amp;T"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="334030" spn="Movistar"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="33403" spn="Movistar"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="732101" spn="Claro"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="732103" spn="TIGO"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="732111" spn="TIGO"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="732123" spn="Movistar"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="73406" spn="Movilnet"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="73401" spn="Digitel"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="73402" spn="Digitel"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="73403" spn="Digitel"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="73404" spn="Movistar"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="36801" spn="Cubacel"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="70401" spn="CLARO"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="70403" spn="Movistar"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="70402" spn="TIGO"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="71021" spn="CLARO"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="71030" spn="Movistar"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="710300" spn="Movistar"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="70601" spn="CLARO"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="70604" spn="Movistar"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="70603" spn="TIGO"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="708001" spn="CLARO"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="70802" spn="TIGO"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="708020" spn="TIGO"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="71203" spn="CLARO"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="71204" spn="Movistar"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="71201" spn="Kolbi ICE"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="71403" spn="CLARO"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="714020" spn="Movistar"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="71401" spn="+Móvil"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="37002" spn="Claro"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="37001" spn="Altice"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="330110" spn="CLARO"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="74001" spn="Claro"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="74000" spn="Movistar"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="74002" spn="CNT"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="36611" spn="FLOW"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="366110" spn="FLOW"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="71073" spn="CLARO"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="732142" spn="UNE 4G"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="37203" spn="Natcom"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="740010" spn="Claro"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="71402" spn="Movistar"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="71202" spn="Kolbi ICE"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="334090" spn="AT&amp;T"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="704020" spn="TIGO"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="36291" spn="CHIPPIE"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="36251" spn="Telcell GSM"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="344030" spn="APUA inet"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="350000" spn="CELLONE"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="350010" spn="Cingular"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="366020" spn="Cingular"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="738002" spn="GTT+"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="708030" spn="HND"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="74604" spn="UNIQA"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="376360" spn="Islandco"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="36301" spn="SETAR"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="34008" spn="DAUPHIN"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="34002" spn="SFR"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="74602" spn="SR.TELESUR"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="732002" spn="EDATEL"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="348570" spn="CCTBVI"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="344930" spn="Cingular"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="346140" spn="FLOW"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="34614" spn="FLOW"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="338180" spn="FLOW"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="33818" spn="FLOW"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="365840" spn="FLOW"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="36584" spn="FLOW"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="344920" spn="FLOW"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="34492" spn="FLOW"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="342600" spn="FLOW"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="34260" spn="FLOW"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="348170" spn="FLOW"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="34817" spn="FLOW"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="352110" spn="FLOW"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="35211" spn="FLOW"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="354860" spn="FLOW"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="35486" spn="FLOW"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="356110" spn="FLOW"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="35611" spn="FLOW"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="358110" spn="FLOW"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="35811" spn="FLOW"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="360110" spn="FLOW"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="36011" spn="FLOW"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="376350" spn="FLOW"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="37635" spn="FLOW"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="36439" spn="BTC"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="364390" spn="BTC"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="732130" spn="Avantel"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="732187" spn="ETB 4G"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="36278" spn="Kla"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="706030" spn="TIGO"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="37004" spn="VIVA"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="70267" spn="BTL"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="33450" spn="AT&amp;T"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="338070" spn="CLARO"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="37412" spn="bmobile"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="374129" spn="bmobile"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="714010" spn="+Móvil"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="310480" spn="iConnect"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="338020" spn="Caricel"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="33490" spn="AT&amp;T"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="36449" spn="aliv"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="70269" spn="Smart"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="90145" spn="AISatSea"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="36302" spn="DIGICEL"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="36269" spn="DIGICEL"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="348770" spn="DIGICEL"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="70602" spn="DIGICEL"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="34020" spn="DIGICEL"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="73801" spn="DIGICEL"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="37201" spn="DIGICEL"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="714040" spn="DIGICEL"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="71404" spn="DIGICEL"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="74603" spn="DIGICEL"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="374130" spn="DIGICEL"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="37413" spn="DIGICEL"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="33405" spn="AT&amp;T"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="364490" spn="aliv"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="330120" spn="Open Mobile"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="33000" spn="Open Mobile"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="342800" spn="Ozone"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="334070" spn="AT&amp;T Mexico"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="991044" spn="AT&amp;T Mexico"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="90144" spn="AT&amp;T"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="33420" spn="TELCEL"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="72405" spn="Claro"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="72406" spn="VIVO"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="72410" spn="VIVO"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="72411" spn="VIVO"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="72423" spn="VIVO"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="72402" spn="TIM"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="72403" spn="TIM"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="72404" spn="TIM"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="72431" spn="Oi"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="72424" spn="AMAZONIA"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="72416" spn="Oi"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="72432" spn="Algar"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="72433" spn="Algar"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="72434" spn="Algar"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="72439" spn="Nextel"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="722310" spn="Claro AR"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="72234" spn="Personal"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="722341" spn="Personal"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="72207" spn="Movistar"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="74404" spn="TIGO"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="74402" spn="Claro PY"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="74405" spn="Personal"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="74401" spn="Vox"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="74810" spn="Claro UY"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="74807" spn="Movistar"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="73002" spn="Movistar"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="73001" spn="entel"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="73010" spn="entel"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="73003" spn="CLARO"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="73008" spn="vtr"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="71606" spn="movistar"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="71610" spn="Claro"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="71617" spn="entel"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="73603" spn="TIGO"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="73602" spn="ENTEL"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="73601" spn="VIVA"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="73004" spn="WOM"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="73005" spn="vtr"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="73007" spn="GTD Movil"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="72415" spn="SCTL"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="750001" spn="Sure"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="71615" spn="Bitel"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="722010" spn="Movistar"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="73009" spn="WOM"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="72236" spn="AR TP"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="74801" spn="Antel"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="73604" spn="COTAS"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="72417" spn="Correios"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="72454" spn="Porto Seguro"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="46001" spn="中国联通"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="46000" spn="中国移动"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="46002" spn="中国移动"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="46007" spn="中国移动"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="46008" spn="中国移动"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="46009" spn="中国联通"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="46011" spn="中国电信"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="46004" spn="中国移动"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="46006" spn="中国联通"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="46003" spn="中国电信"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="40402" spn="Airtel"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="40403" spn="Airtel"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="40410" spn="Airtel"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="40416" spn="Airtel"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="40431" spn="Airtel"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="40440" spn="Airtel"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="40445" spn="Airtel"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="40449" spn="Airtel"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="40551" spn="Airtel"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="40552" spn="Airtel"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="40553" spn="Airtel"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="40554" spn="Airtel"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="40555" spn="Airtel"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="40556" spn="Airtel"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="40470" spn="Airtel"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="40490" spn="Airtel"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="40492" spn="Airtel"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="40493" spn="Airtel"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="40494" spn="Airtel"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="40495" spn="Airtel"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="40496" spn="Airtel"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="40497" spn="Airtel"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="40498" spn="Airtel"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="40401" spn="Vodafone IN"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="40405" spn="Vodafone IN"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="40411" spn="Vodafone IN"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="40413" spn="Vodafone IN"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="40415" spn="Vodafone IN"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="40420" spn="Vodafone IN"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="40427" spn="Vodafone IN"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="40430" spn="Vodafone IN"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="40443" spn="Vodafone IN"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="40446" spn="Vodafone IN"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="40460" spn="Vodafone IN"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="40566" spn="Vodafone IN"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="40567" spn="Vodafone IN"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="40484" spn="Vodafone IN"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="40486" spn="Vodafone IN"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="40488" spn="Vodafone IN"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="405751" spn="Vodafone IN"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="405752" spn="Vodafone IN"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="405753" spn="Vodafone IN"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="405754" spn="Vodafone IN"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="405755" spn="Vodafone IN"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="405756" spn="Vodafone IN"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="405750" spn="Vodafone IN"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="40407" spn="Idea"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="405845" spn="Idea"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="40570" spn="Idea"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="40404" spn="Idea"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="40424" spn="Idea"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="40412" spn="Idea"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="40482" spn="Idea"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="405846" spn="Idea"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="40444" spn="Idea"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="40419" spn="Idea"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="405848" spn="Idea"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="40478" spn="Idea"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="40422" spn="Idea"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="405799" spn="Idea"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="405849" spn="Idea"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="405850" spn="Idea"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="40414" spn="Idea"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="40487" spn="Idea"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="405852" spn="Idea"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="40489" spn="Idea"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="40456" spn="Idea"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="405853" spn="Idea"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="405823" spn="Videocon"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="405824" spn="Videocon"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="405825" spn="Videocon"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="405826" spn="Videocon"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="405827" spn="Videocon"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="405828" spn="Videocon"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="405829" spn="Videocon"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="405830" spn="Videocon"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="405831" spn="Videocon"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="405832" spn="Videocon"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="405833" spn="Videocon"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="405834" spn="Videocon"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="405835" spn="Videocon"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="405836" spn="Videocon"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="405837" spn="Videocon"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="405838" spn="Videocon"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="405839" spn="Videocon"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="405841" spn="Videocon"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="405842" spn="Videocon"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="405843" spn="Videocon"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="405881" spn="S Tel"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="405882" spn="S Tel"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="405883" spn="S Tel"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="405884" spn="S Tel"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="405885" spn="S Tel"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="405886" spn="S Tel"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="405819" spn="Uninor"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="405820" spn="Uninor"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="405925" spn="Uninor"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="405926" spn="Uninor"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="405822" spn="Uninor"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="405821" spn="Uninor"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="40421" spn="Loop Mobile"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="40468" spn="Dolphin"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="40469" spn="Dolphin"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="40434" spn="BSNL Mobile"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="40438" spn="BSNL Mobile"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="40451" spn="BSNL Mobile"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="40453" spn="BSNL Mobile"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="40454" spn="BSNL Mobile"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="40455" spn="BSNL Mobile"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="40459" spn="BSNL Mobile"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="40457" spn="BSNL Mobile"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="40458" spn="BSNL Mobile"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="40462" spn="BSNL Mobile"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="40466" spn="BSNL Mobile"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="40464" spn="BSNL Mobile"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="40471" spn="BSNL Mobile"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="40472" spn="BSNL Mobile"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="40473" spn="BSNL Mobile"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="40474" spn="BSNL Mobile"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="40475" spn="BSNL Mobile"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="40476" spn="BSNL Mobile"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="40477" spn="BSNL Mobile"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="40480" spn="BSNL Mobile"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="40481" spn="BSNL Mobile"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="40479" spn="BSNL Mobile"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="405801" spn="Aircel"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="405809" spn="Aircel"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="405803" spn="Aircel"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="40441" spn="Aircel"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="40442" spn="Aircel"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="405800" spn="Aircel"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="405810" spn="Aircel"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="405811" spn="Aircel"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="405805" spn="Aircel"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="405807" spn="Aircel"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="405812" spn="Aircel"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="405806" spn="Aircel"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="405802" spn="Aircel"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="405808" spn="Aircel"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="40435" spn="Aircel"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="40437" spn="Aircel"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="40429" spn="Aircel"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="40433" spn="Aircel"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="40491" spn="Aircel"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="40417" spn="Aircel"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="40428" spn="Aircel"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="40425" spn="Aircel"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="40467" spn="Reliance"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="40436" spn="Reliance"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="40452" spn="Reliance"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="40485" spn="Reliance"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="40409" spn="Reliance"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="40450" spn="Reliance"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="40418" spn="Reliance"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="40483" spn="Reliance"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="40509" spn="Reliance"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="40518" spn="Reliance"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="40507" spn="Reliance"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="40505" spn="Reliance"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="40519" spn="Reliance"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="40522" spn="Reliance"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="40513" spn="Reliance"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="40515" spn="Reliance"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="40506" spn="Reliance"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="40501" spn="Reliance"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="40520" spn="Reliance"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="40510" spn="Reliance"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="40511" spn="Reliance"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="40521" spn="Reliance"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="405025" spn="TATA DOCOMO"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="405026" spn="TATA DOCOMO"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="405027" spn="TATA DOCOMO"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="405029" spn="TATA DOCOMO"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="405030" spn="TATA DOCOMO"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="405031" spn="TATA DOCOMO"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="405032" spn="TATA DOCOMO"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="405033" spn="TATA DOCOMO"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="405034" spn="TATA DOCOMO"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="405035" spn="TATA DOCOMO"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="405036" spn="TATA DOCOMO"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="405037" spn="TATA DOCOMO"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="405038" spn="TATA DOCOMO"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="405039" spn="TATA DOCOMO"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="405040" spn="TATA DOCOMO"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="405041" spn="TATA DOCOMO"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="405042" spn="TATA DOCOMO"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="405043" spn="TATA DOCOMO"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="405044" spn="TATA DOCOMO"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="405045" spn="TATA DOCOMO"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="405046" spn="TATA DOCOMO"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="405047" spn="TATA DOCOMO"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="405028" spn="TATA DOCOMO"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="405813" spn="UNITECH"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="405815" spn="UNITECH"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="405928" spn="UNITECH"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="405929" spn="UNITECH"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="405927" spn="UNITECH"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="405844" spn="UNITECH"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="405875" spn="UNITECH"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="405876" spn="UNITECH"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="405877" spn="UNITECH"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="405878" spn="UNITECH"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="405879" spn="UNITECH"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="405880" spn="UNITECH"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="405814" spn="UNITECH"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="405816" spn="UNITECH"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="405817" spn="UNITECH"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="405818" spn="UNITECH"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="404030" spn="Vodafone IN"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="405840" spn="JIO 4G"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="405854" spn="JIO 4G"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="405855" spn="JIO 4G"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="405856" spn="JIO 4G"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="405857" spn="JIO 4G"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="405858" spn="JIO 4G"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="405859" spn="JIO 4G"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="405860" spn="JIO 4G"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="405861" spn="JIO 4G"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="405862" spn="JIO 4G"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="405863" spn="JIO 4G"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="405864" spn="JIO 4G"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="405865" spn="JIO 4G"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="405866" spn="JIO 4G"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="405867" spn="JIO 4G"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="405868" spn="JIO 4G"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="405869" spn="JIO 4G"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="405870" spn="JIO 4G"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="405871" spn="JIO 4G"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="405872" spn="JIO 4G"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="405873" spn="JIO 4G"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="405874" spn="JIO 4G"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="405804" spn="Aircel"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="25702" spn="MTS.BY"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="25701" spn="velcom"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="25704" spn="life:) BY"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="25099" spn="Beeline"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="25002" spn="MegaFon"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="25001" spn="MTS-RUS"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="25503" spn="KYIVSTAR"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="25506" spn="life:)"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="25501" spn="MTS"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="28301" spn="Beeline"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="28305" spn="MTS ARM"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="28310" spn="Orange"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="25011" spn="YOTA"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="25012" spn="ROSTELECOM"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="25019" spn="RUS INDIGO"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="25035" spn="MOTIV"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="25003" spn="ROSTELECOM"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="25039" spn="ROSTELECOM"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="25038" spn="ROSTELECOM"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="25017" spn="ROSTELECOM"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="25016" spn="NTC"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="25015" spn="RUS15, RUS SMARTS"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="25007" spn="RUS 07, RUS SMARTS"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="25020" spn="Tele2 RU"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="25005" spn="ROSTELECOM"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="25037" spn="KODOTEL"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="25505" spn="UA-GT"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="25502" spn="Beeline UA"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="25507" spn="TriMob"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="25028" spn="VOICE"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="25027" spn="LETAI"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="44010" spn="NTT DOCOMO"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="44000" spn="Y!mobile"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="44020" spn="SoftBank"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="44050" spn="KDDI"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="45002" spn="KT"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="45008" spn="KT"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="45006" spn="LG U+"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="45005" spn="SKT"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="46705" spn="Koryolink"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="44051" spn="KDDI"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="44100" spn="Y!Mobile"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="44110" spn="UQ WiMAX"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="23203" spn="T-Mobile A"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="23210" spn="3 AT"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="23207" spn="telering"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="26002" spn="T-Mobile.pl"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="23802" spn="Telenor DK"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="23806" spn="3 DK"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="23820" spn="Telia DK"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="23801" spn="TDC DK"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="23001" spn="T-Mobile CZ"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="23003" spn="Vodafone CZ"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="21901" spn="HT HR"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="22603" spn="TELEKOM.RO"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="22606" spn="TELEKOM.RO"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="22601" spn="Vodafone RO"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="29401" spn="Telekom MK"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="24205" spn="Network Norway"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="24202" spn="Telia"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="24007" spn="Tele2"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="24008" spn="Telenor SE"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="24001" spn="Telia"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="23102" spn="Telekom SK"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="20205" spn="vodafone GR"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="20201" spn="GR COSMOTE"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="21630" spn="Telekom HU"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="21670" spn="vodafone HU"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="29340" spn="A1 SI"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="23212" spn="yesss!"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="29702" spn="Telekom.me"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="27602" spn="Vodafone AL"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="22004" spn="Telekom.me"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="65501" spn="Vodacom SA"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="64703" spn="RE FREE"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="45400" spn="CSL"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="45403" spn="3 HK"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="45402" spn="CSL"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="45418" spn="CSL"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="50502" spn="YES OPTUS"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="51502" spn="GLOBE"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="52501" spn="Singtel"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="52505" spn="StarHub"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="52505" spn="StarHub"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="53005" spn="Spark NZ"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="54202" spn="Digicel"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="53024" spn="2degrees"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="20408" spn="KPN"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="20404" spn="vodafone NL"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="20416" spn="T-Mobile NL"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="20420" spn="T-Mobile NL"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="20601" spn="Proximus"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="20810" spn="F SFR"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="20815" spn="Free"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="20801" spn="Orange F"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="21401" spn="vodafone ES"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="21421" spn="JAZZTEL"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="21407" spn="Movistar"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="21419" spn="simyo"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="22210" spn="vodafone IT"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="22299" spn="3 ITA"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="22201" spn="I TIM"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="23430" spn="EE"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="23420" spn="3"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="23415" spn="vodafone UK"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="26202" spn="Vodafone.de"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="26201" spn="Telekom.de"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="26203" spn="o2 - de"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="26801" spn="vodafone P"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="27201" spn="vodafone IE"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="27801" spn="vodafone MT"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="26207" spn="o2 - de"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="90145" spn="AISatSea"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="28601" spn="TURKCELL"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="28602" spn="VODAFONE TR"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="310160" spn="T-Mobile"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="310210" spn="T-Mobile"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="310230" spn="T-Mobile"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="310240" spn="T-Mobile"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="310250" spn="T-Mobile"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="310260" spn="T-Mobile"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="310270" spn="T-Mobile"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="310300" spn="T-Mobile"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="310310" spn="T-Mobile"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="310490" spn="T-Mobile"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="310530" spn="T-Mobile"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="310580" spn="T-Mobile"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="310590" spn="T-Mobile"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="310640" spn="T-Mobile"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="310660" spn="T-Mobile"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="310800" spn="T-Mobile"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="310220" spn="T-Mobile"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="310200" spn="T-Mobile"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="302720" spn="Rogers"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="310410" spn="AT&amp;T"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="311530" spn="Duet"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="311500" spn="Mosiac"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="302370" spn="Fido"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="310380" spn="AT&amp;T"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="311500" spn=""/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="311530" spn=""/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="311500" spn=""/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="334030" spn="Movistar"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="33403" spn="Movistar"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="732103" spn="TIGO"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="732111" spn="TIGO"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="732123" spn="Movistar"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="70403" spn="Movistar"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="346140" spn="FLOW"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="34614" spn="FLOW"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="338180" spn="FLOW"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="33818" spn="FLOW"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="365840" spn="FLOW"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="36584" spn="FLOW"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="344920" spn="FLOW"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="34492" spn="FLOW"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="342600" spn="FLOW"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="34260" spn="FLOW"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="348170" spn="FLOW"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="34817" spn="FLOW"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="352110" spn="FLOW"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="35211" spn="FLOW"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="354860" spn="FLOW"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="35486" spn="FLOW"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="356110" spn="FLOW"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="35611" spn="FLOW"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="358110" spn="FLOW"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="35811" spn="FLOW"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="360110" spn="FLOW"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="36011" spn="FLOW"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="376350" spn="FLOW"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="37635" spn="FLOW"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="90145" spn="AISatSea"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="36269" spn="DIGICEL"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="36269" spn="DIGICEL"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="73001" spn="entel"/>
+    <spnOverride mvno_match_data="" mvno_type="" numeric="73007" spn="GTD Movil"/>
+    <spnOverride mvno_match_data="23806009" mvno_type="imsi" numeric="23806" spn="Oister DK"/>
+    <spnOverride mvno_match_data="2382094" mvno_type="imsi" numeric="23820" spn="Call me"/>
+    <spnOverride mvno_match_data="2382093" mvno_type="imsi" numeric="23820" spn="DLG Tele"/>
+    <spnOverride mvno_match_data="23801374" mvno_type="imsi" numeric="23801" spn="YouSee"/>
+    <spnOverride mvno_match_data="23801343" mvno_type="imsi" numeric="23801" spn="Fullrate"/>
+    <spnOverride mvno_match_data="23801381" mvno_type="imsi" numeric="23801" spn="Telmore"/>
+    <spnOverride mvno_match_data="2380228" mvno_type="imsi" numeric="23802" spn="Lebara"/>
+    <spnOverride mvno_match_data="2380172" mvno_type="imsi" numeric="23801" spn="TDC SE"/>
+    <spnOverride mvno_match_data="2380171" mvno_type="imsi" numeric="23801" spn="TDC NO"/>
+    <spnOverride mvno_match_data="204080753" mvno_type="imsi" numeric="20408" spn="UPC HU"/>
+    <spnOverride mvno_match_data="240077" mvno_type="imsi" numeric="24007" spn="Comviq"/>
+    <spnOverride mvno_match_data="240078" mvno_type="imsi" numeric="24007" spn="Comviq"/>
+    <spnOverride mvno_match_data="240080635" mvno_type="imsi" numeric="24008" spn="Glocalnet"/>
+    <spnOverride mvno_match_data="240080735" mvno_type="imsi" numeric="24008" spn="Glocalnet"/>
+    <spnOverride mvno_match_data="23801362" mvno_type="imsi" numeric="23801" spn="YouSee"/>
+    <spnOverride mvno_match_data="2380225" mvno_type="imsi" numeric="23802" spn="CBB"/>
+    <spnOverride mvno_match_data="2380227" mvno_type="imsi" numeric="23802" spn="CBB"/>
+    <spnOverride mvno_match_data="2380280" mvno_type="imsi" numeric="23802" spn="BiBoB"/>
+    <spnOverride mvno_match_data="0x75617431" mvno_type="gid" numeric="23213" spn="UPC AT"/>
+    <spnOverride mvno_match_data="24001704" mvno_type="imsi" numeric="24001" spn="Halebop"/>
+    <spnOverride mvno_match_data="24001714" mvno_type="imsi" numeric="24001" spn="Halebop"/>
+    <spnOverride mvno_match_data="23207718" mvno_type="imsi" numeric="23207" spn=""/>
+    <spnOverride mvno_match_data="2320776" mvno_type="imsi" numeric="23207" spn=""/>
+    <spnOverride mvno_match_data="23207799" mvno_type="imsi" numeric="23207" spn=""/>
+    <spnOverride mvno_match_data="2420507" mvno_type="imsi" numeric="24205" spn="One Call"/>
+    <spnOverride mvno_match_data="2420508" mvno_type="imsi" numeric="24205" spn="One Call"/>
+    <spnOverride mvno_match_data="2420595" mvno_type="imsi" numeric="24205" spn="My Call"/>
+    <spnOverride mvno_match_data="heyah" mvno_type="spn" numeric="26002" spn="Heyah"/>
+    <spnOverride mvno_match_data="Ge org!" mvno_type="spn" numeric="23212" spn="Ge org!"/>
+    <spnOverride mvno_match_data="Chess" mvno_type="spn" numeric="24202" spn="Chess"/>
+    <spnOverride mvno_match_data="0x01" mvno_type="gid" numeric="23203" spn="T-Mobile A"/>
+    <spnOverride mvno_match_data="0x07" mvno_type="gid" numeric="23207" spn="telering"/>
+    <spnOverride mvno_match_data="0xFF" mvno_type="gid" numeric="23207" spn="telering"/>
+    <spnOverride mvno_match_data="0x11" mvno_type="gid" numeric="26002" spn="T-Mobile.pl"/>
+    <spnOverride mvno_match_data="0x12" mvno_type="gid" numeric="26002" spn="T-Mobile.pl"/>
+    <spnOverride mvno_match_data="0x16" mvno_type="gid" numeric="26002" spn="T-Mobile.pl"/>
+    <spnOverride mvno_match_data="0x17" mvno_type="gid" numeric="26002" spn="T-Mobile.pl"/>
+    <spnOverride mvno_match_data="0x21" mvno_type="gid" numeric="26002" spn="T-Mobile.pl"/>
+    <spnOverride mvno_match_data="0x22" mvno_type="gid" numeric="26002" spn="T-Mobile.pl"/>
+    <spnOverride mvno_match_data="0x24" mvno_type="gid" numeric="26002" spn="T-Mobile.pl"/>
+    <spnOverride mvno_match_data="0x26" mvno_type="gid" numeric="26002" spn="T-Mobile.pl"/>
+    <spnOverride mvno_match_data="T-Mobile.pl" mvno_type="spn" numeric="26002" spn="T-Mobile.pl"/>
+    <spnOverride mvno_match_data="T-Mobile.pl Q" mvno_type="spn" numeric="26002" spn="T-Mobile.pl"/>
+    <spnOverride mvno_match_data="0x23" mvno_type="gid" numeric="26002" spn="Heyah"/>
+    <spnOverride mvno_match_data="0xFF" mvno_type="gid" numeric="20201" spn="GR COSMOTE"/>
+    <spnOverride mvno_match_data="T-Mobile CZ" mvno_type="spn" numeric="23001" spn="T-Mobile CZ"/>
+    <spnOverride mvno_match_data="0x01" mvno_type="gid" numeric="21901" spn="HT HR"/>
+    <spnOverride mvno_match_data="0x02" mvno_type="gid" numeric="21901" spn="HT HR"/>
+    <spnOverride mvno_match_data="0x03" mvno_type="gid" numeric="21901" spn="HT HR"/>
+    <spnOverride mvno_match_data="0x99" mvno_type="gid" numeric="21901" spn="HT HR"/>
+    <spnOverride mvno_match_data="T-Mobile HR" mvno_type="spn" numeric="21901" spn="HT HR"/>
+    <spnOverride mvno_match_data="HT HR" mvno_type="spn" numeric="21901" spn="HT HR"/>
+    <spnOverride mvno_match_data="Telekom HU" mvno_type="spn" numeric="21630" spn="Telekom HU"/>
+    <spnOverride mvno_match_data="T-Mobile H" mvno_type="spn" numeric="21630" spn="Telekom HU"/>
+    <spnOverride mvno_match_data="0xFF" mvno_type="gid" numeric="29401" spn="Telekom MK"/>
+    <spnOverride mvno_match_data="Telekom.mk" mvno_type="spn" numeric="29401" spn="Telekom MK"/>
+    <spnOverride mvno_match_data="Telekom.me" mvno_type="spn" numeric="29702" spn="Telekom.me"/>
+    <spnOverride mvno_match_data="Telekom SK" mvno_type="spn" numeric="23102" spn="Telekom SK"/>
+    <spnOverride mvno_match_data="Juro.sk" mvno_type="spn" numeric="23102" spn="Telekom SK"/>
+    <spnOverride mvno_match_data="TELEKOM.RO" mvno_type="spn" numeric="22603" spn="TELEKOM.RO"/>
+    <spnOverride mvno_match_data="COSMOTE" mvno_type="spn" numeric="22603" spn="TELEKOM.RO"/>
+    <spnOverride mvno_match_data="frog" mvno_type="spn" numeric="22603" spn="TELEKOM.RO"/>
+    <spnOverride mvno_match_data="MTV Mobile" mvno_type="spn" numeric="22603" spn="TELEKOM.RO"/>
+    <spnOverride mvno_match_data="TELEKOM.RO" mvno_type="spn" numeric="22606" spn="TELEKOM.RO"/>
+    <spnOverride mvno_match_data="COSMOTE" mvno_type="spn" numeric="22606" spn="TELEKOM.RO"/>
+    <spnOverride mvno_match_data="frog" mvno_type="spn" numeric="22606" spn="TELEKOM.RO"/>
+    <spnOverride mvno_match_data="MTV Mobile" mvno_type="spn" numeric="22606" spn="TELEKOM.RO"/>
+    <spnOverride mvno_match_data="Telekom.me" mvno_type="spn" numeric="22004" spn="Telekom.me"/>
+    <spnOverride mvno_match_data="0x10" mvno_type="gid" numeric="21901" spn="bonbon"/>
+    <spnOverride mvno_match_data="0x11" mvno_type="gid" numeric="21901" spn="bonbon"/>
+    <spnOverride mvno_match_data="0x12" mvno_type="gid" numeric="21901" spn="bonbon"/>
+    <spnOverride mvno_match_data="bonbon" mvno_type="spn" numeric="21901" spn="bonbon"/>
+    <spnOverride mvno_match_data="232104600" mvno_type="imsi" numeric="23210" spn="MediaMarkt"/>
+    <spnOverride mvno_match_data="232104601" mvno_type="imsi" numeric="23210" spn="MediaMarkt"/>
+    <spnOverride mvno_match_data="232104602" mvno_type="imsi" numeric="23210" spn="MediaMarkt"/>
+    <spnOverride mvno_match_data="232104603" mvno_type="imsi" numeric="23210" spn="MediaMarkt"/>
+    <spnOverride mvno_match_data="232104604" mvno_type="imsi" numeric="23210" spn="MediaMarkt"/>
+    <spnOverride mvno_match_data="232104605" mvno_type="imsi" numeric="23210" spn="Saturn"/>
+    <spnOverride mvno_match_data="232104606" mvno_type="imsi" numeric="23210" spn="Saturn"/>
+    <spnOverride mvno_match_data="232104607" mvno_type="imsi" numeric="23210" spn="Saturn"/>
+    <spnOverride mvno_match_data="232104608" mvno_type="imsi" numeric="23210" spn="Saturn"/>
+    <spnOverride mvno_match_data="232104609" mvno_type="imsi" numeric="23210" spn="Saturn"/>
+    <spnOverride mvno_match_data="293400130" mvno_type="imsi" numeric="29340" spn="A1 SI"/>
+    <spnOverride mvno_match_data="spn_null" mvno_type="spn" numeric="21670" spn="vodafone HU"/>
+    <spnOverride mvno_match_data="voda" mvno_type="spn" numeric="21670" spn="vodafone HU"/>
+    <spnOverride mvno_match_data="spn_null" mvno_type="spn" numeric="20205" spn="vodafone GR"/>
+    <spnOverride mvno_match_data="voda" mvno_type="spn" numeric="20205" spn="vodafone GR"/>
+    <spnOverride mvno_match_data="spn_null" mvno_type="spn" numeric="23003" spn="Vodafone CZ"/>
+    <spnOverride mvno_match_data="voda" mvno_type="spn" numeric="23003" spn="Vodafone CZ"/>
+    <spnOverride mvno_match_data="spn_null" mvno_type="spn" numeric="22601" spn="Vodafone RO"/>
+    <spnOverride mvno_match_data="voda" mvno_type="spn" numeric="22601" spn="Vodafone RO"/>
+    <spnOverride mvno_match_data="spn_null" mvno_type="spn" numeric="27602" spn="Vodafone AL"/>
+    <spnOverride mvno_match_data="voda" mvno_type="spn" numeric="27602" spn="Vodafone AL"/>
+    <spnOverride mvno_match_data="0xF2330002" mvno_type="gid" numeric="64703" spn="Free"/>
+    <spnOverride mvno_match_data="spn_null" mvno_type="spn" numeric="65501" spn="Vodacom SA"/>
+    <spnOverride mvno_match_data="voda" mvno_type="spn" numeric="65501" spn="Vodacom SA"/>
+    <spnOverride mvno_match_data="0x0A" mvno_type="gid" numeric="52505" spn="StarHub"/>
+    <spnOverride mvno_match_data="0x01010000" mvno_type="gid" numeric="45418" spn="CSL"/>
+    <spnOverride mvno_match_data="0x01020000" mvno_type="gid" numeric="45418" spn="CSL"/>
+    <spnOverride mvno_match_data="0x01030000" mvno_type="gid" numeric="45418" spn="CSL"/>
+    <spnOverride mvno_match_data="0x01040000" mvno_type="gid" numeric="45418" spn="CSL"/>
+    <spnOverride mvno_match_data="0x02020001" mvno_type="gid" numeric="45418" spn="CSL"/>
+    <spnOverride mvno_match_data="0x02030001" mvno_type="gid" numeric="45418" spn="CSL"/>
+    <spnOverride mvno_match_data="0x02020002" mvno_type="gid" numeric="45418" spn="CSL"/>
+    <spnOverride mvno_match_data="0x01010000" mvno_type="gid" numeric="45400" spn="CSL"/>
+    <spnOverride mvno_match_data="0x01020000" mvno_type="gid" numeric="45400" spn="CSL"/>
+    <spnOverride mvno_match_data="0x01030000" mvno_type="gid" numeric="45400" spn="CSL"/>
+    <spnOverride mvno_match_data="0x01040000" mvno_type="gid" numeric="45400" spn="CSL"/>
+    <spnOverride mvno_match_data="0x02020001" mvno_type="gid" numeric="45400" spn="CSL"/>
+    <spnOverride mvno_match_data="0x02030001" mvno_type="gid" numeric="45400" spn="CSL"/>
+    <spnOverride mvno_match_data="0x02020002" mvno_type="gid" numeric="45400" spn="CSL"/>
+    <spnOverride mvno_match_data="0x01010000" mvno_type="gid" numeric="45402" spn="CSL"/>
+    <spnOverride mvno_match_data="0x01020000" mvno_type="gid" numeric="45402" spn="CSL"/>
+    <spnOverride mvno_match_data="0x01030000" mvno_type="gid" numeric="45402" spn="CSL"/>
+    <spnOverride mvno_match_data="0x01040000" mvno_type="gid" numeric="45402" spn="CSL"/>
+    <spnOverride mvno_match_data="0x02020001" mvno_type="gid" numeric="45402" spn="CSL"/>
+    <spnOverride mvno_match_data="0x02030001" mvno_type="gid" numeric="45402" spn="CSL"/>
+    <spnOverride mvno_match_data="0x02020002" mvno_type="gid" numeric="45402" spn="CSL"/>
+    <spnOverride mvno_match_data="0x0405" mvno_type="gid" numeric="45403" spn="Mo"/>
+    <spnOverride mvno_match_data="Digicel" mvno_type="spn" numeric="33805" spn="Digicel"/>
+    <spnOverride mvno_match_data="505029" mvno_type="imsi" numeric="50502" spn="Virgin Mobile"/>
+    <spnOverride mvno_match_data="5300520" mvno_type="imsi" numeric="53005" spn="Skinny"/>
+    <spnOverride mvno_match_data="DIGICEL" mvno_type="spn" numeric="53703" spn="DIGICEL"/>
+    <spnOverride mvno_match_data="5420202" mvno_type="imsi" numeric="54202" spn="Digicel"/>
+    <spnOverride mvno_match_data="Digicel" mvno_type="spn" numeric="53988" spn="Digicel"/>
+    <spnOverride mvno_match_data="Digicel" mvno_type="spn" numeric="54105" spn="Digicel"/>
+    <spnOverride mvno_match_data="ABS-CBN" mvno_type="spn" numeric="51502" spn="ABS-CBN"/>
+    <spnOverride mvno_match_data="5302410" mvno_type="imsi" numeric="53024" spn="Warehouse"/>
+    <spnOverride mvno_match_data="Hollandsnieuwe" mvno_type="spn" numeric="20404" spn="Hollandsnieuwe"/>
+    <spnOverride mvno_match_data="ziggo.dataxs.mob" mvno_type="spn" numeric="20404" spn="Ziggo"/>
+    <spnOverride mvno_match_data="2040807500" mvno_type="imsi" numeric="20408" spn="Ziggo"/>
+    <spnOverride mvno_match_data="2040807501" mvno_type="imsi" numeric="20408" spn="Ziggo"/>
+    <spnOverride mvno_match_data="2040807502" mvno_type="imsi" numeric="20408" spn="Ziggo"/>
+    <spnOverride mvno_match_data="2040807503" mvno_type="imsi" numeric="20408" spn="Ziggo"/>
+    <spnOverride mvno_match_data="2040807504" mvno_type="imsi" numeric="20408" spn="Ziggo"/>
+    <spnOverride mvno_match_data="204080751" mvno_type="imsi" numeric="20408" spn="Ziggo"/>
+    <spnOverride mvno_match_data="hollandsnieuwe" mvno_type="spn" numeric="20404" spn="Hollandsnieuwe"/>
+    <spnOverride mvno_match_data="204164442" mvno_type="imsi" numeric="20416" spn="Ben NL"/>
+    <spnOverride mvno_match_data="204164542" mvno_type="imsi" numeric="20416" spn="Ben NL"/>
+    <spnOverride mvno_match_data="2041646420" mvno_type="imsi" numeric="20416" spn="Ben NL"/>
+    <spnOverride mvno_match_data="204164742" mvno_type="imsi" numeric="20416" spn="Ben NL"/>
+    <spnOverride mvno_match_data="204080950" mvno_type="imsi" numeric="20408" spn="voiceworks"/>
+    <spnOverride mvno_match_data="20601889" mvno_type="imsi" numeric="20601" spn=""/>
+    <spnOverride mvno_match_data="Ziggo" mvno_type="spn" numeric="20601" spn="Ziggo"/>
+    <spnOverride mvno_match_data="LeclercMobile" mvno_type="spn" numeric="20810" spn=""/>
+    <spnOverride mvno_match_data="tuenti" mvno_type="spn" numeric="21405" spn="tuenti"/>
+    <spnOverride mvno_match_data="Orange" mvno_type="spn" numeric="21403" spn="Orange"/>
+    <spnOverride mvno_match_data="2140612" mvno_type="imsi" numeric="21406" spn="Mobil R"/>
+    <spnOverride mvno_match_data="2140613" mvno_type="imsi" numeric="21406" spn="telecable"/>
+    <spnOverride mvno_match_data="EUSKALTEL" mvno_type="spn" numeric="21403" spn=""/>
+    <spnOverride mvno_match_data="RACC" mvno_type="spn" numeric="21403" spn=""/>
+    <spnOverride mvno_match_data="Carrefour" mvno_type="spn" numeric="21403" spn="Carrefour"/>
+    <spnOverride mvno_match_data="MASMOVIL" mvno_type="spn" numeric="21403" spn="MASMOVIL"/>
+    <spnOverride mvno_match_data="Ibercom" mvno_type="spn" numeric="21403" spn="Ibercom"/>
+    <spnOverride mvno_match_data="Happy" mvno_type="spn" numeric="21403" spn="Happy"/>
+    <spnOverride mvno_match_data="CABLE movil" mvno_type="spn" numeric="21403" spn="CABLE movil"/>
+    <spnOverride mvno_match_data="222998" mvno_type="imsi" numeric="22299" spn="FASTWEB"/>
+    <spnOverride mvno_match_data="222101306" mvno_type="imsi" numeric="22210" spn="Daily Telecom"/>
+    <spnOverride mvno_match_data="222101406" mvno_type="imsi" numeric="22210" spn="Daily Telecom"/>
+    <spnOverride mvno_match_data="0x00" mvno_type="file" numeric="23410" spn="O2 - UK"/>
+    <spnOverride mvno_match_data="0x20" mvno_type="file" numeric="23410" spn="O2 - UK"/>
+    <spnOverride mvno_match_data="0x00" mvno_type="file" numeric="23410" spn="O2 - UK"/>
+    <spnOverride mvno_match_data="0x01" mvno_type="file" numeric="23410" spn="O2 - UK"/>
+    <spnOverride mvno_match_data="TalkTalk" mvno_type="spn" numeric="23415" spn="TalkTalk"/>
+    <spnOverride mvno_match_data="0x0A" mvno_type="gid" numeric="23410" spn="Tesco"/>
+    <spnOverride mvno_match_data="Sainsbury's" mvno_type="spn" numeric="23415" spn="Sainsbury's"/>
+    <spnOverride mvno_match_data="Talkmobile" mvno_type="spn" numeric="23415" spn="Talkmobile"/>
+    <spnOverride mvno_match_data="0x28" mvno_type="gid" numeric="23430" spn="Virgin"/>
+    <spnOverride mvno_match_data="0xB2" mvno_type="gid" numeric="23430" spn="BT OnePhone"/>
+    <spnOverride mvno_match_data="0xB3" mvno_type="gid" numeric="23430" spn="BT"/>
+    <spnOverride mvno_match_data="0xC3" mvno_type="gid" numeric="23430" spn="BT"/>
+    <spnOverride mvno_match_data="24007602" mvno_type="imsi" numeric="24007" spn="Tele2 NL"/>
+    <spnOverride mvno_match_data="24007603" mvno_type="imsi" numeric="24007" spn="Tele2 NL"/>
+    <spnOverride mvno_match_data="24007604" mvno_type="imsi" numeric="24007" spn="Tele2 NL"/>
+    <spnOverride mvno_match_data="24007605" mvno_type="imsi" numeric="24007" spn="Tele2 NL"/>
+    <spnOverride mvno_match_data="24007606" mvno_type="imsi" numeric="24007" spn="Tele2 NL"/>
+    <spnOverride mvno_match_data="24007607" mvno_type="imsi" numeric="24007" spn="Tele2 NL"/>
+    <spnOverride mvno_match_data="24007608" mvno_type="imsi" numeric="24007" spn="Tele2 NL"/>
+    <spnOverride mvno_match_data="24007609" mvno_type="imsi" numeric="24007" spn="Tele2 NL"/>
+    <spnOverride mvno_match_data="24007610" mvno_type="imsi" numeric="24007" spn="Tele2 NL"/>
+    <spnOverride mvno_match_data="24007611" mvno_type="imsi" numeric="24007" spn="Tele2 NL"/>
+    <spnOverride mvno_match_data="24007612" mvno_type="imsi" numeric="24007" spn="Tele2 NL"/>
+    <spnOverride mvno_match_data="24007619" mvno_type="imsi" numeric="24007" spn="Tele2 NL"/>
+    <spnOverride mvno_match_data="26207500" mvno_type="imsi" numeric="26207" spn="Tchibo"/>
+    <spnOverride mvno_match_data="26207515" mvno_type="imsi" numeric="26207" spn="Fonic"/>
+    <spnOverride mvno_match_data="Otelo" mvno_type="spn" numeric="26202" spn="Otelo"/>
+    <spnOverride mvno_match_data="0x0305" mvno_type="gid" numeric="23420" spn="iD"/>
+    <spnOverride mvno_match_data="0x537" mvno_type="gid" numeric="23410" spn="TalkTalk"/>
+    <spnOverride mvno_match_data="pepephone" mvno_type="spn" numeric="21405" spn="Pepephone"/>
+    <spnOverride mvno_match_data="Pepephone" mvno_type="spn" numeric="21405" spn="Pepephone"/>
+    <spnOverride mvno_match_data="Tuenti" mvno_type="spn" numeric="21405" spn="tuenti"/>
+    <spnOverride mvno_match_data="ONO" mvno_type="spn" numeric="21405" spn="ONO"/>
+    <spnOverride mvno_match_data="2140602" mvno_type="imsi" numeric="21406" spn="Pepephone"/>
+    <spnOverride mvno_match_data="0x44" mvno_type="gid" numeric="26201" spn=""/>
+    <spnOverride mvno_match_data="simyo" mvno_type="spn" numeric="21403" spn="simyo"/>
+    <spnOverride mvno_match_data="0x28" mvno_type="gid" numeric="23438" spn="Virgin"/>
+    <spnOverride mvno_match_data="27201110" mvno_type="imsi" numeric="27201" spn="Postmobile"/>
+    <spnOverride mvno_match_data="JAZZTEL" mvno_type="spn" numeric="21403" spn="JAZZTEL"/>
+    <spnOverride mvno_match_data="JAZZTEL" mvno_type="spn" numeric="21407" spn="JAZZTEL"/>
+    <spnOverride mvno_match_data="MovilDIA" mvno_type="spn" numeric="21403" spn="MovilDIA"/>
+    <spnOverride mvno_match_data="LlamaYA" mvno_type="spn" numeric="21403" spn="LlamaYA"/>
+    <spnOverride mvno_match_data="You Mobile" mvno_type="spn" numeric="21403" spn="YOU Mobile"/>
+    <spnOverride mvno_match_data="LCR" mvno_type="spn" numeric="21403" spn="LCR"/>
+    <spnOverride mvno_match_data="IOS" mvno_type="spn" numeric="21403" spn="IOS"/>
+    <spnOverride mvno_match_data="21403508" mvno_type="imsi" numeric="21403" spn="Mobil R"/>
+    <spnOverride mvno_match_data="21403509" mvno_type="imsi" numeric="21403" spn="Mobil R"/>
+    <spnOverride mvno_match_data="Lowi" mvno_type="spn" numeric="21406" spn="Lowi"/>
+    <spnOverride mvno_match_data="Eroski Movil" mvno_type="spn" numeric="21406" spn="Eroski Movil"/>
+    <spnOverride mvno_match_data="PosteMobile" mvno_type="spn" numeric="22210" spn="PosteMobile"/>
+    <spnOverride mvno_match_data="Coop Mobile" mvno_type="spn" numeric="22201" spn="Coop Voce"/>
+    <spnOverride mvno_match_data="COOP" mvno_type="spn" numeric="22201" spn="Coop Voce"/>
+    <spnOverride mvno_match_data="COOP !OBILE" mvno_type="spn" numeric="22201" spn="Coop Voce"/>
+    <spnOverride mvno_match_data="COOP MOBLIE" mvno_type="spn" numeric="22201" spn="Coop Voce"/>
+    <spnOverride mvno_match_data="0x75636831" mvno_type="gid" numeric="20601" spn="upc ch"/>
+    <spnOverride mvno_match_data="Lebara" mvno_type="spn" numeric="21406" spn="LEBARA"/>
+    <spnOverride mvno_match_data="Hits" mvno_type="spn" numeric="21406" spn="HITS"/>
+    <spnOverride mvno_match_data="0xFF" mvno_type="gid" numeric="20416" spn="T-Mobile NL"/>
+    <spnOverride mvno_match_data="T-Mobile NL" mvno_type="spn" numeric="20416" spn="T-Mobile NL"/>
+    <spnOverride mvno_match_data="0xFF" mvno_type="gid" numeric="20420" spn="T-Mobile NL"/>
+    <spnOverride mvno_match_data="T-Mobile NL" mvno_type="spn" numeric="20420" spn="T-Mobile NL"/>
+    <spnOverride mvno_match_data="0x5F" mvno_type="gid" numeric="20416" spn="Ben NL"/>
+    <spnOverride mvno_match_data="Ben NL" mvno_type="spn" numeric="20416" spn="Ben NL"/>
+    <spnOverride mvno_match_data="0x01" mvno_type="gid" numeric="26201" spn="Telekom.de"/>
+    <spnOverride mvno_match_data="0x02" mvno_type="gid" numeric="26201" spn="Telekom.de"/>
+    <spnOverride mvno_match_data="0x03" mvno_type="gid" numeric="26201" spn="Telekom.de"/>
+    <spnOverride mvno_match_data="0x04" mvno_type="gid" numeric="26201" spn="Telekom.de"/>
+    <spnOverride mvno_match_data="0x99" mvno_type="gid" numeric="26201" spn="Telekom.de"/>
+    <spnOverride mvno_match_data="Telekom.de" mvno_type="spn" numeric="26201" spn="Telekom.de"/>
+    <spnOverride mvno_match_data="T-Mobile D" mvno_type="spn" numeric="26201" spn="Telekom.de"/>
+    <spnOverride mvno_match_data="Business" mvno_type="spn" numeric="26201" spn="Telekom.de"/>
+    <spnOverride mvno_match_data="Privat" mvno_type="spn" numeric="26201" spn="Telekom.de"/>
+    <spnOverride mvno_match_data="congstar" mvno_type="spn" numeric="26201" spn=""/>
+    <spnOverride mvno_match_data="congstar.de" mvno_type="spn" numeric="26201" spn=""/>
+    <spnOverride mvno_match_data="0x4B" mvno_type="gid" numeric="26201" spn="Telekom.de"/>
+    <spnOverride mvno_match_data="telecable" mvno_type="spn" numeric="21405" spn="telecable"/>
+    <spnOverride mvno_match_data="0x4E524A31" mvno_type="gid" numeric="20801" spn=""/>
+    <spnOverride mvno_match_data="0x4D564E45" mvno_type="gid" numeric="23410" spn="Giffgaff"/>
+    <spnOverride mvno_match_data="spn_null" mvno_type="spn" numeric="20404" spn="vodafone NL"/>
+    <spnOverride mvno_match_data="voda" mvno_type="spn" numeric="20404" spn="vodafone NL"/>
+    <spnOverride mvno_match_data="204043" mvno_type="imsi" numeric="20404" spn="vodafone NL"/>
+    <spnOverride mvno_match_data="204046" mvno_type="imsi" numeric="20404" spn="vodafone NL"/>
+    <spnOverride mvno_match_data="spn_null" mvno_type="spn" numeric="22210" spn="vodafone IT"/>
+    <spnOverride mvno_match_data="voda" mvno_type="spn" numeric="22210" spn="vodafone IT"/>
+    <spnOverride mvno_match_data="spn_null" mvno_type="spn" numeric="26202" spn="Vodafone.de"/>
+    <spnOverride mvno_match_data="voda" mvno_type="spn" numeric="26202" spn="Vodafone.de"/>
+    <spnOverride mvno_match_data="spn_null" mvno_type="spn" numeric="27201" spn="vodafone IE"/>
+    <spnOverride mvno_match_data="voda" mvno_type="spn" numeric="27201" spn="vodafone IE"/>
+    <spnOverride mvno_match_data="spn_null" mvno_type="spn" numeric="23415" spn="vodafone UK"/>
+    <spnOverride mvno_match_data="voda" mvno_type="spn" numeric="23415" spn="vodafone UK"/>
+    <spnOverride mvno_match_data="0x4E524A31" mvno_type="gid" numeric="20810" spn=""/>
+    <spnOverride mvno_match_data="26207414" mvno_type="imsi" numeric="26207" spn="1&amp;1"/>
+    <spnOverride mvno_match_data="26203293" mvno_type="imsi" numeric="26203" spn="1&amp;1"/>
+    <spnOverride mvno_match_data="26203330" mvno_type="imsi" numeric="26203" spn="1&amp;1"/>
+    <spnOverride mvno_match_data="0x11" mvno_type="gid" numeric="26202" spn="1&amp;1"/>
+    <spnOverride mvno_match_data="214340104" mvno_type="imsi" numeric="21434" spn="Operador"/>
+    <spnOverride mvno_match_data="0xF2330002" mvno_type="gid" numeric="20815" spn="Free"/>
+    <spnOverride mvno_match_data="ho." mvno_type="spn" numeric="22210" spn="ho."/>
+    <spnOverride mvno_match_data="spn_null" mvno_type="spn" numeric="26801" spn="vodafone P"/>
+    <spnOverride mvno_match_data="voda" mvno_type="spn" numeric="26801" spn="vodafone P"/>
+    <spnOverride mvno_match_data="spn_null" mvno_type="spn" numeric="21401" spn="vodafone ES"/>
+    <spnOverride mvno_match_data="voda" mvno_type="spn" numeric="21401" spn="vodafone ES"/>
+    <spnOverride mvno_match_data="spn_null" mvno_type="spn" numeric="27801" spn="vodafone MT"/>
+    <spnOverride mvno_match_data="voda" mvno_type="spn" numeric="27801" spn="vodafone MT"/>
+    <spnOverride mvno_match_data="ERG mobile" mvno_type="spn" numeric="22210" spn=""/>
+    <spnOverride mvno_match_data="1 MOBILE" mvno_type="spn" numeric="22210" spn=""/>
+    <spnOverride mvno_match_data="Optima" mvno_type="spn" numeric="22210" spn=""/>
+    <spnOverride mvno_match_data="TAZA" mvno_type="spn" numeric="22210" spn=""/>
+    <spnOverride mvno_match_data="0x118004" mvno_type="gid" numeric="26207" spn="1&amp;1"/>
+    <spnOverride mvno_match_data="0x118006" mvno_type="gid" numeric="26207" spn="1&amp;1"/>
+    <spnOverride mvno_match_data="0xF003" mvno_type="gid" numeric="20815" spn="Iliad Int"/>
+    <spnOverride mvno_match_data="0xF003" mvno_type="gid" numeric="22250" spn="ILIAD"/>
+    <spnOverride mvno_match_data="0xEE" mvno_type="gid" numeric="23430" spn="EE"/>
+    <spnOverride mvno_match_data="21403506" mvno_type="imsi" numeric="21403" spn=""/>
+    <spnOverride mvno_match_data="JAZZTEL" mvno_type="spn" numeric="21421" spn="JAZZTEL"/>
+    <spnOverride mvno_match_data="simyo" mvno_type="spn" numeric="21419" spn="simyo"/>
+    <spnOverride mvno_match_data="0x508F" mvno_type="gid" numeric="23410" spn="Giffgaff"/>
+    <spnOverride mvno_match_data="0x000000" mvno_type="gid" numeric="26203" spn="o2 - de"/>
+    <spnOverride mvno_match_data="0x000500" mvno_type="gid" numeric="26203" spn="o2 - de"/>
+    <spnOverride mvno_match_data="0x010301" mvno_type="gid" numeric="26203" spn="o2 - de"/>
+    <spnOverride mvno_match_data="0x010901" mvno_type="gid" numeric="26203" spn="o2 - de"/>
+    <spnOverride mvno_match_data="0x000000" mvno_type="gid" numeric="26207" spn="o2 - de"/>
+    <spnOverride mvno_match_data="0x000500" mvno_type="gid" numeric="26207" spn="o2 - de"/>
+    <spnOverride mvno_match_data="0x010301" mvno_type="gid" numeric="26207" spn="o2 - de"/>
+    <spnOverride mvno_match_data="0x010901" mvno_type="gid" numeric="26207" spn="o2 - de"/>
+    <spnOverride mvno_match_data="0x0309" mvno_type="gid" numeric="23420" spn=""/>
+    <spnOverride mvno_match_data="0x0310" mvno_type="gid" numeric="23420" spn=""/>
+    <spnOverride mvno_match_data="24007561" mvno_type="imsi" numeric="24007" spn=""/>
+    <spnOverride mvno_match_data="0x0C" mvno_type="gid" numeric="23457" spn=""/>
+    <spnOverride mvno_match_data="Virgin Mobile" mvno_type="spn" numeric="42005" spn="Virgin Mobile"/>
+    <spnOverride mvno_match_data="FRiENDi mobile" mvno_type="spn" numeric="42005" spn="FRiENDi mobile"/>
+    <spnOverride mvno_match_data="2860159" mvno_type="imsi" numeric="28601" spn="TCELL"/>
+    <spnOverride mvno_match_data="spn_null" mvno_type="spn" numeric="28602" spn="VODAFONE TR"/>
+    <spnOverride mvno_match_data="voda" mvno_type="spn" numeric="28602" spn="VODAFONE TR"/>
+    <spnOverride mvno_match_data="0x5455" mvno_type="gid" numeric="302220" spn="TELUS"/>
+    <spnOverride mvno_match_data="0x3D" mvno_type="gid" numeric="302610" spn="Bell"/>
+    <spnOverride mvno_match_data="0x5455" mvno_type="gid" numeric="302221" spn="TELUS"/>
+    <spnOverride mvno_match_data="0x4B4F" mvno_type="gid" numeric="302220" spn="KOODO"/>
+    <spnOverride mvno_match_data="0x4B4F" mvno_type="gid" numeric="302221" spn="KOODO"/>
+    <spnOverride mvno_match_data="0x5043" mvno_type="gid" numeric="302220" spn="PC mobile"/>
+    <spnOverride mvno_match_data="0x5043" mvno_type="gid" numeric="302221" spn="PC mobile"/>
+    <spnOverride mvno_match_data="0x0050" mvno_type="gid" numeric="311370" spn="GCI"/>
+    <spnOverride mvno_match_data="0xD4" mvno_type="gid" numeric="302720" spn=""/>
+    <spnOverride mvno_match_data="0x6D38" mvno_type="gid" numeric="310160" spn="MetroPCS"/>
+    <spnOverride mvno_match_data="0x6D38" mvno_type="gid" numeric="310210" spn="MetroPCS"/>
+    <spnOverride mvno_match_data="0x6D38" mvno_type="gid" numeric="310230" spn="MetroPCS"/>
+    <spnOverride mvno_match_data="0x6D38" mvno_type="gid" numeric="310240" spn="MetroPCS"/>
+    <spnOverride mvno_match_data="0x6D38" mvno_type="gid" numeric="310250" spn="MetroPCS"/>
+    <spnOverride mvno_match_data="0x6D38" mvno_type="gid" numeric="310260" spn="MetroPCS"/>
+    <spnOverride mvno_match_data="0x6D38" mvno_type="gid" numeric="310270" spn="MetroPCS"/>
+    <spnOverride mvno_match_data="0x6D38" mvno_type="gid" numeric="310300" spn="MetroPCS"/>
+    <spnOverride mvno_match_data="0x6D38" mvno_type="gid" numeric="310310" spn="MetroPCS"/>
+    <spnOverride mvno_match_data="0x6D38" mvno_type="gid" numeric="310490" spn="MetroPCS"/>
+    <spnOverride mvno_match_data="0x6D38" mvno_type="gid" numeric="310530" spn="MetroPCS"/>
+    <spnOverride mvno_match_data="0x6D38" mvno_type="gid" numeric="310580" spn="MetroPCS"/>
+    <spnOverride mvno_match_data="0x6D38" mvno_type="gid" numeric="310590" spn="MetroPCS"/>
+    <spnOverride mvno_match_data="0x6D38" mvno_type="gid" numeric="310640" spn="MetroPCS"/>
+    <spnOverride mvno_match_data="0x6D38" mvno_type="gid" numeric="310660" spn="MetroPCS"/>
+    <spnOverride mvno_match_data="0x6D38" mvno_type="gid" numeric="310800" spn="MetroPCS"/>
+    <spnOverride mvno_match_data="0x6D38" mvno_type="gid" numeric="310220" spn="MetroPCS"/>
+    <spnOverride mvno_match_data="0x6D38" mvno_type="gid" numeric="310200" spn="MetroPCS"/>
+    <spnOverride mvno_match_data="0x0310" mvno_type="gid" numeric="311370" spn="GCI"/>
+    <spnOverride mvno_match_data="0x4D4F" mvno_type="gid" numeric="302220" spn="Public mobile"/>
+    <spnOverride mvno_match_data="0x4D4F" mvno_type="gid" numeric="302221" spn="Public mobile"/>
+    <spnOverride mvno_match_data="0x2AC9" mvno_type="gid" numeric="310410" spn=""/>
+    <spnOverride mvno_match_data="0x2AC9" mvno_type="gid" numeric="310260" spn=""/>
+    <spnOverride mvno_match_data="0xDEFF" mvno_type="gid" numeric="310410" spn=""/>
+    <spnOverride mvno_match_data="0xDEFF" mvno_type="gid" numeric="310260" spn=""/>
+    <spnOverride mvno_match_data="0x534D" mvno_type="gid" numeric="310260" spn=""/>
+    <spnOverride mvno_match_data="31026077" mvno_type="imsi" numeric="310260" spn=""/>
+    <spnOverride mvno_match_data="31026078" mvno_type="imsi" numeric="310260" spn=""/>
+    <spnOverride mvno_match_data="31026079" mvno_type="imsi" numeric="310260" spn=""/>
+    <spnOverride mvno_match_data="0xD2" mvno_type="gid" numeric="302720" spn=""/>
+    <spnOverride mvno_match_data="0xBA" mvno_type="gid" numeric="302720" spn=""/>
+    <spnOverride mvno_match_data="0xCC" mvno_type="gid" numeric="302720" spn=""/>
+    <spnOverride mvno_match_data="0xDD" mvno_type="gid" numeric="302370" spn=""/>
+    <spnOverride mvno_match_data="0x4201" mvno_type="gid" numeric="310410" spn=""/>
+    <spnOverride mvno_match_data="0x4201" mvno_type="gid" numeric="310260" spn=""/>
+    <spnOverride mvno_match_data="0x2C" mvno_type="gid" numeric="302660" spn="MTS"/>
+    <spnOverride mvno_match_data="0x4153" mvno_type="gid" numeric="310260" spn=""/>
+    <spnOverride mvno_match_data="0x6136" mvno_type="gid" numeric="310260" spn=""/>
+    <spnOverride mvno_match_data="0x4753" mvno_type="gid" numeric="310260" spn=""/>
+    <spnOverride mvno_match_data="0x6C79" mvno_type="gid" numeric="310260" spn=""/>
+    <spnOverride mvno_match_data="0x554D" mvno_type="gid" numeric="310260" spn=""/>
+    <spnOverride mvno_match_data="0x6135" mvno_type="gid" numeric="310260" spn=""/>
+    <spnOverride mvno_match_data="0x4D4D" mvno_type="gid" numeric="310260" spn=""/>
+    <spnOverride mvno_match_data="0x62FF" mvno_type="gid" numeric="310410" spn=""/>
+    <spnOverride mvno_match_data="0x44FF" mvno_type="gid" numeric="310410" spn=""/>
+    <spnOverride mvno_match_data="0x49FF" mvno_type="gid" numeric="310410" spn=""/>
+    <spnOverride mvno_match_data="0x49FF" mvno_type="gid" numeric="310410" spn=""/>
+    <spnOverride mvno_match_data="0xDEFF" mvno_type="gid" numeric="310410" spn=""/>
+    <spnOverride mvno_match_data="0xDEFF" mvno_type="gid" numeric="310410" spn=""/>
+    <spnOverride mvno_match_data="0x49FF" mvno_type="gid" numeric="310410" spn=""/>
+    <spnOverride mvno_match_data="0x4201" mvno_type="gid" numeric="310410" spn=""/>
+    <spnOverride mvno_match_data="0x4358" mvno_type="gid" numeric="310260" spn=""/>
+    <spnOverride mvno_match_data="0x4358" mvno_type="gid" numeric="310260" spn=""/>
+    <spnOverride mvno_match_data="0x4358" mvno_type="gid" numeric="310260" spn=""/>
+    <spnOverride mvno_match_data="0x50FF" mvno_type="gid" numeric="310380" spn="AT&amp;T"/>
+    <spnOverride mvno_match_data="0x3E" mvno_type="gid" numeric="302610" spn="Virgin"/>
+    <spnOverride mvno_match_data="0x3F" mvno_type="gid" numeric="302610" spn="Solo"/>
+    <spnOverride mvno_match_data="0x40" mvno_type="gid" numeric="302610" spn="PC Mobile"/>
+    <spnOverride mvno_match_data="0x2801" mvno_type="gid" numeric="310260" spn=""/>
+    <spnOverride mvno_match_data="31026097" mvno_type="imsi" numeric="310260" spn="Google Project Fi"/>
+    <spnOverride mvno_match_data="0x2C" mvno_type="gid" numeric="302370" spn="MTS"/>
+    <spnOverride mvno_match_data="7321030027" mvno_type="imsi" numeric="732103" spn="UNE"/>
+    <spnOverride mvno_match_data="7321030028" mvno_type="imsi" numeric="732103" spn="UNE"/>
+    <spnOverride mvno_match_data="7321030029" mvno_type="imsi" numeric="732103" spn="UNE"/>
+    <spnOverride mvno_match_data="732103017" mvno_type="imsi" numeric="732103" spn="ETB MOVIL"/>
+    <spnOverride mvno_match_data="732103018" mvno_type="imsi" numeric="732103" spn="Uff!"/>
+    <spnOverride mvno_match_data="732103019" mvno_type="imsi" numeric="732103" spn="Uff!"/>
+    <spnOverride mvno_match_data="732103023713" mvno_type="imsi" numeric="732103" spn="Uff!"/>
+    <spnOverride mvno_match_data="732103023714" mvno_type="imsi" numeric="732103" spn="Uff!"/>
+    <spnOverride mvno_match_data="732103023715" mvno_type="imsi" numeric="732103" spn="Uff!"/>
+    <spnOverride mvno_match_data="732103023716" mvno_type="imsi" numeric="732103" spn="Uff!"/>
+    <spnOverride mvno_match_data="732103023717" mvno_type="imsi" numeric="732103" spn="Uff!"/>
+    <spnOverride mvno_match_data="732103023718" mvno_type="imsi" numeric="732103" spn="Uff!"/>
+    <spnOverride mvno_match_data="732103023719" mvno_type="imsi" numeric="732103" spn="Uff!"/>
+    <spnOverride mvno_match_data="73210302372" mvno_type="imsi" numeric="732103" spn="Uff!"/>
+    <spnOverride mvno_match_data="73210302373" mvno_type="imsi" numeric="732103" spn="Uff!"/>
+    <spnOverride mvno_match_data="73210302374" mvno_type="imsi" numeric="732103" spn="Uff!"/>
+    <spnOverride mvno_match_data="73210302375" mvno_type="imsi" numeric="732103" spn="Uff!"/>
+    <spnOverride mvno_match_data="732103023760" mvno_type="imsi" numeric="732103" spn="Uff!"/>
+    <spnOverride mvno_match_data="732103023761" mvno_type="imsi" numeric="732103" spn="Uff!"/>
+    <spnOverride mvno_match_data="732103024" mvno_type="imsi" numeric="732103" spn="UNE"/>
+    <spnOverride mvno_match_data="732103054" mvno_type="imsi" numeric="732103" spn="movil exito"/>
+    <spnOverride mvno_match_data="732103055" mvno_type="imsi" numeric="732103" spn="movil exito"/>
+    <spnOverride mvno_match_data="Virgin Mobile" mvno_type="spn" numeric="33403" spn="Virgin Mobile"/>
+    <spnOverride mvno_match_data="Virgin Mobile" mvno_type="spn" numeric="334030" spn="Virgin Mobile"/>
+    <spnOverride mvno_match_data="732111218" mvno_type="imsi" numeric="732111" spn="Uff!"/>
+    <spnOverride mvno_match_data="732111219" mvno_type="imsi" numeric="732111" spn="Uff!"/>
+    <spnOverride mvno_match_data="732111254" mvno_type="imsi" numeric="732111" spn="movil exito"/>
+    <spnOverride mvno_match_data="732111255" mvno_type="imsi" numeric="732111" spn="movil exito"/>
+    <spnOverride mvno_match_data="732111019" mvno_type="imsi" numeric="732111" spn="Uff!"/>
+    <spnOverride mvno_match_data="732111018" mvno_type="imsi" numeric="732111" spn="Uff!"/>
+    <spnOverride mvno_match_data="732123900" mvno_type="imsi" numeric="732123" spn="Virgin Mobile"/>
+    <spnOverride mvno_match_data="338050830" mvno_type="imsi" numeric="33805" spn="DIGICEL"/>
+    <spnOverride mvno_match_data="338050830" mvno_type="imsi" numeric="338050" spn="DIGICEL"/>
+    <spnOverride mvno_match_data="338050834" mvno_type="imsi" numeric="33805" spn="DIGICEL"/>
+    <spnOverride mvno_match_data="338050834" mvno_type="imsi" numeric="338050" spn="DIGICEL"/>
+    <spnOverride mvno_match_data="3380505" mvno_type="imsi" numeric="33805" spn="DIGICEL"/>
+    <spnOverride mvno_match_data="3380505" mvno_type="imsi" numeric="338050" spn="DIGICEL"/>
+    <spnOverride mvno_match_data="338050833" mvno_type="imsi" numeric="33805" spn="DIGICEL"/>
+    <spnOverride mvno_match_data="338050833" mvno_type="imsi" numeric="338050" spn="DIGICEL"/>
+    <spnOverride mvno_match_data="338050842" mvno_type="imsi" numeric="338050" spn="DIGICEL"/>
+    <spnOverride mvno_match_data="3380506" mvno_type="imsi" numeric="33805" spn="DIGICEL"/>
+    <spnOverride mvno_match_data="3380506" mvno_type="imsi" numeric="338050" spn="DIGICEL"/>
+    <spnOverride mvno_match_data="3380503" mvno_type="imsi" numeric="33805" spn="DIGICEL"/>
+    <spnOverride mvno_match_data="3380503" mvno_type="imsi" numeric="338050" spn="DIGICEL"/>
+    <spnOverride mvno_match_data="3380509" mvno_type="imsi" numeric="338050" spn="DIGICEL"/>
+    <spnOverride mvno_match_data="3380500" mvno_type="imsi" numeric="33805" spn="DIGICEL"/>
+    <spnOverride mvno_match_data="3380500" mvno_type="imsi" numeric="338050" spn="DIGICEL"/>
+    <spnOverride mvno_match_data="338050843" mvno_type="imsi" numeric="33805" spn="DIGICEL"/>
+    <spnOverride mvno_match_data="338050843" mvno_type="imsi" numeric="338050" spn="DIGICEL"/>
+    <spnOverride mvno_match_data="338050831" mvno_type="imsi" numeric="33805" spn="DIGICEL"/>
+    <spnOverride mvno_match_data="338050831" mvno_type="imsi" numeric="338050" spn="DIGICEL"/>
+    <spnOverride mvno_match_data="3380501" mvno_type="imsi" numeric="33805" spn="DIGICEL"/>
+    <spnOverride mvno_match_data="3380501" mvno_type="imsi" numeric="338050" spn="DIGICEL"/>
+    <spnOverride mvno_match_data="3380502" mvno_type="imsi" numeric="33805" spn="DIGICEL"/>
+    <spnOverride mvno_match_data="3380502" mvno_type="imsi" numeric="338050" spn="DIGICEL"/>
+    <spnOverride mvno_match_data="338050837" mvno_type="imsi" numeric="33805" spn="DIGICEL"/>
+    <spnOverride mvno_match_data="338050837" mvno_type="imsi" numeric="338050" spn="DIGICEL"/>
+    <spnOverride mvno_match_data="704038" mvno_type="imsi" numeric="70403" spn=""/>
+    <spnOverride mvno_match_data="732123901" mvno_type="imsi" numeric="732123" spn="Virgin Mobile"/>
+    <spnOverride mvno_match_data="732123902" mvno_type="imsi" numeric="732123" spn="Virgin Mobile"/>
+    <spnOverride mvno_match_data="732123903" mvno_type="imsi" numeric="732123" spn="Virgin Mobile"/>
+    <spnOverride mvno_match_data="732123904" mvno_type="imsi" numeric="732123" spn="Virgin Mobile"/>
+    <spnOverride mvno_match_data="732123905" mvno_type="imsi" numeric="732123" spn="Virgin Mobile"/>
+    <spnOverride mvno_match_data="732123906" mvno_type="imsi" numeric="732123" spn="Virgin Mobile"/>
+    <spnOverride mvno_match_data="732123907" mvno_type="imsi" numeric="732123" spn="Virgin Mobile"/>
+    <spnOverride mvno_match_data="732123908" mvno_type="imsi" numeric="732123" spn="Virgin Mobile"/>
+    <spnOverride mvno_match_data="FALABELLA" mvno_type="spn" numeric="73001" spn="FALABELLA"/>
+    <spnOverride mvno_match_data="7300704" mvno_type="imsi" numeric="73007" spn="Colo-Colo Móvil"/>
+    <spnOverride mvno_match_data="7300701" mvno_type="imsi" numeric="73007" spn="GTD"/>
+    <spnOverride mvno_match_data="7300702" mvno_type="imsi" numeric="73007" spn="Virgin"/>
+</spnOverrides>

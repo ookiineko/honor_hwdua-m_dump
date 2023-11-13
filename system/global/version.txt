@@ -1,0 +1,4 @@
+global_cfg_version=1.10.18.566
+type=GLOBAL
+subtype=generic
+compatibleVersion=1

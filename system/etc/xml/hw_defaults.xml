@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+/**
+ * Copyright (c) 2009, The Android Open Source Project
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *     http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+-->
+
+<resources>
+<!-- DTS2018011804462 lwx522837 20180222 begin -->
+    <string white_languages="zh_CN,zh_HK,zh_TW,en_US,en_GB,es_ES,pt_PT,fr_FR,de_DE,ru_RU,it_IT,ja_JP,es_US,pt_BR,sv_SE,nb_NO,da_DK,cs_CZ,hu_HU,sk_SK,pl_PL,ro_RO,el_GR,sr_ME,sr_BA,sr_XK,sr_RS,bs_BA,mk_MK,bg_BG,fi_FI,et_EE,lv_LV,lt_LT,sl_SI,hr_HR,uk_UA,tr_TR,vi_VN,in_ID,ar_EG,nl_NL,th_TH,ms_MY,ca_ES,hi_IN,my_MM,my_ZG,ko_KR,iw_IL,gl_ES,eu_ES,ka_GE,az_AZ,uz_UZ,km_KH,si_LK,ur_PK,be_BY,kk_KZ,bn_IN,bn_BD,lo_LA,fil_PH,ne_NP,jv_ID,zz_ZX" />
+<!-- DTS2018011804462 lwx522837 20180222 end -->
+    <string hw_launcher_custom_powersave_layout="true"/>
+<!-- AR000AATUE renkai/rwx532470 20180322 add begin -->
+<integer power_saving_on ="0" />
+<!-- AR000AATUE renkai/rwx532470 20180322 add end -->
+	<!-- DTS2018030906715 Added by gaidianliang/g00185556 2018.03.09 start-->
+    <string settings.secure.location_providers_allowed=""/>
+    <!-- DTS2018030906715 Added by gaidianliang/g00185556 2018.03.09 end-->
+    <string app_name_two_lines="true" reset="true"/>
+    <string app_name_calculate_two_lines ="true"/>
+    <!-- AR000AAOHN Added by yanwenbo/ywx369204 2018.03.29 start-->
+    <string theme_no_online="true"/>
+    <!-- AR000AAOHN Added by yanwenbo/ywx369204 2018.03.29 end-->
+<!--BEGIN PN:DTS2018041107932 Modified by 00290952 20180411-->
+<integer settings.system.dtmf_tone="0" reset="true"/>
+<!--END PN:DTS2018041107932 Modified by 00290952 20180411-->
+    <!-- AR000A0GEV lwx463322 20180404 begin -->
+    <integer set_new_apn_port="0"/>
+    <!-- AR000A0GEV lwx463322 20180404 end -->
+    <!--AR000A9NCR liuchao lwx554838 20180419 begin-->
+    <string reset_launcher_on_vc_change="true"/>
+    <!--AR000A9NCR liuchao lwx554838 20180419 end-->
+    <!--BEGIN DTS2018060601111 Modified by lwx550665 20180612-->
+    <integer settings.global.window_animation_scale="0.0" reset="true"/>
+    <integer settings.global.transition_animation_scale="0.0" reset="true"/>
+    <integer settings.global.animator_duration_scale="1.0" reset="true"/>
+    <!--END DTS2018060601111 Modified by lwx550665 20180612-->
+<!-- DTS2018062711544 Added by lwx522837 2018.06.29 start-->
+<string settings.secure.enabled_input_methods="com.google.android.inputmethod.latin/com.android.inputmethod.latin.LatinIME:com.baidu.input_huawei/.ImeService:com.menksoft.softkeyboard/.SoftKeyboard:com.nuance.swype.emui/com.nuance.swype.input.HuaweiIME:com.iflytek.inputmethod/.FlyIME:com.touchtype.swiftkey/com.touchtype.KeyboardService"/>
+<!-- DTS2018062711544 Added by lwx522837 2018.06.29 end-->
+</resources>

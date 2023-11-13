@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<virtualSpnOverridesByEfGid1 version="1">
+    <virtualSpnOverride mccmncgid1="232130x75617431" name="UPC AT"/>
+    <virtualSpnOverride mccmncgid1="232030x01" name="T-Mobile A"/>
+    <virtualSpnOverride mccmncgid1="232070x07" name="telering"/>
+    <virtualSpnOverride mccmncgid1="232070xFF" name="telering"/>
+    <virtualSpnOverride mccmncgid1="260020x11" name="T-Mobile.pl"/>
+    <virtualSpnOverride mccmncgid1="260020x12" name="T-Mobile.pl"/>
+    <virtualSpnOverride mccmncgid1="260020x16" name="T-Mobile.pl"/>
+    <virtualSpnOverride mccmncgid1="260020x17" name="T-Mobile.pl"/>
+    <virtualSpnOverride mccmncgid1="260020x21" name="T-Mobile.pl"/>
+    <virtualSpnOverride mccmncgid1="260020x22" name="T-Mobile.pl"/>
+    <virtualSpnOverride mccmncgid1="260020x24" name="T-Mobile.pl"/>
+    <virtualSpnOverride mccmncgid1="260020x26" name="T-Mobile.pl"/>
+    <virtualSpnOverride mccmncgid1="260020x23" name="Heyah"/>
+    <virtualSpnOverride mccmncgid1="202010xFF" name="GR COSMOTE"/>
+    <virtualSpnOverride mccmncgid1="219010x01" name="HT HR"/>
+    <virtualSpnOverride mccmncgid1="219010x02" name="HT HR"/>
+    <virtualSpnOverride mccmncgid1="219010x03" name="HT HR"/>
+    <virtualSpnOverride mccmncgid1="219010x99" name="HT HR"/>
+    <virtualSpnOverride mccmncgid1="294010xFF" name="Telekom MK"/>
+    <virtualSpnOverride mccmncgid1="219010x10" name="bonbon"/>
+    <virtualSpnOverride mccmncgid1="219010x11" name="bonbon"/>
+    <virtualSpnOverride mccmncgid1="219010x12" name="bonbon"/>
+    <virtualSpnOverride mccmncgid1="647030xF2330002" name="Free"/>
+    <virtualSpnOverride mccmncgid1="525050x0A" name="StarHub"/>
+    <virtualSpnOverride mccmncgid1="454180x01010000" name="CSL"/>
+    <virtualSpnOverride mccmncgid1="454180x01020000" name="CSL"/>
+    <virtualSpnOverride mccmncgid1="454180x01030000" name="CSL"/>
+    <virtualSpnOverride mccmncgid1="454180x01040000" name="CSL"/>
+    <virtualSpnOverride mccmncgid1="454180x02020001" name="CSL"/>
+    <virtualSpnOverride mccmncgid1="454180x02030001" name="CSL"/>
+    <virtualSpnOverride mccmncgid1="454180x02020002" name="CSL"/>
+    <virtualSpnOverride mccmncgid1="454000x01010000" name="CSL"/>
+    <virtualSpnOverride mccmncgid1="454000x01020000" name="CSL"/>
+    <virtualSpnOverride mccmncgid1="454000x01030000" name="CSL"/>
+    <virtualSpnOverride mccmncgid1="454000x01040000" name="CSL"/>
+    <virtualSpnOverride mccmncgid1="454000x02020001" name="CSL"/>
+    <virtualSpnOverride mccmncgid1="454000x02030001" name="CSL"/>
+    <virtualSpnOverride mccmncgid1="454000x02020002" name="CSL"/>
+    <virtualSpnOverride mccmncgid1="454020x01010000" name="CSL"/>
+    <virtualSpnOverride mccmncgid1="454020x01020000" name="CSL"/>
+    <virtualSpnOverride mccmncgid1="454020x01030000" name="CSL"/>
+    <virtualSpnOverride mccmncgid1="454020x01040000" name="CSL"/>
+    <virtualSpnOverride mccmncgid1="454020x02020001" name="CSL"/>
+    <virtualSpnOverride mccmncgid1="454020x02030001" name="CSL"/>
+    <virtualSpnOverride mccmncgid1="454020x02020002" name="CSL"/>
+    <virtualSpnOverride mccmncgid1="454030x0405" name="Mo"/>
+    <virtualSpnOverride mccmncgid1="234100x0A" name="Tesco"/>
+    <virtualSpnOverride mccmncgid1="234300x28" name="Virgin"/>
+    <virtualSpnOverride mccmncgid1="234300xB2" name="BT OnePhone"/>
+    <virtualSpnOverride mccmncgid1="234300xB3" name="BT"/>
+    <virtualSpnOverride mccmncgid1="234300xC3" name="BT"/>
+    <virtualSpnOverride mccmncgid1="234200x0305" name="iD"/>
+    <virtualSpnOverride mccmncgid1="234100x537" name="TalkTalk"/>
+    <virtualSpnOverride mccmncgid1="262010x44" name=""/>
+    <virtualSpnOverride mccmncgid1="234380x28" name="Virgin"/>
+    <virtualSpnOverride mccmncgid1="206010x75636831" name="upc ch"/>
+    <virtualSpnOverride mccmncgid1="204160xFF" name="T-Mobile NL"/>
+    <virtualSpnOverride mccmncgid1="204200xFF" name="T-Mobile NL"/>
+    <virtualSpnOverride mccmncgid1="204160x5F" name="Ben NL"/>
+    <virtualSpnOverride mccmncgid1="262010x01" name="Telekom.de"/>
+    <virtualSpnOverride mccmncgid1="262010x02" name="Telekom.de"/>
+    <virtualSpnOverride mccmncgid1="262010x03" name="Telekom.de"/>
+    <virtualSpnOverride mccmncgid1="262010x04" name="Telekom.de"/>
+    <virtualSpnOverride mccmncgid1="262010x99" name="Telekom.de"/>
+    <virtualSpnOverride mccmncgid1="262010x4B" name="Telekom.de"/>
+    <virtualSpnOverride mccmncgid1="208010x4E524A31" name=""/>
+    <virtualSpnOverride mccmncgid1="234100x4D564E45" name="Giffgaff"/>
+    <virtualSpnOverride mccmncgid1="208100x4E524A31" name=""/>
+    <virtualSpnOverride mccmncgid1="262020x11" name="1&amp;1"/>
+    <virtualSpnOverride mccmncgid1="208150xF2330002" name="Free"/>
+    <virtualSpnOverride mccmncgid1="262070x118004" name="1&amp;1"/>
+    <virtualSpnOverride mccmncgid1="262070x118006" name="1&amp;1"/>
+    <virtualSpnOverride mccmncgid1="208150xF003" name="Iliad Int"/>
+    <virtualSpnOverride mccmncgid1="222500xF003" name="ILIAD"/>
+    <virtualSpnOverride mccmncgid1="234300xEE" name="EE"/>
+    <virtualSpnOverride mccmncgid1="234100x508F" name="Giffgaff"/>
+    <virtualSpnOverride mccmncgid1="262030x000000" name="o2 - de"/>
+    <virtualSpnOverride mccmncgid1="262030x000500" name="o2 - de"/>
+    <virtualSpnOverride mccmncgid1="262030x010301" name="o2 - de"/>
+    <virtualSpnOverride mccmncgid1="262030x010901" name="o2 - de"/>
+    <virtualSpnOverride mccmncgid1="262070x000000" name="o2 - de"/>
+    <virtualSpnOverride mccmncgid1="262070x000500" name="o2 - de"/>
+    <virtualSpnOverride mccmncgid1="262070x010301" name="o2 - de"/>
+    <virtualSpnOverride mccmncgid1="262070x010901" name="o2 - de"/>
+    <virtualSpnOverride mccmncgid1="234200x0309" name=""/>
+    <virtualSpnOverride mccmncgid1="234200x0310" name=""/>
+    <virtualSpnOverride mccmncgid1="234570x0C" name=""/>
+    <virtualSpnOverride mccmncgid1="3022200x5455" name="TELUS"/>
+    <virtualSpnOverride mccmncgid1="3026100x3D" name="Bell"/>
+    <virtualSpnOverride mccmncgid1="3022210x5455" name="TELUS"/>
+    <virtualSpnOverride mccmncgid1="3022200x4B4F" name="KOODO"/>
+    <virtualSpnOverride mccmncgid1="3022210x4B4F" name="KOODO"/>
+    <virtualSpnOverride mccmncgid1="3022200x5043" name="PC mobile"/>
+    <virtualSpnOverride mccmncgid1="3022210x5043" name="PC mobile"/>
+    <virtualSpnOverride mccmncgid1="3113700x0050" name="GCI"/>
+    <virtualSpnOverride mccmncgid1="3027200xD4" name=""/>
+    <virtualSpnOverride mccmncgid1="3101600x6D38" name="MetroPCS"/>
+    <virtualSpnOverride mccmncgid1="3102100x6D38" name="MetroPCS"/>
+    <virtualSpnOverride mccmncgid1="3102300x6D38" name="MetroPCS"/>
+    <virtualSpnOverride mccmncgid1="3102400x6D38" name="MetroPCS"/>
+    <virtualSpnOverride mccmncgid1="3102500x6D38" name="MetroPCS"/>
+    <virtualSpnOverride mccmncgid1="3102600x6D38" name="MetroPCS"/>
+    <virtualSpnOverride mccmncgid1="3102700x6D38" name="MetroPCS"/>
+    <virtualSpnOverride mccmncgid1="3103000x6D38" name="MetroPCS"/>
+    <virtualSpnOverride mccmncgid1="3103100x6D38" name="MetroPCS"/>
+    <virtualSpnOverride mccmncgid1="3104900x6D38" name="MetroPCS"/>
+    <virtualSpnOverride mccmncgid1="3105300x6D38" name="MetroPCS"/>
+    <virtualSpnOverride mccmncgid1="3105800x6D38" name="MetroPCS"/>
+    <virtualSpnOverride mccmncgid1="3105900x6D38" name="MetroPCS"/>
+    <virtualSpnOverride mccmncgid1="3106400x6D38" name="MetroPCS"/>
+    <virtualSpnOverride mccmncgid1="3106600x6D38" name="MetroPCS"/>
+    <virtualSpnOverride mccmncgid1="3108000x6D38" name="MetroPCS"/>
+    <virtualSpnOverride mccmncgid1="3102200x6D38" name="MetroPCS"/>
+    <virtualSpnOverride mccmncgid1="3102000x6D38" name="MetroPCS"/>
+    <virtualSpnOverride mccmncgid1="3113700x0310" name="GCI"/>
+    <virtualSpnOverride mccmncgid1="3022200x4D4F" name="Public mobile"/>
+    <virtualSpnOverride mccmncgid1="3022210x4D4F" name="Public mobile"/>
+    <virtualSpnOverride mccmncgid1="3104100x2AC9" name=""/>
+    <virtualSpnOverride mccmncgid1="3102600x2AC9" name=""/>
+    <virtualSpnOverride mccmncgid1="3104100xDEFF" name=""/>
+    <virtualSpnOverride mccmncgid1="3102600xDEFF" name=""/>
+    <virtualSpnOverride mccmncgid1="3102600x534D" name=""/>
+    <virtualSpnOverride mccmncgid1="3027200xD2" name=""/>
+    <virtualSpnOverride mccmncgid1="3027200xBA" name=""/>
+    <virtualSpnOverride mccmncgid1="3027200xCC" name=""/>
+    <virtualSpnOverride mccmncgid1="3023700xDD" name=""/>
+    <virtualSpnOverride mccmncgid1="3104100x4201" name=""/>
+    <virtualSpnOverride mccmncgid1="3102600x4201" name=""/>
+    <virtualSpnOverride mccmncgid1="3026600x2C" name="MTS"/>
+    <virtualSpnOverride mccmncgid1="3102600x4153" name=""/>
+    <virtualSpnOverride mccmncgid1="3102600x6136" name=""/>
+    <virtualSpnOverride mccmncgid1="3102600x4753" name=""/>
+    <virtualSpnOverride mccmncgid1="3102600x6C79" name=""/>
+    <virtualSpnOverride mccmncgid1="3102600x554D" name=""/>
+    <virtualSpnOverride mccmncgid1="3102600x6135" name=""/>
+    <virtualSpnOverride mccmncgid1="3102600x4D4D" name=""/>
+    <virtualSpnOverride mccmncgid1="3104100x62FF" name=""/>
+    <virtualSpnOverride mccmncgid1="3104100x44FF" name=""/>
+    <virtualSpnOverride mccmncgid1="3104100x49FF" name=""/>
+    <virtualSpnOverride mccmncgid1="3104100x49FF" name=""/>
+    <virtualSpnOverride mccmncgid1="3104100xDEFF" name=""/>
+    <virtualSpnOverride mccmncgid1="3104100xDEFF" name=""/>
+    <virtualSpnOverride mccmncgid1="3104100x49FF" name=""/>
+    <virtualSpnOverride mccmncgid1="3104100x4201" name=""/>
+    <virtualSpnOverride mccmncgid1="3102600x4358" name=""/>
+    <virtualSpnOverride mccmncgid1="3102600x4358" name=""/>
+    <virtualSpnOverride mccmncgid1="3102600x4358" name=""/>
+    <virtualSpnOverride mccmncgid1="3103800x50FF" name="AT&amp;T"/>
+    <virtualSpnOverride mccmncgid1="3026100x3E" name="Virgin"/>
+    <virtualSpnOverride mccmncgid1="3026100x3F" name="Solo"/>
+    <virtualSpnOverride mccmncgid1="3026100x40" name="PC Mobile"/>
+    <virtualSpnOverride mccmncgid1="3102600x2801" name=""/>
+    <virtualSpnOverride mccmncgid1="3023700x2C" name="MTS"/>
+</virtualSpnOverridesByEfGid1>

@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<apnfilters version="1">
+<!-- DTS2018050402773 lwx463322 20180509 begin -->
+<!-- West Europe-->
+<apnfilter mccmnc="23415" mccmncapn="23415PAYG WAP" voicemail="121" network_name="vodafone UK" mvno_match_data="spn_null" mvno_type="spn"/>
+<apnfilter mccmnc="23415" mccmncapn="23415Contract WAP" voicemail="121" network_name="vodafone UK" mvno_match_data="spn_null" mvno_type="spn"/>
+<apnfilter mccmnc="23415" mccmncapn="23415Talkmobile Prepay" voicemail="121"  network_name="Talkmobile" mvno_match_data="Talkmobile" mvno_type="spn"/>
+<apnfilter mccmnc="23415" mccmncapn="23415Talkmobile Contract" voicemail="121" network_name="Talkmobile" mvno_match_data="Talkmobile" mvno_type="spn"/>
+<!-- Sourceeast Asia, Source Pacific -->
+<!-- DTS2018050402773 lwx463322 20180509 end -->
+<apnfilter mccmnc="52505" mccmncapn="52505SH Data Postpaid" voicemail="" network_name="StarHub" mvno_match_data="" mvno_type=""/>
+<apnfilter mccmnc="52505" mccmncapn="52505SH Data Prepaid" voicemail="" network_name="StarHub" mvno_match_data="" mvno_type=""/>
+<apnfilter mccmnc="51502" mccmncapn="51502myGlobe Internet" voicemail="" network_name="GLOBE" mvno_match_data="" mvno_type=""/>
+<apnfilter mccmnc="51502" mccmncapn="51502myGlobe INET" voicemail="" network_name="GLOBE" mvno_match_data="" mvno_type=""/>
+<apnfilter mccmnc="52501" mccmncapn="52501Singtel (Postpaid)" voicemail="1389" network_name="Singtel" mvno_match_data="" mvno_type=""/>
+<apnfilter mccmnc="52501" mccmncapn="52501Singtel (Prepaid)" voicemail="1389" network_name="Singtel" mvno_match_data="" mvno_type=""/>
+</apnfilters>

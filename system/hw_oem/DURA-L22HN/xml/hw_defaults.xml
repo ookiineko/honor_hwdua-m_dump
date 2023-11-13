@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+/**
+ * Copyright (c) 2009, The Android Open Source Project
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *     http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+-->
+
+<resources>
+<!-- BEGIN PN:DTS2018013112266, Modified by gengweiwei gwx469379, 2018/02/01 -->
+<string hw_def_theme="/system/themes/Default.hwt"/>
+<string hw_theme_sort="Default##Medal##Blues##Autumn##Colorful##Serenity" reset="true"/>
+<!-- END PN:DTS2018013112266, Modified by gengweiwei gwx469379, 2018/02/01 -->
+<string app_name_two_lines="true" reset="true"/>
+<string app_name_calculate_two_lines="true" reset="true"/>
+<!--BEGIN PN:AR000A0B5Q Modified by 00290952 20180403-->
+<string custom_certify_picture="/system/media/DUA-L22.png"/>
+<!--END PN:AR000A0B5Q Modified by 00290952 20180403-->
+<!--BEGIN PN:AR000AFQDH Modified by z00367310 20180413-->
+<integer settings.secure.camera_double_tap_power_gesture_disabled="1" reset="true"/>
+<!--END PN:AR000AFQDH Modified by z00367310 20180413-->
+<!-- BEGIN PN:DTS2018050205871 Modified by lwx527997 20180507 -->
+<integer haptic_feedback_enabled="0" reset="true"/>
+<!-- END PN:DTS2018050205871 Modified by lwx527997 20180507 -->
+</resources>

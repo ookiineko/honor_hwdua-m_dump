@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<permissions>
+    <library name="HiViewTunnel-core"
+        file="/system/jar/HiViewTunnel_core/HiViewTunnel-core.jar" />
+    <library name="HiViewTunnel-ue"
+        file="/system/jar/HiViewTunnel_ue/HiViewTunnel-ue.jar" />
+    <library name="HiView-rdebug"
+        file="/system/jar/HiView/HiView-rdebug.jar" />
+</permissions>

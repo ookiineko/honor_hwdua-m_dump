@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<roamingbrokerConf>
+    <!-- VIVO -->
+    <roamingbroker homeimsi="72406" roamingimsi="21407" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="" roam_mvno_type=""/>
+    <roamingbroker homeimsi="72410" roamingimsi="21407" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="" roam_mvno_type=""/>
+    <roamingbroker homeimsi="72411" roamingimsi="21407" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="" roam_mvno_type=""/>
+    <roamingbroker homeimsi="72423" roamingimsi="21407" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="" roam_mvno_type=""/>
+    <!-- Iusacell -->
+    <roamingbroker homeimsi="334050" roamingimsi="22201" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="" roam_mvno_type=""/>
+    <roamingbroker homeimsi="334050" roamingimsi="222010" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="" roam_mvno_type=""/>
+    <roamingbroker homeimsi="334050" roamingimsi="222011" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="" roam_mvno_type=""/>
+    <roamingbroker homeimsi="334050" roamingimsi="222012" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="" roam_mvno_type=""/>
+    <roamingbroker homeimsi="334050" roamingimsi="222013" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="" roam_mvno_type=""/>
+    <roamingbroker homeimsi="334050" roamingimsi="222014" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="" roam_mvno_type=""/>
+    <roamingbroker homeimsi="334050" roamingimsi="222015" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="" roam_mvno_type=""/>
+    <roamingbroker homeimsi="334050" roamingimsi="222016" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="" roam_mvno_type=""/>
+    <roamingbroker homeimsi="334050" roamingimsi="222017" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="" roam_mvno_type=""/>
+    <roamingbroker homeimsi="334050" roamingimsi="222018" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="" roam_mvno_type=""/>
+    <roamingbroker homeimsi="334050" roamingimsi="222019" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="" roam_mvno_type=""/>
+    <roamingbroker homeimsi="334050" roamingimsi="20601" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="" roam_mvno_type=""/>
+    <roamingbroker homeimsi="334050" roamingimsi="206010" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="" roam_mvno_type=""/>
+    <roamingbroker homeimsi="334050" roamingimsi="206011" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="" roam_mvno_type=""/>
+    <roamingbroker homeimsi="334050" roamingimsi="206012" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="" roam_mvno_type=""/>
+    <roamingbroker homeimsi="334050" roamingimsi="206013" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="" roam_mvno_type=""/>
+    <roamingbroker homeimsi="334050" roamingimsi="206014" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="" roam_mvno_type=""/>
+    <roamingbroker homeimsi="334050" roamingimsi="206015" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="" roam_mvno_type=""/>
+    <roamingbroker homeimsi="334050" roamingimsi="206016" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="" roam_mvno_type=""/>
+    <roamingbroker homeimsi="334050" roamingimsi="206017" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="" roam_mvno_type=""/>
+    <roamingbroker homeimsi="334050" roamingimsi="206018" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="" roam_mvno_type=""/>
+    <roamingbroker homeimsi="334050" roamingimsi="206019" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="" roam_mvno_type=""/>
+    <!-- Nextel -->
+    <roamingbroker homeimsi="334090" roamingimsi="22201" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="" roam_mvno_type=""/>
+    <roamingbroker homeimsi="334090" roamingimsi="222010" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="" roam_mvno_type=""/>
+    <roamingbroker homeimsi="334090" roamingimsi="222011" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="" roam_mvno_type=""/>
+    <roamingbroker homeimsi="334090" roamingimsi="222012" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="" roam_mvno_type=""/>
+    <roamingbroker homeimsi="334090" roamingimsi="222013" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="" roam_mvno_type=""/>
+    <roamingbroker homeimsi="334090" roamingimsi="222014" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="" roam_mvno_type=""/>
+    <roamingbroker homeimsi="334090" roamingimsi="222015" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="" roam_mvno_type=""/>
+    <roamingbroker homeimsi="334090" roamingimsi="222016" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="" roam_mvno_type=""/>
+    <roamingbroker homeimsi="334090" roamingimsi="222017" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="" roam_mvno_type=""/>
+    <roamingbroker homeimsi="334090" roamingimsi="222018" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="" roam_mvno_type=""/>
+    <roamingbroker homeimsi="334090" roamingimsi="222019" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="" roam_mvno_type=""/>
+    <roamingbroker homeimsi="334090" roamingimsi="20601" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="" roam_mvno_type=""/>
+    <roamingbroker homeimsi="334090" roamingimsi="206010" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="" roam_mvno_type=""/>
+    <roamingbroker homeimsi="334090" roamingimsi="206011" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="" roam_mvno_type=""/>
+    <roamingbroker homeimsi="334090" roamingimsi="206012" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="" roam_mvno_type=""/>
+    <roamingbroker homeimsi="334090" roamingimsi="206013" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="" roam_mvno_type=""/>
+    <roamingbroker homeimsi="334090" roamingimsi="206014" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="" roam_mvno_type=""/>
+    <roamingbroker homeimsi="334090" roamingimsi="206015" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="" roam_mvno_type=""/>
+    <roamingbroker homeimsi="334090" roamingimsi="206016" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="" roam_mvno_type=""/>
+    <roamingbroker homeimsi="334090" roamingimsi="206017" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="" roam_mvno_type=""/>
+    <roamingbroker homeimsi="334090" roamingimsi="206018" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="" roam_mvno_type=""/>
+    <roamingbroker homeimsi="334090" roamingimsi="206019" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="" roam_mvno_type=""/>
+    <!-- CNT -->
+    <roamingbroker homeimsi="74002" roamingimsi="302370" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="" roam_mvno_type=""/>
+    <!-- Columbia Avantel -->
+    <roamingbroker homeimsi="732130" roamingimsi="20404" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="" roam_mvno_type=""/>
+    <roamingbroker homeimsi="732130" roamingimsi="204043" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="" roam_mvno_type=""/>
+    <!-- Columbia ETB -->
+    <roamingbroker homeimsi="732187" roamingimsi="206018" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="" roam_mvno_type=""/>
+    <!-- Movistar -->
+    <roamingbroker homeimsi="72207" roamingimsi="21407" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="" roam_mvno_type=""/>
+    <roamingbroker homeimsi="74807" roamingimsi="21407" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="" roam_mvno_type=""/>
+    <roamingbroker homeimsi="73002" roamingimsi="21407" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="" roam_mvno_type=""/>
+    <roamingbroker homeimsi="71606" roamingimsi="21407" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="" roam_mvno_type=""/>
+    <roamingbroker homeimsi="334030"  roamingimsi="21407" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="" roam_mvno_type=""/>
+    <roamingbroker homeimsi="33403"  roamingimsi="21407" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="" roam_mvno_type=""/>
+    <roamingbroker homeimsi="732123" roamingimsi="21407" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="" roam_mvno_type=""/>
+    <roamingbroker homeimsi="73404" roamingimsi="21407" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="" roam_mvno_type=""/>
+    <roamingbroker homeimsi="70403" roamingimsi="21407" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="" roam_mvno_type=""/>
+    <roamingbroker homeimsi="71030"  roamingimsi="21407" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="" roam_mvno_type=""/>
+    <roamingbroker homeimsi="710300" roamingimsi="21407" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="" roam_mvno_type=""/>
+    <roamingbroker homeimsi="70604"  roamingimsi="21407" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="" roam_mvno_type=""/>
+    <roamingbroker homeimsi="71204" roamingimsi="21407" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="" roam_mvno_type=""/>
+    <roamingbroker homeimsi="714020" roamingimsi="21407" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="" roam_mvno_type=""/>
+    <roamingbroker homeimsi="74000" roamingimsi="21407" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="" roam_mvno_type=""/>
+    <roamingbroker homeimsi="704030"  roamingimsi="21407" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="" roam_mvno_type=""/>
+    <roamingbroker homeimsi="706040"  roamingimsi="21407" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="" roam_mvno_type=""/>
+    <roamingbroker homeimsi="71402"  roamingimsi="21407" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="" roam_mvno_type=""/>
+    <roamingbroker homeimsi="72207" roamingimsi="21402" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="" roam_mvno_type=""/>
+    <roamingbroker homeimsi="74807" roamingimsi="21402" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="" roam_mvno_type=""/>
+    <roamingbroker homeimsi="73002" roamingimsi="21402" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="" roam_mvno_type=""/>
+    <roamingbroker homeimsi="71606" roamingimsi="21402" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="" roam_mvno_type=""/>
+    <roamingbroker homeimsi="334030"  roamingimsi="21402" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="" roam_mvno_type=""/>
+    <roamingbroker homeimsi="33403"  roamingimsi="21402" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="" roam_mvno_type=""/>
+    <roamingbroker homeimsi="732123" roamingimsi="21402" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="" roam_mvno_type=""/>
+    <roamingbroker homeimsi="73404" roamingimsi="21402" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="" roam_mvno_type=""/>
+    <roamingbroker homeimsi="70403" roamingimsi="21402" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="" roam_mvno_type=""/>
+    <roamingbroker homeimsi="71030"  roamingimsi="21402" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="" roam_mvno_type=""/>
+    <roamingbroker homeimsi="710300" roamingimsi="21402" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="" roam_mvno_type=""/>
+    <roamingbroker homeimsi="70604"  roamingimsi="21402" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="" roam_mvno_type=""/>
+    <roamingbroker homeimsi="71204" roamingimsi="21402" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="" roam_mvno_type=""/>
+    <roamingbroker homeimsi="714020" roamingimsi="21402" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="" roam_mvno_type=""/>
+    <roamingbroker homeimsi="74000" roamingimsi="21402" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="" roam_mvno_type=""/>
+    <roamingbroker homeimsi="704030"  roamingimsi="21402" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="" roam_mvno_type=""/>
+    <roamingbroker homeimsi="706040"  roamingimsi="21402" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="" roam_mvno_type=""/>
+    <roamingbroker homeimsi="71402"  roamingimsi="21402" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="" roam_mvno_type=""/>
+    <!-- YES 4G -->
+    <roamingbroker homeimsi="502152" roamingimsi="52505" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="" roam_mvno_type=""/>
+    <!-- P1 -->
+    <roamingbroker homeimsi="502153" roamingimsi="52505" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="" roam_mvno_type=""/>
+    <!-- Jazztel -->
+    <roamingbroker homeimsi="21421" roamingimsi="21407" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="" roam_mvno_type="" voicemail="+34640001222"/>
+    <!-- telefonica_spain -->
+    <roamingbroker homeimsi="26211" roamingimsi="21407" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="" roam_mvno_type=""/>
+    <!-- O2 UK -->
+    <roamingbroker homeimsi="23410" roamingimsi="21407" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="" roam_mvno_type=""/>
+    <!-- CYFROWY POLSAT -->
+    <roamingbroker homeimsi="26012" roamingimsi="21407" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="" roam_mvno_type=""/>
+    <!-- KODOTEL -->
+    <roamingbroker homeimsi="25037" roamingimsi="21407" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="" roam_mvno_type=""/>
+    <!-- MOVICEL -->
+    <roamingbroker homeimsi="63104" roamingimsi="21407" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="" roam_mvno_type=""/>
+    <!-- PRIMETEL -->
+    <roamingbroker homeimsi="28020" roamingimsi="21407" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="" roam_mvno_type=""/>
+    <!-- SETAR -->
+    <roamingbroker homeimsi="36301" roamingimsi="21407" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="" roam_mvno_type=""/>
+    <!-- T-2 -->
+    <roamingbroker homeimsi="29364" roamingimsi="21407" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="" roam_mvno_type=""/>
+    <!-- MOVISTAR ARGENTINA -->
+    <roamingbroker homeimsi="722010" roamingimsi="21407" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="" roam_mvno_type=""/>
+    <roamingbroker homeimsi="722070" roamingimsi="21407" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="" roam_mvno_type=""/>
+    <!-- OMV ONO (Puro) -->
+    <roamingbroker homeimsi="21418" roamingimsi="21407" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="" roam_mvno_type=""/>
+    <!-- OPTIMUS -->
+    <roamingbroker homeimsi="26803" roamingimsi="21407" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="" roam_mvno_type=""/>
+    <!-- Telefónica Móviles Chile -->
+    <roamingbroker homeimsi="73007" roamingimsi="21407" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="" roam_mvno_type=""/>
+    <!-- Vitelcom -->
+    <roamingbroker homeimsi="311470" roamingimsi="21407" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="" roam_mvno_type=""/>
+    <!-- STA Andorra -->
+    <roamingbroker homeimsi="21303" roamingimsi="21407" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="" roam_mvno_type=""/>
+    <!-- telefonica_spain -->
+    <roamingbroker homeimsi="26255" roamingimsi="21407" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="" roam_mvno_type=""/>
+    <roamingbroker homeimsi="26811" roamingimsi="21407" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="" roam_mvno_type=""/>
+    <!-- Tesco，27211，20601 -->
+    <roamingbroker homeimsi="27211" roamingimsi="20601" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="" roam_mvno_type=""/>
+    <!-- Telenet -->
+    <roamingbroker homeimsi="20605" roamingimsi="20610" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="" roam_mvno_type=""/>
+    <!-- UPC NL -->
+    <roamingbroker homeimsi="20418" roamingimsi="20408" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="2040807500" roam_mvno_type="imsi"/>
+    <roamingbroker homeimsi="20418" roamingimsi="20408" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="2040807501" roam_mvno_type="imsi"/>
+    <roamingbroker homeimsi="20418" roamingimsi="20408" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="2040807502" roam_mvno_type="imsi"/>
+    <roamingbroker homeimsi="20418" roamingimsi="20408" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="2040807503" roam_mvno_type="imsi"/>
+    <roamingbroker homeimsi="20418" roamingimsi="20408" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="2040807504" roam_mvno_type="imsi"/>
+    <roamingbroker homeimsi="20418" roamingimsi="20408" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="2040807510" roam_mvno_type="imsi"/>
+    <roamingbroker homeimsi="20418" roamingimsi="20408" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="2040807511" roam_mvno_type="imsi"/>
+    <roamingbroker homeimsi="20418" roamingimsi="20408" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="2040807512" roam_mvno_type="imsi"/>
+    <roamingbroker homeimsi="20418" roamingimsi="20408" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="2040807513" roam_mvno_type="imsi"/>
+    <roamingbroker homeimsi="20418" roamingimsi="20408" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="2040807514" roam_mvno_type="imsi"/>
+    <roamingbroker homeimsi="20418" roamingimsi="20408" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="2040807515" roam_mvno_type="imsi"/>
+    <roamingbroker homeimsi="20418" roamingimsi="20408" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="2040807516" roam_mvno_type="imsi"/>
+    <roamingbroker homeimsi="20418" roamingimsi="20408" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="2040807517" roam_mvno_type="imsi"/>
+    <roamingbroker homeimsi="20418" roamingimsi="20408" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="2040807518" roam_mvno_type="imsi"/>
+    <roamingbroker homeimsi="20418" roamingimsi="20408" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="2040807519" roam_mvno_type="imsi"/>
+    <!-- UPC HU -->
+    <roamingbroker homeimsi="21671" roamingimsi="20408" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="2040807530" roam_mvno_type="imsi"/>
+    <roamingbroker homeimsi="21671" roamingimsi="20408" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="2040807531" roam_mvno_type="imsi"/>
+    <roamingbroker homeimsi="21671" roamingimsi="20408" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="2040807532" roam_mvno_type="imsi"/>
+    <roamingbroker homeimsi="21671" roamingimsi="20408" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="2040807533" roam_mvno_type="imsi"/>
+    <roamingbroker homeimsi="21671" roamingimsi="20408" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="2040807534" roam_mvno_type="imsi"/>
+    <roamingbroker homeimsi="21671" roamingimsi="20408" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="2040807535" roam_mvno_type="imsi"/>
+    <roamingbroker homeimsi="21671" roamingimsi="20408" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="2040807536" roam_mvno_type="imsi"/>
+    <roamingbroker homeimsi="21671" roamingimsi="20408" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="2040807537" roam_mvno_type="imsi"/>
+    <roamingbroker homeimsi="21671" roamingimsi="20408" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="2040807538" roam_mvno_type="imsi"/>
+    <roamingbroker homeimsi="21671" roamingimsi="20408" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="2040807539" roam_mvno_type="imsi"/>
+    <!-- Hot mobile -->
+    <!-- AR000B7DCD/AR000B7DC5 lwx463322 20180829 begin -->
+    <!-- <roamingbroker homeimsi="42507" roamingimsi="20404" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="" roam_mvno_type=""/> -->
+    <!-- AR000B7DCD/AR000B7DC5 lwx463322 20180829 end -->
+
+    <!-- AR000B56Q3 lwx463322 20180816 begin -->
+    <roamingbroker homeimsi="42507" roamingimsi="20809" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="" roam_mvno_type=""/>
+    <!-- AR000B56Q3 lwx463322 20180816 end -->
+    <!-- UPC AT -->
+    <roamingbroker homeimsi="23213" roamingimsi="20408" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="204080754" roam_mvno_type="imsi"/>
+    <!-- Ziggo -->
+    <roamingbroker homeimsi="20415" roamingimsi="20601" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="" roam_mvno_type=""/>
+    <roamingbroker homeimsi="20418" roamingimsi="20601" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="206018010" roam_mvno_type="imsi"/>
+    <roamingbroker homeimsi="20418" roamingimsi="20601" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="206018011" roam_mvno_type="imsi"/>
+    <!-- iD -->
+    <roamingbroker homeimsi="27216" roamingimsi="20601" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="" roam_mvno_type=""/>
+    <!-- Vodafone_Netherland -->
+    <roamingbroker homeimsi="20404" roamingimsi="26202" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="" roam_mvno_type=""/>
+    <!-- UPC cablecom -->
+    <roamingbroker homeimsi="22853" roamingimsi="20601" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="206018012" roam_mvno_type="imsi"/>
+    <!-- UPC Hungary -->
+    <roamingbroker homeimsi="21671" roamingimsi="20601" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="206018013" roam_mvno_type="imsi"/>
+    <!-- UPC Austria -->
+    <roamingbroker homeimsi="23213" roamingimsi="20601" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="206018014" roam_mvno_type="imsi"/>
+    <!-- UPC Ireland -->
+    <roamingbroker homeimsi="27215" roamingimsi="20601" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="206018016" roam_mvno_type="imsi"/>
+    <!-- BT mobile -->
+    <roamingbroker homeimsi="23408" roamingimsi="23430" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="" roam_mvno_type=""/>
+    <!-- Yoigo -->
+    <roamingbroker homeimsi="21404" roamingimsi="21407" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="" roam_mvno_type="" voicemail="+34633633633"/>
+    <!-- Tele2 -->
+    <roamingbroker homeimsi="23219" roamingimsi="24007" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="" roam_mvno_type=""/>
+    <!-- ICE -->
+    <roamingbroker homeimsi="24214" roamingimsi="20404" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="2040439909" roam_mvno_type="imsi"/>
+    <roamingbroker homeimsi="24214" roamingimsi="20404" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="2040438005" roam_mvno_type="imsi"/>
+    <roamingbroker homeimsi="24214" roamingimsi="20404" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="2040438006" roam_mvno_type="imsi"/>
+    <roamingbroker homeimsi="24214" roamingimsi="20404" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="2040438007" roam_mvno_type="imsi"/>
+    <roamingbroker homeimsi="24214" roamingimsi="20404" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="2040438008" roam_mvno_type="imsi"/>
+    <roamingbroker homeimsi="24214" roamingimsi="20404" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="2040438009" roam_mvno_type="imsi"/>
+    <roamingbroker homeimsi="24214" roamingimsi="20404" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="2040439904" roam_mvno_type="imsi"/>
+    <roamingbroker homeimsi="24214" roamingimsi="20404" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="2040439905" roam_mvno_type="imsi"/>
+    <roamingbroker homeimsi="24214" roamingimsi="20404" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="2040439505" roam_mvno_type="imsi"/>
+    <roamingbroker homeimsi="24214" roamingimsi="20404" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="2040439506" roam_mvno_type="imsi"/>
+    <!-- Fastweb -->
+    <roamingbroker homeimsi="22208" roamingimsi="22801" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="" roam_mvno_type="" voicemail="+393756004141"/>
+    <!--香港电信-->
+    <roamingbroker homeimsi="45431" roamingimsi="45400" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="" roam_mvno_type=""/>
+    <roamingbroker homeimsi="45431" roamingimsi="46003" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="" roam_mvno_type=""/>
+    <!--Orange Spain-->
+    <roamingbroker homeimsi="21403" roamingimsi="26832" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="" roam_mvno_type=""/>
+    <!--Virgin-->
+    <roamingbroker homeimsi="23438" roamingimsi="20601" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="" roam_mvno_type=""/>
+    <!-- DTS2018033107124 lwx463322 20180404 begin -->
+    <!--iliad-->
+    <roamingbroker homeimsi="22250" roamingimsi="20815" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="" roam_mvno_type=""/>
+    <!-- DTS2018033107124 lwx463322 20180404 end -->
+    <!-- AR000B01A0 AR000B019U lwx463322 20180719 begin -->
+    <!--Gamma-->
+    <roamingbroker homeimsi="23439" roamingimsi="24007" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="24007561" roam_mvno_type="imsi"/>
+    <!--sky-->
+    <roamingbroker homeimsi="23457" roamingimsi="24007" home_mvno_match_data="" home_mvno_type="" roam_mvno_match_data="" roam_mvno_type=""/>
+    <!-- AR000B01A0 AR000B019U lwx463322 20180719 end -->
+</roamingbrokerConf>

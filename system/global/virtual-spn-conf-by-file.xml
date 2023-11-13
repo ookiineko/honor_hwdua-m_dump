@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<virtualSpnOverridesByFile version="1">
+    <virtualSpnOverride match_file="0x6f38" match_mask="0x20" match_path="0x3F007F20" match_value="0x00" mccmnc="23410" mvno_match_data="0x00" name="O2 - UK"/>
+    <virtualSpnOverride match_file="0x6f38" match_mask="0x20" match_path="0x3F007F20" match_value="0x20" mccmnc="23410" mvno_match_data="0x20" name="O2 - UK"/>
+    <virtualSpnOverride match_file="0x6f02" match_mask="0x01" match_path="0x3F007F43" match_value="0x00" mccmnc="23410" mvno_match_data="0x00" name="O2 - UK"/>
+    <virtualSpnOverride match_file="0x6f02" match_mask="0x01" match_path="0x3F007F43" match_value="0x01" mccmnc="23410" mvno_match_data="0x01" name="O2 - UK"/>
+</virtualSpnOverridesByFile>

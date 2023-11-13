@@ -1,0 +1,1338 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--  Dura V1.6 变更wifi的功率配置  -->
+<SarRuleConfig>
+    <!-- restore sar value when condition not match, for wifi and cell sar value -->
+    <restore>
+        <!-- restore wifi nvram to default value -->
+        <sar_cell_restore value="0" />
+        <sar_wifi_restore value="1" />
+    </restore>
+
+    <!-- is_use_precondition is used to control power dissipation, recommend is 1 -->
+    <configs is_use_precondition="1" >
+        <!-- value remark: 1-true, 0-false, NA-not care, empty string ""-NA -->
+        <!-- wifi_band: 0-2.4GHz, 1-5GHz -->
+
+        <!--Group 1 Voice + Receiver + wifi + sar_sensor -->
+        <config><!-- 0 -->
+            <is_sub0_voice value="1" />
+            <is_wifi_connected value="1" />
+            <is_wifi_ap_opened value="0" />
+            <is_wifi_p2p_connected value="0" />
+            <is_headset_insert value="0" />
+            <is_speaker_phoneon value="0" />
+            <is_cell_sar_sensor value="1" />
+            <is_usb_ac_charge value="0" />
+
+            <sar_cell_reduce value="2" />
+            <sar_wifi_reduce value="15" />
+        </config>
+        <config><!-- 1 -->
+            <is_sub1_voice value="1" />
+            <is_wifi_connected value="1" />
+            <is_wifi_ap_opened value="0" />
+            <is_wifi_p2p_connected value="0" />
+            <is_headset_insert value="0" />
+            <is_speaker_phoneon value="0" />
+            <is_cell_sar_sensor value="1" />
+            <is_usb_ac_charge value="0" />
+
+            <sar_cell_reduce value="2" />
+            <sar_wifi_reduce value="15" />
+        </config>
+        <config><!-- 2 -->
+            <is_sub0_voice value="1" />
+            <is_wifi_connected value="0" />
+            <is_wifi_ap_opened value="1" />
+            <is_wifi_p2p_connected value="0" />
+            <is_headset_insert value="0" />
+            <is_speaker_phoneon value="0" />
+            <is_cell_sar_sensor value="1" />
+            <is_usb_ac_charge value="0" />
+
+            <sar_cell_reduce value="2" />
+            <sar_wifi_reduce value="15" />
+        </config>
+        <config><!-- 3 -->
+            <is_sub1_voice value="1" />
+            <is_wifi_connected value="0" />
+            <is_wifi_ap_opened value="1" />
+            <is_wifi_p2p_connected value="0" />
+            <is_headset_insert value="0" />
+            <is_speaker_phoneon value="0" />
+            <is_cell_sar_sensor value="1" />
+            <is_usb_ac_charge value="0" />
+
+            <sar_cell_reduce value="2" />
+            <sar_wifi_reduce value="15" />
+        </config>
+        <config><!-- 4 -->
+            <is_sub0_voice value="1" />
+            <is_wifi_p2p_connected value="1" />
+            <is_headset_insert value="0" />
+            <is_speaker_phoneon value="0" />
+            <is_cell_sar_sensor value="1" />
+            <is_usb_ac_charge value="0" />
+
+            <sar_cell_reduce value="2" />
+            <sar_wifi_reduce value="15" />
+        </config>        
+        <config><!-- 5 -->
+            <is_sub1_voice value="1" />
+            <is_wifi_p2p_connected value="1" />
+            <is_headset_insert value="0" />
+            <is_speaker_phoneon value="0" />
+            <is_cell_sar_sensor value="1" />
+            <is_usb_ac_charge value="0" />
+
+            <sar_cell_reduce value="2" />
+            <sar_wifi_reduce value="15" />
+        </config>
+
+        <!--Group 2 Voice + Receiver + wifi + sar_sensor + USB -->
+        <config><!-- 6 -->
+            <is_sub0_voice value="1" />
+            <is_wifi_connected value="1" />
+            <is_wifi_ap_opened value="0" />
+            <is_wifi_p2p_connected value="0" />
+            <is_headset_insert value="0" />
+            <is_speaker_phoneon value="0" />
+            <is_cell_sar_sensor value="1" />
+            <is_usb_ac_charge value="1" />
+
+            <sar_cell_reduce value="5" />
+            <sar_wifi_reduce value="15" />
+        </config>
+        <config><!-- 7 -->
+            <is_sub1_voice value="1" />
+            <is_wifi_connected value="1" />
+            <is_wifi_ap_opened value="0" />
+            <is_wifi_p2p_connected value="0" />
+            <is_headset_insert value="0" />
+            <is_speaker_phoneon value="0" />
+            <is_cell_sar_sensor value="1" />
+            <is_usb_ac_charge value="1" />
+
+            <sar_cell_reduce value="5" />
+            <sar_wifi_reduce value="15" />
+        </config>
+        <config><!-- 8 -->
+            <is_sub0_voice value="1" />
+            <is_wifi_connected value="0" />
+            <is_wifi_ap_opened value="1" />
+            <is_wifi_p2p_connected value="0" />
+            <is_headset_insert value="0" />
+            <is_speaker_phoneon value="0" />
+            <is_cell_sar_sensor value="1" />
+            <is_usb_ac_charge value="1" />
+
+            <sar_cell_reduce value="5" />
+            <sar_wifi_reduce value="15" />
+        </config>
+        <config><!-- 9 -->
+            <is_sub1_voice value="1" />
+            <is_wifi_connected value="0" />
+            <is_wifi_ap_opened value="1" />
+            <is_wifi_p2p_connected value="0" />
+            <is_headset_insert value="0" />
+            <is_speaker_phoneon value="0" />
+            <is_cell_sar_sensor value="1" />
+            <is_usb_ac_charge value="1" />
+
+            <sar_cell_reduce value="5" />
+            <sar_wifi_reduce value="15" />
+        </config>
+        <config><!-- 10 -->
+            <is_sub0_voice value="1" />
+            <is_wifi_p2p_connected value="1" />
+            <is_headset_insert value="0" />
+            <is_speaker_phoneon value="0" />
+            <is_cell_sar_sensor value="1" />
+            <is_usb_ac_charge value="1" />
+
+            <sar_cell_reduce value="5" />
+            <sar_wifi_reduce value="15" />
+        </config>        
+        <config><!-- 11 -->
+            <is_sub1_voice value="1" />
+            <is_wifi_p2p_connected value="1" />
+            <is_headset_insert value="0" />
+            <is_speaker_phoneon value="0" />
+            <is_cell_sar_sensor value="1" />
+            <is_usb_ac_charge value="1" />
+
+            <sar_cell_reduce value="5" />
+            <sar_wifi_reduce value="15" />
+        </config>
+
+        <!--Group 3 Voice + Receiver + wifi -->
+        <config><!-- 12 -->
+            <is_sub0_voice value="1" />
+            <is_wifi_connected value="1" />
+            <is_wifi_ap_opened value="0" />
+            <is_wifi_p2p_connected value="0" />
+            <is_headset_insert value="0" />
+            <is_speaker_phoneon value="0" />
+            <is_cell_sar_sensor value="0" />
+            <is_usb_ac_charge value="0" />
+
+            <sar_cell_reduce value="1" />
+            <sar_wifi_reduce value="15" />
+        </config>
+        <config><!-- 13 -->
+            <is_sub1_voice value="1" />
+            <is_wifi_connected value="1" />
+            <is_wifi_ap_opened value="0" />
+            <is_wifi_p2p_connected value="0" />
+            <is_headset_insert value="0" />
+            <is_speaker_phoneon value="0" />
+            <is_cell_sar_sensor value="0" />
+            <is_usb_ac_charge value="0" />
+
+            <sar_cell_reduce value="1" />
+            <sar_wifi_reduce value="15" />
+        </config>
+        <config><!-- 14 -->
+            <is_sub0_voice value="1" />
+            <is_wifi_connected value="0" />
+            <is_wifi_ap_opened value="1" />
+            <is_wifi_p2p_connected value="0" />
+            <is_headset_insert value="0" />
+            <is_speaker_phoneon value="0" />
+            <is_cell_sar_sensor value="0" />
+            <is_usb_ac_charge value="0" />
+
+            <sar_cell_reduce value="1" />
+            <sar_wifi_reduce value="15" />
+        </config>
+        <config><!-- 15 -->
+            <is_sub1_voice value="1" />
+            <is_wifi_connected value="0" />
+            <is_wifi_ap_opened value="1" />
+            <is_wifi_p2p_connected value="0" />
+            <is_headset_insert value="0" />
+            <is_speaker_phoneon value="0" />
+            <is_cell_sar_sensor value="0" />
+            <is_usb_ac_charge value="0" />
+
+            <sar_cell_reduce value="1" />
+            <sar_wifi_reduce value="15" />
+        </config>
+        <config><!-- 16 -->
+            <is_sub0_voice value="1" />
+            <is_wifi_p2p_connected value="1" />
+            <is_headset_insert value="0" />
+            <is_speaker_phoneon value="0" />
+            <is_cell_sar_sensor value="0" />
+            <is_usb_ac_charge value="0" />
+
+            <sar_cell_reduce value="1" />
+            <sar_wifi_reduce value="15" />
+        </config>
+        <config><!-- 17 -->
+            <is_sub1_voice value="1" />
+            <is_wifi_p2p_connected value="1" />
+            <is_headset_insert value="0" />
+            <is_speaker_phoneon value="0" />
+            <is_cell_sar_sensor value="0" />
+            <is_usb_ac_charge value="0" />
+
+            <sar_cell_reduce value="1" />
+            <sar_wifi_reduce value="15" />
+        </config>
+
+        <!--Group 4 Voice + Receiver + wifi + USB -->
+        <config><!-- 18 -->
+            <is_sub0_voice value="1" />
+            <is_wifi_connected value="1" />
+            <is_wifi_ap_opened value="0" />
+            <is_wifi_p2p_connected value="0" />
+            <is_headset_insert value="0" />
+            <is_speaker_phoneon value="0" />
+            <is_cell_sar_sensor value="0" />
+            <is_usb_ac_charge value="1" />
+
+            <sar_cell_reduce value="5" />
+            <sar_wifi_reduce value="15" />
+        </config>
+        <config><!-- 19 -->
+            <is_sub1_voice value="1" />
+            <is_wifi_connected value="1" />
+            <is_wifi_ap_opened value="0" />
+            <is_wifi_p2p_connected value="0" />
+            <is_headset_insert value="0" />
+            <is_speaker_phoneon value="0" />
+            <is_cell_sar_sensor value="0" />
+            <is_usb_ac_charge value="1" />
+
+            <sar_cell_reduce value="5" />
+            <sar_wifi_reduce value="15" />
+        </config>
+        <config><!-- 20 -->
+            <is_sub0_voice value="1" />
+            <is_wifi_connected value="0" />
+            <is_wifi_ap_opened value="1" />
+            <is_wifi_p2p_connected value="0" />
+            <is_headset_insert value="0" />
+            <is_speaker_phoneon value="0" />
+            <is_cell_sar_sensor value="0" />
+            <is_usb_ac_charge value="1" />
+
+            <sar_cell_reduce value="5" />
+            <sar_wifi_reduce value="15" />
+        </config>
+        <config><!-- 21 -->
+            <is_sub1_voice value="1" />
+            <is_wifi_connected value="0" />
+            <is_wifi_ap_opened value="1" />
+            <is_wifi_p2p_connected value="0" />
+            <is_headset_insert value="0" />
+            <is_speaker_phoneon value="0" />
+            <is_cell_sar_sensor value="0" />
+            <is_usb_ac_charge value="1" />
+
+            <sar_cell_reduce value="5" />
+            <sar_wifi_reduce value="15" />
+        </config>
+        <config><!-- 22 -->
+            <is_sub0_voice value="1" />
+            <is_wifi_p2p_connected value="1" />
+            <is_headset_insert value="0" />
+            <is_speaker_phoneon value="0" />
+            <is_cell_sar_sensor value="0" />
+            <is_usb_ac_charge value="1" />
+
+            <sar_cell_reduce value="5" />
+            <sar_wifi_reduce value="15" />
+        </config>
+        <config><!-- 23 -->
+            <is_sub1_voice value="1" />
+            <is_wifi_p2p_connected value="1" />
+            <is_headset_insert value="0" />
+            <is_speaker_phoneon value="0" />
+            <is_cell_sar_sensor value="0" />
+            <is_usb_ac_charge value="1" />
+
+            <sar_cell_reduce value="5" />
+            <sar_wifi_reduce value="15" />
+        </config>
+
+        <!--Group 5 Voice + Receiver + wifi off + sar sensor -->
+        <config><!-- 24 -->
+            <is_sub0_voice value="1" />
+            <is_wifi_connected value="0" />
+            <is_wifi_ap_opened value="0" />
+            <is_wifi_p2p_connected value="0" />
+            <is_headset_insert value="0" />
+            <is_speaker_phoneon value="0" />
+            <is_cell_sar_sensor value="1" />
+            <is_usb_ac_charge value="0" />
+
+            <sar_cell_reduce value="2" />
+        </config>
+        <config><!-- 25 -->
+            <is_sub1_voice value="1" />
+            <is_wifi_connected value="0" />
+            <is_wifi_ap_opened value="0" />
+            <is_wifi_p2p_connected value="0" />
+            <is_headset_insert value="0" />
+            <is_speaker_phoneon value="0" />
+            <is_cell_sar_sensor value="1" />
+            <is_usb_ac_charge value="0" />
+
+            <sar_cell_reduce value="2" />
+        </config>
+
+        <!--Group 6 Voice + Receiver + wifi off + sar sensor + USB -->
+        <config><!-- 26 -->
+            <is_sub0_voice value="1" />
+            <is_wifi_connected value="0" />
+            <is_wifi_ap_opened value="0" />
+            <is_wifi_p2p_connected value="0" />
+            <is_headset_insert value="0" />
+            <is_speaker_phoneon value="0" />
+            <is_cell_sar_sensor value="1" />
+            <is_usb_ac_charge value="1" />
+
+            <sar_cell_reduce value="5" />
+        </config>
+        <config><!-- 27 -->
+            <is_sub1_voice value="1" />
+            <is_wifi_connected value="0" />
+            <is_wifi_ap_opened value="0" />
+            <is_wifi_p2p_connected value="0" />
+            <is_headset_insert value="0" />
+            <is_speaker_phoneon value="0" />
+            <is_cell_sar_sensor value="1" />
+            <is_usb_ac_charge value="1" />
+
+            <sar_cell_reduce value="5" />
+        </config>
+
+        <!--Group 7 Voice + Receiver + wifi off -->
+        <config><!-- 28 -->
+            <is_sub0_voice value="1" />
+            <is_wifi_connected value="0" />
+            <is_wifi_ap_opened value="0" />
+            <is_wifi_p2p_connected value="0" />
+            <is_headset_insert value="0" />
+            <is_speaker_phoneon value="0" />
+            <is_cell_sar_sensor value="0" />
+            <is_usb_ac_charge value="0" />
+
+            <sar_cell_reduce value="1" />
+        </config>
+        <config><!-- 29 -->
+            <is_sub1_voice value="1" />
+            <is_wifi_connected value="0" />
+            <is_wifi_ap_opened value="0" />
+            <is_wifi_p2p_connected value="0" />
+            <is_headset_insert value="0" />
+            <is_speaker_phoneon value="0" />
+            <is_cell_sar_sensor value="0" />
+            <is_usb_ac_charge value="0" />
+
+            <sar_cell_reduce value="1" />
+        </config>
+
+        <!--Group 8 Voice + Receiver + wifi off + USB -->
+        <config><!-- 30 -->
+            <is_sub0_voice value="1" />
+            <is_wifi_connected value="0" />
+            <is_wifi_ap_opened value="0" />
+            <is_wifi_p2p_connected value="0" />
+            <is_headset_insert value="0" />
+            <is_speaker_phoneon value="0" />
+            <is_cell_sar_sensor value="0" />
+            <is_usb_ac_charge value="1" />
+
+            <sar_cell_reduce value="5" />
+        </config>
+        <config><!-- 31 -->
+            <is_sub1_voice value="1" />
+            <is_wifi_connected value="0" />
+            <is_wifi_ap_opened value="0" />
+            <is_wifi_p2p_connected value="0" />
+            <is_headset_insert value="0" />
+            <is_speaker_phoneon value="0" />
+            <is_cell_sar_sensor value="0" />
+            <is_usb_ac_charge value="1" />
+
+            <sar_cell_reduce value="5" />
+        </config>
+
+        <!--Group 9 Voice + headset + wifi on + sar_sensor + USB_NotCare -->
+        <config><!-- 32 -->
+            <is_sub0_voice value="1" />
+            <is_wifi_connected value="1" />
+            <is_wifi_ap_opened value="0" />
+            <is_wifi_p2p_connected value="0" />
+            <is_headset_insert value="1" />
+            <is_speaker_phoneon value="0" />
+            <is_cell_sar_sensor value="1" />
+
+            <sar_cell_reduce value="3" />
+            <sar_wifi_reduce value="1" />
+        </config>
+        <config><!-- 33 -->
+            <is_sub1_voice value="1" />
+            <is_wifi_connected value="1" />
+            <is_wifi_ap_opened value="0" />
+            <is_wifi_p2p_connected value="0" />
+            <is_headset_insert value="1" />
+            <is_speaker_phoneon value="0" />
+            <is_cell_sar_sensor value="1" />
+
+            <sar_cell_reduce value="3" />
+            <sar_wifi_reduce value="1" />
+        </config>
+        <config><!-- 34 -->
+            <is_sub0_voice value="1" />
+            <is_wifi_connected value="0" />
+            <is_wifi_ap_opened value="1" />
+            <is_wifi_p2p_connected value="0" />
+            <is_headset_insert value="1" />
+            <is_speaker_phoneon value="0" />
+            <is_cell_sar_sensor value="1" />
+
+            <sar_cell_reduce value="3" />
+            <sar_wifi_reduce value="1" />
+        </config>
+        <config><!-- 35 -->
+            <is_sub1_voice value="1" />
+            <is_wifi_connected value="0" />
+            <is_wifi_ap_opened value="1" />
+            <is_wifi_p2p_connected value="0" />
+            <is_headset_insert value="1" />
+            <is_speaker_phoneon value="0" />
+            <is_cell_sar_sensor value="1" />
+
+            <sar_cell_reduce value="3" />
+            <sar_wifi_reduce value="1" />
+        </config>
+        <config><!-- 36 -->
+            <is_sub0_voice value="1" />
+            <is_wifi_p2p_connected value="1" />
+            <is_headset_insert value="1" />
+            <is_speaker_phoneon value="0" />
+            <is_cell_sar_sensor value="1" />
+
+            <sar_cell_reduce value="3" />
+            <sar_wifi_reduce value="1" />
+        </config>
+        <config><!-- 37 -->
+            <is_sub1_voice value="1" />
+            <is_wifi_p2p_connected value="1" />
+            <is_headset_insert value="1" />
+            <is_speaker_phoneon value="0" />
+            <is_cell_sar_sensor value="1" />
+
+            <sar_cell_reduce value="3" />
+            <sar_wifi_reduce value="1" />
+        </config>
+
+        <!--Group 10 Voice + headset + wifi on -->
+        <config><!-- 38 -->
+            <is_sub0_voice value="1" />
+            <is_wifi_connected value="1" />
+            <is_wifi_ap_opened value="0" />
+            <is_wifi_p2p_connected value="0" />
+            <is_headset_insert value="1" />
+            <is_speaker_phoneon value="0" />
+            <is_cell_sar_sensor value="0" />
+            <is_usb_ac_charge value="0" />
+
+            <sar_cell_reduce value="1" />
+            <sar_wifi_reduce value="1" />
+        </config>
+        <config><!-- 39 -->
+            <is_sub1_voice value="1" />
+            <is_wifi_connected value="1" />
+            <is_wifi_ap_opened value="0" />
+            <is_wifi_p2p_connected value="0" />
+            <is_headset_insert value="1" />
+            <is_speaker_phoneon value="0" />
+            <is_cell_sar_sensor value="0" />
+            <is_usb_ac_charge value="0" />
+
+            <sar_cell_reduce value="1" />
+            <sar_wifi_reduce value="1" />
+        </config>
+        <config><!-- 40 -->
+            <is_sub0_voice value="1" />
+            <is_wifi_connected value="0" />
+            <is_wifi_ap_opened value="1" />
+            <is_wifi_p2p_connected value="0" />
+            <is_headset_insert value="1" />
+            <is_speaker_phoneon value="0" />
+            <is_cell_sar_sensor value="0" />
+            <is_usb_ac_charge value="0" />
+
+            <sar_cell_reduce value="1" />
+            <sar_wifi_reduce value="1" />
+        </config>
+        <config><!-- 41 -->
+            <is_sub1_voice value="1" />
+            <is_wifi_connected value="0" />
+            <is_wifi_ap_opened value="1" />
+            <is_wifi_p2p_connected value="0" />
+            <is_headset_insert value="1" />
+            <is_speaker_phoneon value="0" />
+            <is_cell_sar_sensor value="0" />
+            <is_usb_ac_charge value="0" />
+
+            <sar_cell_reduce value="1" />
+            <sar_wifi_reduce value="1" />
+        </config>
+        <config><!-- 42 -->
+            <is_sub0_voice value="1" />
+            <is_wifi_p2p_connected value="1" />
+            <is_headset_insert value="1" />
+            <is_speaker_phoneon value="0" />
+            <is_cell_sar_sensor value="0" />
+            <is_usb_ac_charge value="0" />
+
+            <sar_cell_reduce value="1" />
+            <sar_wifi_reduce value="1" />
+        </config>
+        <config><!-- 43 -->
+            <is_sub1_voice value="1" />
+            <is_wifi_p2p_connected value="1" />
+            <is_headset_insert value="1" />
+            <is_speaker_phoneon value="0" />
+            <is_cell_sar_sensor value="0" />
+            <is_usb_ac_charge value="0" />
+
+            <sar_cell_reduce value="1" />
+            <sar_wifi_reduce value="1" />
+        </config>
+
+        <!--Group 11 Voice + headset + wifi on + USB -->
+        <config><!-- 44 -->
+            <is_sub0_voice value="1" />
+            <is_wifi_connected value="1" />
+            <is_wifi_ap_opened value="0" />
+            <is_wifi_p2p_connected value="0" />
+            <is_headset_insert value="1" />
+            <is_speaker_phoneon value="0" />
+            <is_cell_sar_sensor value="0" />
+            <is_usb_ac_charge value="1" />
+
+            <sar_cell_reduce value="5" />
+            <sar_wifi_reduce value="1" />
+        </config>
+        <config><!-- 45 -->
+            <is_sub1_voice value="1" />
+            <is_wifi_connected value="1" />
+            <is_wifi_ap_opened value="0" />
+            <is_wifi_p2p_connected value="0" />
+            <is_headset_insert value="1" />
+            <is_speaker_phoneon value="0" />
+            <is_cell_sar_sensor value="0" />
+            <is_usb_ac_charge value="1" />
+
+            <sar_cell_reduce value="5" />
+            <sar_wifi_reduce value="1" />
+        </config>
+        <config><!-- 46 -->
+            <is_sub0_voice value="1" />
+            <is_wifi_connected value="0" />
+            <is_wifi_ap_opened value="1" />
+            <is_wifi_p2p_connected value="0" />
+            <is_headset_insert value="1" />
+            <is_speaker_phoneon value="0" />
+            <is_cell_sar_sensor value="0" />
+            <is_usb_ac_charge value="1" />
+
+            <sar_cell_reduce value="5" />
+            <sar_wifi_reduce value="1" />
+        </config>
+        <config><!-- 47 -->
+            <is_sub1_voice value="1" />
+            <is_wifi_connected value="0" />
+            <is_wifi_ap_opened value="1" />
+            <is_wifi_p2p_connected value="0" />
+            <is_headset_insert value="1" />
+            <is_speaker_phoneon value="0" />
+            <is_cell_sar_sensor value="0" />
+            <is_usb_ac_charge value="1" />
+
+            <sar_cell_reduce value="5" />
+            <sar_wifi_reduce value="1" />
+        </config>
+        <config><!-- 48 -->
+            <is_sub0_voice value="1" />
+            <is_wifi_p2p_connected value="1" />
+            <is_headset_insert value="1" />
+            <is_speaker_phoneon value="0" />
+            <is_cell_sar_sensor value="0" />
+            <is_usb_ac_charge value="1" />
+
+            <sar_cell_reduce value="5" />
+            <sar_wifi_reduce value="1" />
+        </config>
+        <config><!-- 49 -->
+            <is_sub1_voice value="1" />
+            <is_wifi_p2p_connected value="1" />
+            <is_headset_insert value="1" />
+            <is_speaker_phoneon value="0" />
+            <is_cell_sar_sensor value="0" />
+            <is_usb_ac_charge value="1" />
+
+            <sar_cell_reduce value="5" />
+            <sar_wifi_reduce value="1" />
+        </config>
+
+        <!--Group 12 Voice + headset + wifi off + sar sensor on + USB_NotCare -->
+        <config><!-- 50 -->
+            <is_sub0_voice value="1" />
+            <is_wifi_connected value="0" />
+            <is_wifi_ap_opened value="0" />
+            <is_wifi_p2p_connected value="0" />
+            <is_headset_insert value="1" />
+            <is_speaker_phoneon value="0" />
+            <is_cell_sar_sensor value="1" />
+
+            <sar_cell_reduce value="3" />
+        </config>
+        <config><!-- 51 -->
+            <is_sub1_voice value="1" />
+            <is_wifi_connected value="0" />
+            <is_wifi_ap_opened value="0" />
+            <is_wifi_p2p_connected value="0" />
+            <is_headset_insert value="1" />
+            <is_speaker_phoneon value="0" />
+            <is_cell_sar_sensor value="1" />
+
+            <sar_cell_reduce value="3" />
+        </config>
+
+        <!--Group 13 Voice + headset -->
+        <config><!-- 52 -->
+            <is_sub0_voice value="1" />
+            <is_wifi_connected value="0" />
+            <is_wifi_ap_opened value="0" />
+            <is_wifi_p2p_connected value="0" />
+            <is_headset_insert value="1" />
+            <is_speaker_phoneon value="0" />
+            <is_cell_sar_sensor value="0" />
+            <is_usb_ac_charge value="0" />
+
+            <sar_cell_reduce value="1" />
+        </config>
+        <config><!-- 53 -->
+            <is_sub1_voice value="1" />
+            <is_wifi_connected value="0" />
+            <is_wifi_ap_opened value="0" />
+            <is_wifi_p2p_connected value="0" />
+            <is_headset_insert value="1" />
+            <is_speaker_phoneon value="0" />
+            <is_cell_sar_sensor value="0" />
+            <is_usb_ac_charge value="0" />
+
+            <sar_cell_reduce value="1" />
+        </config>
+
+        <!--Group 14 Voice + headset + sar_sensor off + USB -->
+        <config><!-- 54 -->
+            <is_sub0_voice value="1" />
+            <is_wifi_connected value="0" />
+            <is_wifi_ap_opened value="0" />
+            <is_wifi_p2p_connected value="0" />
+            <is_headset_insert value="1" />
+            <is_speaker_phoneon value="0" />
+            <is_cell_sar_sensor value="0" />
+            <is_usb_ac_charge value="1" />
+
+            <sar_cell_reduce value="5" />
+        </config>
+        <config><!-- 55 -->
+            <is_sub1_voice value="1" />
+            <is_wifi_connected value="0" />
+            <is_wifi_ap_opened value="0" />
+            <is_wifi_p2p_connected value="0" />
+            <is_headset_insert value="1" />
+            <is_speaker_phoneon value="0" />
+            <is_cell_sar_sensor value="0" />
+            <is_usb_ac_charge value="1" />
+
+            <sar_cell_reduce value="5" />
+        </config>
+
+        <!--Group 15 Voice + speaker + wifi on + sar sensor on + USB_NotCare -->
+        <config><!-- 56 -->
+            <is_sub0_voice value="1" />
+            <is_wifi_connected value="1" />
+            <is_wifi_ap_opened value="0" />
+            <is_wifi_p2p_connected value="0" />
+            <is_headset_insert value="0" />
+            <is_speaker_phoneon value="1" />
+            <is_cell_sar_sensor value="1" />
+
+            <sar_cell_reduce value="3" />
+            <sar_wifi_reduce value="1" />
+        </config>
+        <config><!-- 57 -->
+            <is_sub1_voice value="1" />
+            <is_wifi_connected value="1" />
+            <is_wifi_ap_opened value="0" />
+            <is_wifi_p2p_connected value="0" />
+            <is_headset_insert value="0" />
+            <is_speaker_phoneon value="1" />
+            <is_cell_sar_sensor value="1" />
+
+            <sar_cell_reduce value="3" />
+            <sar_wifi_reduce value="1" />
+        </config>
+        <config><!-- 58 -->
+            <is_sub0_voice value="1" />
+            <is_wifi_connected value="0" />
+            <is_wifi_ap_opened value="1" />
+            <is_wifi_p2p_connected value="0" />
+            <is_headset_insert value="0" />
+            <is_speaker_phoneon value="1" />
+            <is_cell_sar_sensor value="1" />
+
+            <sar_cell_reduce value="3" />
+            <sar_wifi_reduce value="1" />
+        </config>
+        <config><!-- 59 -->
+            <is_sub1_voice value="1" />
+            <is_wifi_connected value="0" />
+            <is_wifi_ap_opened value="1" />
+            <is_wifi_p2p_connected value="0" />
+            <is_headset_insert value="0" />
+            <is_speaker_phoneon value="1" />
+            <is_cell_sar_sensor value="1" />
+
+            <sar_cell_reduce value="3" />
+            <sar_wifi_reduce value="1" />
+        </config>
+        <config><!-- 60 -->
+            <is_sub0_voice value="1" />
+            <is_wifi_p2p_connected value="1" />
+            <is_headset_insert value="0" />
+            <is_speaker_phoneon value="1" />
+            <is_cell_sar_sensor value="1" />
+
+            <sar_cell_reduce value="3" />
+            <sar_wifi_reduce value="1" />
+        </config>
+        <config><!-- 61 -->
+            <is_sub1_voice value="1" />
+            <is_wifi_p2p_connected value="1" />
+            <is_headset_insert value="0" />
+            <is_speaker_phoneon value="1" />
+            <is_cell_sar_sensor value="1" />
+
+            <sar_cell_reduce value="3" />
+            <sar_wifi_reduce value="1" />
+        </config>
+
+        <!--Group 16 Voice + speaker + wifi on + sar sensor off + USB -->
+        <config><!-- 62 -->
+            <is_sub0_voice value="1" />
+            <is_wifi_connected value="1" />
+            <is_wifi_ap_opened value="0" />
+            <is_wifi_p2p_connected value="0" />
+            <is_headset_insert value="0" />
+            <is_speaker_phoneon value="1" />
+            <is_cell_sar_sensor value="0" />
+            <is_usb_ac_charge value="1" />
+
+            <sar_cell_reduce value="5" />
+            <sar_wifi_reduce value="1" />
+        </config>
+        <config><!-- 63 -->
+            <is_sub1_voice value="1" />
+            <is_wifi_connected value="1" />
+            <is_wifi_ap_opened value="0" />
+            <is_wifi_p2p_connected value="0" />
+            <is_headset_insert value="0" />
+            <is_speaker_phoneon value="1" />
+            <is_cell_sar_sensor value="0" />
+            <is_usb_ac_charge value="1" />
+
+            <sar_cell_reduce value="5" />
+            <sar_wifi_reduce value="1" />
+        </config>
+        <config><!-- 64 -->
+            <is_sub0_voice value="1" />
+            <is_wifi_connected value="0" />
+            <is_wifi_ap_opened value="1" />
+            <is_wifi_p2p_connected value="0" />
+            <is_headset_insert value="0" />
+            <is_speaker_phoneon value="1" />
+            <is_cell_sar_sensor value="0" />
+            <is_usb_ac_charge value="1" />
+
+            <sar_cell_reduce value="5" />
+            <sar_wifi_reduce value="1" />
+        </config>
+        <config><!-- 65 -->
+            <is_sub1_voice value="1" />
+            <is_wifi_connected value="0" />
+            <is_wifi_ap_opened value="1" />
+            <is_wifi_p2p_connected value="0" />
+            <is_headset_insert value="0" />
+            <is_speaker_phoneon value="1" />
+            <is_cell_sar_sensor value="0" />
+            <is_usb_ac_charge value="1" />
+
+            <sar_cell_reduce value="5" />
+            <sar_wifi_reduce value="1" />
+        </config>
+        <config><!-- 66 -->
+            <is_sub0_voice value="1" />
+            <is_wifi_p2p_connected value="1" />
+            <is_headset_insert value="0" />
+            <is_speaker_phoneon value="1" />
+            <is_cell_sar_sensor value="0" />
+            <is_usb_ac_charge value="1" />
+
+            <sar_cell_reduce value="5" />
+            <sar_wifi_reduce value="1" />
+        </config>
+        <config><!-- 67 -->
+            <is_sub1_voice value="1" />
+            <is_wifi_p2p_connected value="1" />
+            <is_headset_insert value="0" />
+            <is_speaker_phoneon value="1" />
+            <is_cell_sar_sensor value="0" />
+            <is_usb_ac_charge value="1" />
+
+            <sar_cell_reduce value="5" />
+            <sar_wifi_reduce value="1" />
+        </config>
+        
+        <!--Group 17 Voice + speaker + wifi on + sar sensor off -->
+        <config><!-- 68 -->
+            <is_sub0_voice value="1" />
+            <is_wifi_connected value="1" />
+            <is_wifi_ap_opened value="0" />
+            <is_wifi_p2p_connected value="0" />
+            <is_headset_insert value="0" />
+            <is_speaker_phoneon value="1" />
+            <is_cell_sar_sensor value="0" />
+            <is_usb_ac_charge value="1" />
+
+            <sar_cell_reduce value="5" />
+            <sar_wifi_reduce value="1" />
+        </config>
+        <config><!-- 69 -->
+            <is_sub1_voice value="1" />
+            <is_wifi_connected value="1" />
+            <is_wifi_ap_opened value="0" />
+            <is_wifi_p2p_connected value="0" />
+            <is_headset_insert value="0" />
+            <is_speaker_phoneon value="1" />
+            <is_cell_sar_sensor value="0" />
+            <is_usb_ac_charge value="0" />
+
+            <sar_cell_reduce value="1" />
+            <sar_wifi_reduce value="1" />
+        </config>
+        <config><!-- 70 -->
+            <is_sub0_voice value="1" />
+            <is_wifi_connected value="0" />
+            <is_wifi_ap_opened value="1" />
+            <is_wifi_p2p_connected value="0" />
+            <is_headset_insert value="0" />
+            <is_speaker_phoneon value="1" />
+            <is_cell_sar_sensor value="0" />
+            <is_usb_ac_charge value="0" />
+
+            <sar_cell_reduce value="1" />
+            <sar_wifi_reduce value="1" />
+        </config>
+        <config><!-- 71 -->
+            <is_sub1_voice value="1" />
+            <is_wifi_connected value="0" />
+            <is_wifi_ap_opened value="1" />
+            <is_wifi_p2p_connected value="0" />
+            <is_headset_insert value="0" />
+            <is_speaker_phoneon value="1" />
+            <is_cell_sar_sensor value="0" />
+            <is_usb_ac_charge value="0" />
+
+            <sar_cell_reduce value="1" />
+            <sar_wifi_reduce value="1" />
+        </config>
+        <config><!-- 72 -->
+            <is_sub0_voice value="1" />
+            <is_wifi_p2p_connected value="1" />
+            <is_headset_insert value="0" />
+            <is_speaker_phoneon value="1" />
+            <is_cell_sar_sensor value="0" />
+            <is_usb_ac_charge value="0" />
+
+            <sar_cell_reduce value="1" />
+            <sar_wifi_reduce value="1" />
+        </config>
+        <config><!-- 73 -->
+            <is_sub1_voice value="1" />
+            <is_wifi_p2p_connected value="1" />
+            <is_headset_insert value="0" />
+            <is_speaker_phoneon value="1" />
+            <is_cell_sar_sensor value="0" />
+            <is_usb_ac_charge value="0" />
+
+            <sar_cell_reduce value="1" />
+            <sar_wifi_reduce value="1" />
+        </config>
+
+        <!--Group 18 Voice + speaker + wifi off + sar sensor on + USB_NotCare -->
+        <config><!-- 74 -->
+            <is_sub0_voice value="1" />
+            <is_wifi_connected value="0" />
+            <is_wifi_ap_opened value="0" />
+            <is_wifi_p2p_connected value="0" />
+            <is_headset_insert value="0" />
+            <is_speaker_phoneon value="1" />
+            <is_cell_sar_sensor value="1" />
+
+            <sar_cell_reduce value="3" />
+        </config>
+        <config><!-- 75 -->
+            <is_sub1_voice value="1" />
+            <is_wifi_connected value="0" />
+            <is_wifi_ap_opened value="0" />
+            <is_wifi_p2p_connected value="0" />
+            <is_headset_insert value="0" />
+            <is_speaker_phoneon value="1" />
+            <is_cell_sar_sensor value="1" />
+
+            <sar_cell_reduce value="3" />
+        </config>
+
+        <!--Group 19 Voice + speaker + wifi off + sar sensor off + USB -->
+        <config><!-- 76 -->
+            <is_sub0_voice value="1" />
+            <is_wifi_connected value="0" />
+            <is_wifi_ap_opened value="0" />
+            <is_wifi_p2p_connected value="0" />
+            <is_headset_insert value="0" />
+            <is_speaker_phoneon value="1" />
+            <is_cell_sar_sensor value="0" />
+            <is_usb_ac_charge value="1" />
+
+            <sar_cell_reduce value="5" />
+        </config>
+        <config><!-- 77 -->
+            <is_sub1_voice value="1" />
+            <is_wifi_connected value="0" />
+            <is_wifi_ap_opened value="0" />
+            <is_wifi_p2p_connected value="0" />
+            <is_headset_insert value="0" />
+            <is_speaker_phoneon value="1" />
+            <is_cell_sar_sensor value="0" />
+            <is_usb_ac_charge value="1" />
+
+            <sar_cell_reduce value="5" />
+        </config>
+
+        <!--Group 20 Voice + speaker + wifi off + sar sensor off -->
+        <config><!-- 78 -->
+            <is_sub0_voice value="1" />
+            <is_wifi_connected value="0" />
+            <is_wifi_ap_opened value="0" />
+            <is_wifi_p2p_connected value="0" />
+            <is_headset_insert value="0" />
+            <is_speaker_phoneon value="1" />
+            <is_cell_sar_sensor value="0" />
+            <is_usb_ac_charge value="0" />
+
+            <sar_cell_reduce value="1" />
+        </config>
+        <config><!-- 79 -->
+            <is_sub1_voice value="1" />
+            <is_wifi_connected value="0" />
+            <is_wifi_ap_opened value="0" />
+            <is_wifi_p2p_connected value="0" />
+            <is_headset_insert value="0" />
+            <is_speaker_phoneon value="1" />
+            <is_cell_sar_sensor value="0" />
+            <is_usb_ac_charge value="0" />
+
+            <sar_cell_reduce value="1" />
+        </config>
+
+        <!-- OK upon -->
+
+        <!--Group 21 Data + wifi on + sar sensor on + USB_NotCare -->
+        <config><!-- 80 -->
+            <is_sub0_data_connected value="1" />
+            <is_wifi_connected value="1" />
+            <is_wifi_ap_opened value="0" />
+            <is_wifi_p2p_connected value="0" />
+            <is_cell_sar_sensor value="1" />
+
+            <sar_cell_reduce value="3" />
+            <sar_wifi_reduce value="1" />
+        </config>
+        <config><!-- 81 -->
+            <is_sub1_data_connected value="1" />
+            <is_wifi_connected value="1" />
+            <is_wifi_ap_opened value="0" />
+            <is_wifi_p2p_connected value="0" />
+            <is_cell_sar_sensor value="1" />
+
+            <sar_cell_reduce value="3" />
+            <sar_wifi_reduce value="1" />
+        </config>
+        <config><!-- 82 -->
+            <is_sub0_data_connected value="1" />
+            <is_wifi_connected value="0" />
+            <is_wifi_ap_opened value="1" />
+            <is_wifi_p2p_connected value="0" />
+            <is_cell_sar_sensor value="1" />
+
+            <sar_cell_reduce value="3" />
+            <sar_wifi_reduce value="1" />
+        </config>
+        <config><!-- 83 -->
+            <is_sub1_data_connected value="1" />
+            <is_wifi_connected value="0" />
+            <is_wifi_ap_opened value="1" />
+            <is_wifi_p2p_connected value="0" />
+            <is_cell_sar_sensor value="1" />
+
+            <sar_cell_reduce value="3" />
+            <sar_wifi_reduce value="1" />
+        </config>
+        <config><!-- 84 -->
+            <is_sub0_data_connected value="1" />
+            <is_wifi_p2p_connected value="1" />
+            <is_cell_sar_sensor value="1" />
+
+            <sar_cell_reduce value="3" />
+            <sar_wifi_reduce value="1" />
+        </config>
+        <config><!-- 85 -->
+            <is_sub1_data_connected value="1" />
+            <is_wifi_p2p_connected value="1" />
+            <is_cell_sar_sensor value="1" />
+
+            <sar_cell_reduce value="3" />
+            <sar_wifi_reduce value="1" />
+        </config>
+
+        <!--Group 22 Data + wifi off + sar sensor on-->
+        <config><!-- 86 -->
+            <is_sub0_data_connected value="1" />
+            <is_wifi_connected value="0" />
+            <is_wifi_ap_opened value="0" />
+            <is_wifi_p2p_connected value="0" />
+            <is_cell_sar_sensor value="1" />
+
+            <sar_cell_reduce value="3" />
+        </config>
+        <config><!-- 87 -->
+            <is_sub1_data_connected value="1" />
+            <is_wifi_connected value="0" />
+            <is_wifi_ap_opened value="0" />
+            <is_wifi_p2p_connected value="0" />
+            <is_cell_sar_sensor value="1" />
+
+            <sar_cell_reduce value="3" />
+        </config>
+
+        <!--Group 23 Data + wifi hotspot + sar sensor off + USB_NotCare -->
+        <!--Only Hotspot with sar sensor off or no sar sensor should use this condition -->
+        <config><!-- 88 -->
+            <is_sub0_data_connected value="1" />
+            <is_wifi_connected value="0" />
+            <is_wifi_ap_opened value="1" />
+            <is_wifi_p2p_connected value="0" />
+            <is_cell_sar_sensor value="0" />
+
+            <sar_cell_reduce value="4" />
+            <sar_wifi_reduce value="1" />
+        </config>
+        <config><!-- 89 -->
+            <is_sub1_data_connected value="1" />
+            <is_wifi_connected value="0" />
+            <is_wifi_ap_opened value="1" />
+            <is_wifi_p2p_connected value="0" />
+            <is_cell_sar_sensor value="0" />
+
+            <sar_cell_reduce value="4" />
+            <sar_wifi_reduce value="1" />
+        </config>
+
+        <!--Group 24 Data + wifi on + sar sensor off + USB -->
+        <config><!-- 90 -->
+            <is_sub0_data_connected value="1" />
+            <is_wifi_connected value="1" />
+            <is_wifi_ap_opened value="0" />
+            <is_wifi_p2p_connected value="0" />
+            <is_cell_sar_sensor value="0" />
+            <is_usb_ac_charge value="1" />
+
+            <sar_cell_reduce value="5" />
+            <sar_wifi_reduce value="1" />
+        </config>
+        <config><!-- 91 -->
+            <is_sub1_data_connected value="1" />
+            <is_wifi_connected value="1" />
+            <is_wifi_ap_opened value="0" />
+            <is_wifi_p2p_connected value="0" />
+            <is_cell_sar_sensor value="0" />
+            <is_usb_ac_charge value="1" />
+
+            <sar_cell_reduce value="5" />
+            <sar_wifi_reduce value="1" />
+        </config>
+
+        <!--Group 25 Data + wifi on + sar sensor off -->
+        <config><!-- 92 -->
+            <is_sub0_data_connected value="1" />
+            <is_wifi_connected value="1" />
+            <is_wifi_ap_opened value="0" />
+            <is_wifi_p2p_connected value="0" />
+            <is_cell_sar_sensor value="0" />
+            <is_usb_ac_charge value="0" />
+
+            <sar_cell_reduce value="1" />
+            <sar_wifi_reduce value="1" />
+        </config>
+        <config><!-- 93 -->
+            <is_sub1_data_connected value="1" />
+            <is_wifi_connected value="1" />
+            <is_wifi_ap_opened value="0" />
+            <is_wifi_p2p_connected value="0" />
+            <is_cell_sar_sensor value="0" />
+            <is_usb_ac_charge value="0" />
+
+            <sar_cell_reduce value="1" />
+            <sar_wifi_reduce value="1" />
+        </config>
+
+        <!--Group 26 Data + wifi p2p + sar sensor off + USB_NotCare -->
+        <config><!-- 94 -->
+            <is_sub0_data_connected value="1" />
+            <is_wifi_p2p_connected value="1" />
+            <is_cell_sar_sensor value="0" />
+
+            <sar_cell_reduce value="4" />
+            <sar_wifi_reduce value="1" />
+        </config>
+        <config><!-- 95 -->
+            <is_sub1_data_connected value="1" />
+            <is_wifi_p2p_connected value="1" />
+            <is_cell_sar_sensor value="0" />
+
+            <sar_cell_reduce value="4" />
+            <sar_wifi_reduce value="1" />
+        </config>
+
+        <!--Group 27 Data + wifi off + sar sensor off + USB -->
+        <config><!-- 96 -->
+            <is_sub0_data_connected value="1" />
+            <is_wifi_connected value="0" />
+            <is_wifi_ap_opened value="0" />
+            <is_wifi_p2p_connected value="0" />
+            <is_cell_sar_sensor value="0" />
+            <is_usb_ac_charge value="1" />
+
+            <sar_cell_reduce value="5" />
+        </config>
+        <config><!-- 97 -->
+            <is_sub1_data_connected value="1" />
+            <is_wifi_connected value="0" />
+            <is_wifi_ap_opened value="0" />
+            <is_wifi_p2p_connected value="0" />
+            <is_cell_sar_sensor value="0" />
+            <is_usb_ac_charge value="1" />
+
+            <sar_cell_reduce value="5" />
+        </config>
+
+        <!--Group 28 Data + wifi off + sar sensor off -->
+        <config><!-- 98 -->
+            <is_sub0_data_connected value="1" />
+            <is_wifi_connected value="0" />
+            <is_wifi_ap_opened value="0" />
+            <is_wifi_p2p_connected value="0" />
+            <is_cell_sar_sensor value="0" />
+            <is_usb_ac_charge value="0" />
+
+            <sar_cell_reduce value="1" />
+        </config>
+        <config><!-- 99 -->
+            <is_sub1_data_connected value="1" />
+            <is_wifi_connected value="0" />
+            <is_wifi_ap_opened value="0" />
+            <is_wifi_p2p_connected value="0" />
+            <is_cell_sar_sensor value="0" />
+            <is_usb_ac_charge value="0" />
+
+            <sar_cell_reduce value="1" />
+        </config>
+
+        <!--Group uncorrect states-->
+        <!--Uncorrect states 1-->
+        <config><!-- 100 -->
+            <is_sub0_voice value="1" />
+            <is_wifi_connected value="1" />
+            <is_wifi_ap_opened value="1" />
+            <is_wifi_p2p_connected value="0" />
+
+            <sar_cell_reduce value="3" />
+            <sar_wifi_reduce value="15" />
+        </config>
+        <config><!-- 101 -->
+            <is_sub1_voice value="1" />
+            <is_wifi_connected value="1" />
+            <is_wifi_ap_opened value="1" />
+            <is_wifi_p2p_connected value="0" />
+
+            <sar_cell_reduce value="3" />
+            <sar_wifi_reduce value="15" />
+        </config>
+        <config><!-- 102 -->
+            <is_sub0_data_connected value="1" />
+            <is_wifi_connected value="1" />
+            <is_wifi_ap_opened value="1" />
+            <is_wifi_p2p_connected value="0" />
+
+            <sar_cell_reduce value="3" />
+            <sar_wifi_reduce value="15" />
+        </config>
+        <config><!-- 103 -->
+            <is_sub1_data_connected value="1" />
+            <is_wifi_connected value="1" />
+            <is_wifi_ap_opened value="1" />
+            <is_wifi_p2p_connected value="0" />
+
+            <sar_cell_reduce value="3" />
+            <sar_wifi_reduce value="15" />
+        </config>
+
+        <!--Uncorrect states 2-->
+        <config><!-- 104 -->
+            <is_sub0_voice value="1" />
+            <is_headset_insert value="1" />
+            <is_speaker_phoneon value="1" />
+
+            <sar_cell_reduce value="3" />
+            <sar_wifi_reduce value="15" />
+        </config>
+        <config><!-- 105 -->
+            <is_sub1_voice value="1" />
+            <is_headset_insert value="1" />
+            <is_speaker_phoneon value="1" />
+
+            <sar_cell_reduce value="3" />
+            <sar_wifi_reduce value="15" />
+        </config>
+        <config><!-- 106 -->
+            <is_sub0_data_connected value="1" />
+            <is_headset_insert value="1" />
+            <is_speaker_phoneon value="1" />
+
+            <sar_cell_reduce value="3" />
+            <sar_wifi_reduce value="15" />
+        </config>
+        <config><!-- 107 -->
+            <is_sub1_data_connected value="1" />
+            <is_headset_insert value="1" />
+            <is_speaker_phoneon value="1" />
+
+            <sar_cell_reduce value="3" />
+            <sar_wifi_reduce value="15" />
+        </config>
+        
+        <!--Uncorrect states 3-->
+        <config><!-- 108 -->
+            <is_sub0_voice value="1" />
+            <is_sub1_voice value="1" />
+            <is_sub0_data_connected value="0" />
+            <is_sub1_data_connected value="0" />
+
+            <sar_cell_reduce value="3" />
+            <sar_wifi_reduce value="15" />
+        </config>
+        
+        <!--Group Vowifi -->
+        <config><!-- 109 -->
+            <is_sub0_voice value="1" />
+            <is_wifi_connected value="1" />
+            <is_wifi_ap_opened value="0" />
+            <is_headset_insert value="0" />
+            <is_speaker_phoneon value="0" />
+
+            <sar_wifi_reduce value="15" />
+        </config>
+        <config><!-- 110 -->
+            <is_sub1_voice value="1" />
+            <is_wifi_connected value="1" />
+            <is_wifi_ap_opened value="0" />
+            <is_headset_insert value="0" />
+            <is_speaker_phoneon value="0" />
+
+            <sar_wifi_reduce value="15" />
+        </config>
+
+    </configs>
+</SarRuleConfig>

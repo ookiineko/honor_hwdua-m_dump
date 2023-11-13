@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- !!!!!!!!!!!!warnning!!!!!!!!!!!!  -->
+<!-- this config is used to config big memory -->
+<!-- upon the item iaware, no allowed add any item -->
+<!-- if you want to accelerate camera launch-->
+<!-- please copy the following xml to your own product folder-->
+<iaware iawareversion="1.0">
+    <feature name="Memory">
+        <config name="BigMemApp">
+            <item appname="com.huawei.camera">
+                <launch>700</launch>
+            </item>
+            <item appname="com.eg.android.AlipayGphone">
+                <launch>600</launch>
+            </item>
+        </config>
+        <config name="MemoryConstant" >
+            <item ramsize="1024">
+                <lowCpuLoad>100</lowCpuLoad>
+                <highCpuLoad>100</highCpuLoad>
+                <cleanAllSwitch>1</cleanAllSwitch>
+                <killGapMem>51200</killGapMem>
+            </item>
+            <item ramsize="2048">
+                <lowCpuLoad>100</lowCpuLoad>
+                <highCpuLoad>100</highCpuLoad>
+                <defaultCriticalMemory>600</defaultCriticalMemory>
+                <normalMemory>800</normalMemory>
+                <cleanAllSwitch>1</cleanAllSwitch>
+                <killGapMem>102400</killGapMem>
+            </item>
+            <item ramsize="3072">
+                <lowCpuLoad>100</lowCpuLoad>
+                <highCpuLoad>100</highCpuLoad>
+            </item>
+            <item ramsize="4096">
+                <lowCpuLoad>100</lowCpuLoad>
+                <highCpuLoad>100</highCpuLoad>
+            </item>
+            <item ramsize="6144">
+                <lowCpuLoad>100</lowCpuLoad>
+                <highCpuLoad>100</highCpuLoad>
+            </item>
+        </config>
+        <config name="Notification">
+            <item notificationSwitch="1" interval="1000"/>
+        </config>
+        <config name="memRepair">
+            <item name="proc_emergency_threshold" ramsize="2048" size="2">
+                <lowMemForeground>800</lowMemForeground>
+                <lowMemBackground>600</lowMemBackground>
+            </item>
+            <item name="proc_emergency_threshold" ramsize="3072" size="2">
+                <lowMemForeground>1000</lowMemForeground>
+                <lowMemBackground>800</lowMemBackground>
+            </item>
+            <item name="proc_emergency_threshold" ramsize="4096" size="2">
+                <lowMemForeground>1500</lowMemForeground>
+                <lowMemBackground>1000</lowMemBackground>
+            </item>
+            <item name="proc_emergency_threshold" ramsize="6144" size="2">
+                <lowMemForeground>1500</lowMemForeground>
+                <lowMemBackground>1000</lowMemBackground>
+            </item>
+        </config>
+    </feature>
+</iaware>

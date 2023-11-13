@@ -1,0 +1,4 @@
+service hwnffserver  /system/bin/hwnffserver
+    class main
+    socket hwnff stream 0660 root mount
+    seclabel u:r:hwnffserver:s0

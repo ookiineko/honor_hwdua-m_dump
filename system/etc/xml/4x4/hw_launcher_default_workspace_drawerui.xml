@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2009 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<favorites xmlns:launcher="http://schemas.android.com/apk/res/com.huawei.android.launcher">
+
+    <!-- DOCK screen -->
+    <!-- 拨号 -->
+    <favorite   
+        launcher:packageName="com.android.dialer"
+        launcher:className="com.android.dialer.app.DialtactsActivity"
+        launcher:container="-101"
+        launcher:screen="0"
+        launcher:x="0"
+        launcher:y="0"
+        launcher:shortcut="true"
+        launcher:icontype="0"
+        launcher:translatetitle = "1"
+        />
+    <!-- 联系人 -->
+    <favorite
+        launcher:packageName="com.android.contacts"
+        launcher:className="com.android.contacts.activities.PeopleActivity"
+        launcher:container="-101"
+        launcher:screen="0"
+        launcher:x="1"
+        launcher:y="0"
+        launcher:shortcut="true"
+        launcher:icontype="0"
+        launcher:translatetitle = "1"
+        />
+    <favorite
+        launcher:packageName="com.huawei.android.launcher"
+        launcher:className="com.huawei.android.launcher.drawer.DrawerActivity"
+        launcher:shortcut="true"
+        launcher:icontype="0"
+        launcher:translatetitle = "1"
+        launcher:iconPackage="com.huawei.android.launcher"
+        launcher:iconResource="com.huawei.android.launcher:drawable/ic_allapps"
+        launcher:container="-101"
+        launcher:screen="0"
+        launcher:x="2"
+        launcher:y="0" />
+    <!-- 短信 -->
+    <favorite 
+        launcher:packageName="com.android.mms"
+        launcher:className="com.android.mms.ui.BootActivity"
+        launcher:container="-101"
+        launcher:screen="0"
+        launcher:x="3"
+        launcher:y="0"
+        launcher:shortcut="true"
+        launcher:icontype="0"
+        launcher:translatetitle = "1"
+        />
+    <!-- 浏览器 -->
+    <favorite
+        launcher:packageName="com.android.chrome"
+        launcher:className="com.google.android.apps.chrome.Main"
+        launcher:container="-101"
+        launcher:screen="0"
+        launcher:x="4"
+        launcher:y="0"
+        launcher:shortcut="true"
+        launcher:icontype="0"
+        launcher:translatetitle = "1"
+        />
+
+    <!-- 谷歌search-->
+    <appwidget
+        launcher:packageName="com.google.android.apps.searchlite"
+        launcher:className="com.google.android.apps.searchlite.widget.SearchLiteWidgetProvider"
+        launcher:screen="0"
+        launcher:spanX="4"
+        launcher:spanY="1"
+        launcher:x="0"
+        launcher:y="0"
+        launcher:itemType="4"
+        launcher:shortcut="true"
+        launcher:icontype="0"
+        launcher:translatetitle = "1"
+        />
+
+    <!--Google Apps -->
+    <folder
+        launcher:screen="0"
+        launcher:title="@string/folder_google"
+        launcher:x="0"
+        launcher:y="3">
+        <favorite
+            launcher:packageName="com.google.android.apps.searchlite"
+            launcher:className="com.google.android.apps.searchlite.ui.SearchActivity"
+            launcher:shortcut="true"
+            launcher:icontype="0"
+            launcher:translatetitle = "1"/>
+        <favorite
+            launcher:packageName="com.google.android.apps.youtube.mango"
+            launcher:className="com.google.android.apps.youtube.lite.frontend.activities.SplashActivity"
+            launcher:shortcut="true"
+            launcher:icontype="0"
+            launcher:translatetitle = "1"/>
+        <favorite
+            launcher:packageName="com.google.android.gm.lite"
+            launcher:className="com.google.android.gm.ConversationListActivityGmail"
+            launcher:shortcut="true"
+            launcher:icontype="0"
+            launcher:translatetitle = "1"/>
+        <favorite
+            launcher:packageName="com.google.android.apps.assistant"
+            launcher:className="com.google.android.apps.assistant.go.MainActivity"
+            launcher:shortcut="true"
+            launcher:icontype="0"
+            launcher:translatetitle = "1"/>
+        <favorite
+            launcher:packageName="com.google.android.apps.mapslite"
+            launcher:className="com.google.android.apps.mapslite.org.chromium.webapk.shell_apk.MainActivity"
+            launcher:shortcut="true"
+            launcher:icontype="0"
+            launcher:translatetitle = "1"/>
+    </folder>
+    <!-- Google Play -->
+    <favorite
+        launcher:className="com.android.vending.AssetBrowserActivity"
+        launcher:packageName="com.android.vending"
+        launcher:screen="0"
+        launcher:x="1"
+        launcher:y="3"
+        launcher:shortcut="true"
+        launcher:icontype="0"
+        launcher:translatetitle = "1"
+        />
+    <favorite
+        launcher:packageName="com.android.gallery3d"
+        launcher:className="com.android.gallery3d.app.GalleryActivity"
+        launcher:screen="0"
+        launcher:x="2"
+        launcher:y="3"
+        launcher:shortcut="true"
+        launcher:icontype="0"
+        launcher:translatetitle = "1"
+        />
+    <favorite
+        launcher:packageName="com.mediatek.camera"
+        launcher:className="com.android.camera.CameraLauncher"
+        launcher:screen="0"
+        launcher:x="3"
+        launcher:y="3"
+        launcher:shortcut="true"
+        launcher:icontype="0"
+        launcher:translatetitle = "1"
+        />
+
+</favorites>
+

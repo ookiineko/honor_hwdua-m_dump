@@ -1,0 +1,7 @@
+## Service definition
+service hiview /system/bin/hiview
+    class late_start
+    user root
+    group system log readproc
+    seclabel u:r:logserver:s0
+    writepid /dev/cpuset/system-background/tasks /dev/cpuctl/bg_non_interactive/tasks

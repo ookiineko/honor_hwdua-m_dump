@@ -1,0 +1,15 @@
+#
+# ADDITIONAL_DEFAULT_PROPERTIES
+#
+ro.adb.secure=1
+ro.secure=1
+security.perf_harden=1
+ro.allow.mock.location=0
+ro.debuggable=0
+#
+# BOOTIMAGE_BUILD_PROPERTIES
+#
+ro.bootimage.build.date=Tue Oct 23 02:40:18 CST 2018
+ro.bootimage.build.date.utc=1540233618
+ro.bootimage.build.fingerprint=HONOR/DUA-L22/HWDUA-M:8.1.0/O11019/1540233626:user/release-keys
+persist.sys.usb.config=none

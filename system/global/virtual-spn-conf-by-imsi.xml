@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<virtualSpnOverridesByImsi version="1">
+    <virtualSpnOverride imsipattern="2380623806009xxxxxxx" name="Oister DK"/>
+    <virtualSpnOverride imsipattern="238202382094xxxxxxxx" name="Call me"/>
+    <virtualSpnOverride imsipattern="238202382093xxxxxxxx" name="DLG Tele"/>
+    <virtualSpnOverride imsipattern="2380123801374xxxxxxx" name="YouSee"/>
+    <virtualSpnOverride imsipattern="2380123801343xxxxxxx" name="Fullrate"/>
+    <virtualSpnOverride imsipattern="2380123801381xxxxxxx" name="Telmore"/>
+    <virtualSpnOverride imsipattern="238022380228xxxxxxxx" name="Lebara"/>
+    <virtualSpnOverride imsipattern="238012380172xxxxxxxx" name="TDC SE"/>
+    <virtualSpnOverride imsipattern="238012380171xxxxxxxx" name="TDC NO"/>
+    <virtualSpnOverride imsipattern="20408204080753xxxxxx" name="UPC HU"/>
+    <virtualSpnOverride imsipattern="24007240077xxxxxxxxx" name="Comviq"/>
+    <virtualSpnOverride imsipattern="24007240078xxxxxxxxx" name="Comviq"/>
+    <virtualSpnOverride imsipattern="24008240080635xxxxxx" name="Glocalnet"/>
+    <virtualSpnOverride imsipattern="24008240080735xxxxxx" name="Glocalnet"/>
+    <virtualSpnOverride imsipattern="2380123801362xxxxxxx" name="YouSee"/>
+    <virtualSpnOverride imsipattern="238022380225xxxxxxxx" name="CBB"/>
+    <virtualSpnOverride imsipattern="238022380227xxxxxxxx" name="CBB"/>
+    <virtualSpnOverride imsipattern="238022380280xxxxxxxx" name="BiBoB"/>
+    <virtualSpnOverride imsipattern="2400124001704xxxxxxx" name="Halebop"/>
+    <virtualSpnOverride imsipattern="2400124001714xxxxxxx" name="Halebop"/>
+    <virtualSpnOverride imsipattern="2320723207718xxxxxxx" name=""/>
+    <virtualSpnOverride imsipattern="232072320776xxxxxxxx" name=""/>
+    <virtualSpnOverride imsipattern="2320723207799xxxxxxx" name=""/>
+    <virtualSpnOverride imsipattern="242052420507xxxxxxxx" name="One Call"/>
+    <virtualSpnOverride imsipattern="242052420508xxxxxxxx" name="One Call"/>
+    <virtualSpnOverride imsipattern="242052420595xxxxxxxx" name="My Call"/>
+    <virtualSpnOverride imsipattern="23210232104600xxxxxx" name="MediaMarkt"/>
+    <virtualSpnOverride imsipattern="23210232104601xxxxxx" name="MediaMarkt"/>
+    <virtualSpnOverride imsipattern="23210232104602xxxxxx" name="MediaMarkt"/>
+    <virtualSpnOverride imsipattern="23210232104603xxxxxx" name="MediaMarkt"/>
+    <virtualSpnOverride imsipattern="23210232104604xxxxxx" name="MediaMarkt"/>
+    <virtualSpnOverride imsipattern="23210232104605xxxxxx" name="Saturn"/>
+    <virtualSpnOverride imsipattern="23210232104606xxxxxx" name="Saturn"/>
+    <virtualSpnOverride imsipattern="23210232104607xxxxxx" name="Saturn"/>
+    <virtualSpnOverride imsipattern="23210232104608xxxxxx" name="Saturn"/>
+    <virtualSpnOverride imsipattern="23210232104609xxxxxx" name="Saturn"/>
+    <virtualSpnOverride imsipattern="29340293400130xxxxxx" name="A1 SI"/>
+    <virtualSpnOverride imsipattern="50502505029xxxxxxxxx" name="Virgin Mobile"/>
+    <virtualSpnOverride imsipattern="530055300520xxxxxxxx" name="Skinny"/>
+    <virtualSpnOverride imsipattern="542025420202xxxxxxxx" name="Digicel"/>
+    <virtualSpnOverride imsipattern="530245302410xxxxxxxx" name="Warehouse"/>
+    <virtualSpnOverride imsipattern="204082040807500xxxxx" name="Ziggo"/>
+    <virtualSpnOverride imsipattern="204082040807501xxxxx" name="Ziggo"/>
+    <virtualSpnOverride imsipattern="204082040807502xxxxx" name="Ziggo"/>
+    <virtualSpnOverride imsipattern="204082040807503xxxxx" name="Ziggo"/>
+    <virtualSpnOverride imsipattern="204082040807504xxxxx" name="Ziggo"/>
+    <virtualSpnOverride imsipattern="20408204080751xxxxxx" name="Ziggo"/>
+    <virtualSpnOverride imsipattern="20416204164442xxxxxx" name="Ben NL"/>
+    <virtualSpnOverride imsipattern="20416204164542xxxxxx" name="Ben NL"/>
+    <virtualSpnOverride imsipattern="204162041646420xxxxx" name="Ben NL"/>
+    <virtualSpnOverride imsipattern="20416204164742xxxxxx" name="Ben NL"/>
+    <virtualSpnOverride imsipattern="20408204080950xxxxxx" name="voiceworks"/>
+    <virtualSpnOverride imsipattern="2060120601889xxxxxxx" name=""/>
+    <virtualSpnOverride imsipattern="214062140612xxxxxxxx" name="Mobil R"/>
+    <virtualSpnOverride imsipattern="214062140613xxxxxxxx" name="telecable"/>
+    <virtualSpnOverride imsipattern="22299222998xxxxxxxxx" name="FASTWEB"/>
+    <virtualSpnOverride imsipattern="22210222101306xxxxxx" name="Daily Telecom"/>
+    <virtualSpnOverride imsipattern="22210222101406xxxxxx" name="Daily Telecom"/>
+    <virtualSpnOverride imsipattern="2400724007602xxxxxxx" name="Tele2 NL"/>
+    <virtualSpnOverride imsipattern="2400724007603xxxxxxx" name="Tele2 NL"/>
+    <virtualSpnOverride imsipattern="2400724007604xxxxxxx" name="Tele2 NL"/>
+    <virtualSpnOverride imsipattern="2400724007605xxxxxxx" name="Tele2 NL"/>
+    <virtualSpnOverride imsipattern="2400724007606xxxxxxx" name="Tele2 NL"/>
+    <virtualSpnOverride imsipattern="2400724007607xxxxxxx" name="Tele2 NL"/>
+    <virtualSpnOverride imsipattern="2400724007608xxxxxxx" name="Tele2 NL"/>
+    <virtualSpnOverride imsipattern="2400724007609xxxxxxx" name="Tele2 NL"/>
+    <virtualSpnOverride imsipattern="2400724007610xxxxxxx" name="Tele2 NL"/>
+    <virtualSpnOverride imsipattern="2400724007611xxxxxxx" name="Tele2 NL"/>
+    <virtualSpnOverride imsipattern="2400724007612xxxxxxx" name="Tele2 NL"/>
+    <virtualSpnOverride imsipattern="2400724007619xxxxxxx" name="Tele2 NL"/>
+    <virtualSpnOverride imsipattern="2620726207500xxxxxxx" name="Tchibo"/>
+    <virtualSpnOverride imsipattern="2620726207515xxxxxxx" name="Fonic"/>
+    <virtualSpnOverride imsipattern="214062140602xxxxxxxx" name="Pepephone"/>
+    <virtualSpnOverride imsipattern="2720127201110xxxxxxx" name="Postmobile"/>
+    <virtualSpnOverride imsipattern="2140321403508xxxxxxx" name="Mobil R"/>
+    <virtualSpnOverride imsipattern="2140321403509xxxxxxx" name="Mobil R"/>
+    <virtualSpnOverride imsipattern="20404204043xxxxxxxxx" name="vodafone NL"/>
+    <virtualSpnOverride imsipattern="20404204046xxxxxxxxx" name="vodafone NL"/>
+    <virtualSpnOverride imsipattern="2620726207414xxxxxxx" name="1&amp;1"/>
+    <virtualSpnOverride imsipattern="2620326203293xxxxxxx" name="1&amp;1"/>
+    <virtualSpnOverride imsipattern="2620326203330xxxxxxx" name="1&amp;1"/>
+    <virtualSpnOverride imsipattern="21434214340104xxxxxx" name="Operador"/>
+    <virtualSpnOverride imsipattern="2140321403506xxxxxxx" name=""/>
+    <virtualSpnOverride imsipattern="2400724007561xxxxxxx" name=""/>
+    <virtualSpnOverride imsipattern="286012860159xxxxxxxx" name="TCELL"/>
+    <virtualSpnOverride imsipattern="31026031026077xxxxxx" name=""/>
+    <virtualSpnOverride imsipattern="31026031026078xxxxxx" name=""/>
+    <virtualSpnOverride imsipattern="31026031026079xxxxxx" name=""/>
+    <virtualSpnOverride imsipattern="31026031026097xxxxxx" name="Google Project Fi"/>
+    <virtualSpnOverride imsipattern="7321037321030027xxxx" name="UNE"/>
+    <virtualSpnOverride imsipattern="7321037321030028xxxx" name="UNE"/>
+    <virtualSpnOverride imsipattern="7321037321030029xxxx" name="UNE"/>
+    <virtualSpnOverride imsipattern="732103732103017xxxxx" name="ETB MOVIL"/>
+    <virtualSpnOverride imsipattern="732103732103018xxxxx" name="Uff!"/>
+    <virtualSpnOverride imsipattern="732103732103019xxxxx" name="Uff!"/>
+    <virtualSpnOverride imsipattern="732103732103023713xx" name="Uff!"/>
+    <virtualSpnOverride imsipattern="732103732103023714xx" name="Uff!"/>
+    <virtualSpnOverride imsipattern="732103732103023715xx" name="Uff!"/>
+    <virtualSpnOverride imsipattern="732103732103023716xx" name="Uff!"/>
+    <virtualSpnOverride imsipattern="732103732103023717xx" name="Uff!"/>
+    <virtualSpnOverride imsipattern="732103732103023718xx" name="Uff!"/>
+    <virtualSpnOverride imsipattern="732103732103023719xx" name="Uff!"/>
+    <virtualSpnOverride imsipattern="73210373210302372xxx" name="Uff!"/>
+    <virtualSpnOverride imsipattern="73210373210302373xxx" name="Uff!"/>
+    <virtualSpnOverride imsipattern="73210373210302374xxx" name="Uff!"/>
+    <virtualSpnOverride imsipattern="73210373210302375xxx" name="Uff!"/>
+    <virtualSpnOverride imsipattern="732103732103023760xx" name="Uff!"/>
+    <virtualSpnOverride imsipattern="732103732103023761xx" name="Uff!"/>
+    <virtualSpnOverride imsipattern="732103732103024xxxxx" name="UNE"/>
+    <virtualSpnOverride imsipattern="732103732103054xxxxx" name="movil exito"/>
+    <virtualSpnOverride imsipattern="732103732103055xxxxx" name="movil exito"/>
+    <virtualSpnOverride imsipattern="732111732111218xxxxx" name="Uff!"/>
+    <virtualSpnOverride imsipattern="732111732111219xxxxx" name="Uff!"/>
+    <virtualSpnOverride imsipattern="732111732111254xxxxx" name="movil exito"/>
+    <virtualSpnOverride imsipattern="732111732111255xxxxx" name="movil exito"/>
+    <virtualSpnOverride imsipattern="732111732111019xxxxx" name="Uff!"/>
+    <virtualSpnOverride imsipattern="732111732111018xxxxx" name="Uff!"/>
+    <virtualSpnOverride imsipattern="732123732123900xxxxx" name="Virgin Mobile"/>
+    <virtualSpnOverride imsipattern="33805338050830xxxxxx" name="DIGICEL"/>
+    <virtualSpnOverride imsipattern="338050338050830xxxxx" name="DIGICEL"/>
+    <virtualSpnOverride imsipattern="33805338050834xxxxxx" name="DIGICEL"/>
+    <virtualSpnOverride imsipattern="338050338050834xxxxx" name="DIGICEL"/>
+    <virtualSpnOverride imsipattern="338053380505xxxxxxxx" name="DIGICEL"/>
+    <virtualSpnOverride imsipattern="3380503380505xxxxxxx" name="DIGICEL"/>
+    <virtualSpnOverride imsipattern="33805338050833xxxxxx" name="DIGICEL"/>
+    <virtualSpnOverride imsipattern="338050338050833xxxxx" name="DIGICEL"/>
+    <virtualSpnOverride imsipattern="338050338050842xxxxx" name="DIGICEL"/>
+    <virtualSpnOverride imsipattern="338053380506xxxxxxxx" name="DIGICEL"/>
+    <virtualSpnOverride imsipattern="3380503380506xxxxxxx" name="DIGICEL"/>
+    <virtualSpnOverride imsipattern="338053380503xxxxxxxx" name="DIGICEL"/>
+    <virtualSpnOverride imsipattern="3380503380503xxxxxxx" name="DIGICEL"/>
+    <virtualSpnOverride imsipattern="3380503380509xxxxxxx" name="DIGICEL"/>
+    <virtualSpnOverride imsipattern="338053380500xxxxxxxx" name="DIGICEL"/>
+    <virtualSpnOverride imsipattern="3380503380500xxxxxxx" name="DIGICEL"/>
+    <virtualSpnOverride imsipattern="33805338050843xxxxxx" name="DIGICEL"/>
+    <virtualSpnOverride imsipattern="338050338050843xxxxx" name="DIGICEL"/>
+    <virtualSpnOverride imsipattern="33805338050831xxxxxx" name="DIGICEL"/>
+    <virtualSpnOverride imsipattern="338050338050831xxxxx" name="DIGICEL"/>
+    <virtualSpnOverride imsipattern="338053380501xxxxxxxx" name="DIGICEL"/>
+    <virtualSpnOverride imsipattern="3380503380501xxxxxxx" name="DIGICEL"/>
+    <virtualSpnOverride imsipattern="338053380502xxxxxxxx" name="DIGICEL"/>
+    <virtualSpnOverride imsipattern="3380503380502xxxxxxx" name="DIGICEL"/>
+    <virtualSpnOverride imsipattern="33805338050837xxxxxx" name="DIGICEL"/>
+    <virtualSpnOverride imsipattern="338050338050837xxxxx" name="DIGICEL"/>
+    <virtualSpnOverride imsipattern="70403704038xxxxxxxxx" name=""/>
+    <virtualSpnOverride imsipattern="732123732123901xxxxx" name="Virgin Mobile"/>
+    <virtualSpnOverride imsipattern="732123732123902xxxxx" name="Virgin Mobile"/>
+    <virtualSpnOverride imsipattern="732123732123903xxxxx" name="Virgin Mobile"/>
+    <virtualSpnOverride imsipattern="732123732123904xxxxx" name="Virgin Mobile"/>
+    <virtualSpnOverride imsipattern="732123732123905xxxxx" name="Virgin Mobile"/>
+    <virtualSpnOverride imsipattern="732123732123906xxxxx" name="Virgin Mobile"/>
+    <virtualSpnOverride imsipattern="732123732123907xxxxx" name="Virgin Mobile"/>
+    <virtualSpnOverride imsipattern="732123732123908xxxxx" name="Virgin Mobile"/>
+    <virtualSpnOverride imsipattern="730077300704xxxxxxxx" name="Colo-Colo Móvil"/>
+    <virtualSpnOverride imsipattern="730077300701xxxxxxxx" name="GTD"/>
+    <virtualSpnOverride imsipattern="730077300702xxxxxxxx" name="Virgin"/>
+</virtualSpnOverridesByImsi>

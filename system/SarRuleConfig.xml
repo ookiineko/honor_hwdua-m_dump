@@ -1,0 +1,619 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--  Dura V1.6 变更wifi的功率配置  -->
+<SarRuleConfig>
+    <!-- restore sar value when condition not match, for wifi and cell sar value -->
+    <restore>
+        <!-- restore wifi nvram to default value -->
+        <sar_cell_restore value="0" />
+        <sar_wifi_restore value="1" />
+    </restore>
+
+    <!-- is_use_precondition is used to control power dissipation, recommend is 1 -->
+    <configs is_use_precondition="1" >
+        <!-- value remark: 1-true, 0-false, NA-not care, empty string ""-NA -->
+        <!-- wifi_band: 0-2.4GHz, 1-5GHz -->
+
+		<!--Group 1 Voice + Receiver + wifi + is_sub1_data_connected sensor-->
+        <config><!-- 0 -->
+            <is_sub0_voice value="1" />
+            <is_wifi_connected value="1" />
+            <is_wifi_ap_opened value="0" />
+            <is_headset_insert value="0" />
+            <is_speaker_phoneon value="0" />
+            <is_cell_sar_sensor value="1" />
+
+            <sar_cell_reduce value="2" />
+            <sar_wifi_reduce value="13" />
+        </config>
+        <config><!-- 1 -->
+            <is_sub1_voice value="1" />
+            <is_wifi_connected value="1" />
+            <is_wifi_ap_opened value="0" />
+            <is_headset_insert value="0" />
+            <is_speaker_phoneon value="0" />
+            <is_cell_sar_sensor value="1" />
+
+            <sar_cell_reduce value="2" />
+            <sar_wifi_reduce value="13" />
+        </config>
+        <config><!-- 2 -->
+            <is_sub0_voice value="1" />
+            <is_wifi_connected value="0" />
+            <is_wifi_ap_opened value="1" />
+            <is_headset_insert value="0" />
+            <is_speaker_phoneon value="0" />
+            <is_cell_sar_sensor value="1" />
+
+            <sar_cell_reduce value="2" />
+            <sar_wifi_reduce value="13" />
+        </config>
+        <config><!-- 3 -->
+            <is_sub1_voice value="1" />
+            <is_wifi_connected value="0" />
+            <is_wifi_ap_opened value="1" />
+            <is_headset_insert value="0" />
+            <is_speaker_phoneon value="0" />
+            <is_cell_sar_sensor value="1" />
+
+            <sar_cell_reduce value="2" />
+            <sar_wifi_reduce value="13" />
+        </config>
+
+		<!--Group 2 Voice + Receiver + wifi + is_sub1_data_connected sensor off-->
+        <config><!-- 4 -->
+            <is_sub0_voice value="1" />
+            <is_wifi_connected value="1" />
+            <is_wifi_ap_opened value="0" />
+            <is_headset_insert value="0" />
+            <is_speaker_phoneon value="0" />
+            <is_cell_sar_sensor value="0" />
+
+            <sar_cell_reduce value="1" />
+            <sar_wifi_reduce value="13" />
+        </config>
+        <config><!-- 5 -->
+            <is_sub1_voice value="1" />
+            <is_wifi_connected value="1" />
+            <is_wifi_ap_opened value="0" />
+            <is_headset_insert value="0" />
+            <is_speaker_phoneon value="0" />
+            <is_cell_sar_sensor value="0" />
+
+            <sar_cell_reduce value="1" />
+            <sar_wifi_reduce value="13" />
+        </config>
+        <config><!-- 6 -->
+            <is_sub0_voice value="1" />
+            <is_wifi_connected value="0" />
+            <is_wifi_ap_opened value="1" />
+            <is_headset_insert value="0" />
+            <is_speaker_phoneon value="0" />
+            <is_cell_sar_sensor value="0" />
+
+            <sar_cell_reduce value="1" />
+            <sar_wifi_reduce value="13" />
+        </config>
+        <config><!-- 7 -->
+            <is_sub1_voice value="1" />
+            <is_wifi_connected value="0" />
+            <is_wifi_ap_opened value="1" />
+            <is_headset_insert value="0" />
+            <is_speaker_phoneon value="0" />
+            <is_cell_sar_sensor value="0" />
+
+            <sar_cell_reduce value="1" />
+            <sar_wifi_reduce value="13" />
+        </config>
+
+		<!--Group 3 Voice + Receiver + wifi off + is_sub1_data_connected sensor on-->
+        <config><!-- 8 -->
+            <is_sub0_voice value="1" />
+            <is_wifi_connected value="0" />
+            <is_wifi_ap_opened value="0" />
+            <is_headset_insert value="0" />
+            <is_speaker_phoneon value="0" />
+            <is_cell_sar_sensor value="1" />
+
+            <sar_cell_reduce value="2" />
+        </config>
+        <config><!-- 9 -->
+            <is_sub1_voice value="1" />
+            <is_wifi_connected value="0" />
+            <is_wifi_ap_opened value="0" />
+            <is_headset_insert value="0" />
+            <is_speaker_phoneon value="0" />
+            <is_cell_sar_sensor value="1" />
+
+            <sar_cell_reduce value="2" />
+        </config>
+
+		<!--Group 4 Voice + Receiver + wifi off + is_sub1_data_connected sensor on-->
+        <config><!-- 10 -->
+            <is_sub0_voice value="1" />
+            <is_wifi_connected value="0" />
+            <is_wifi_ap_opened value="0" />
+            <is_headset_insert value="0" />
+            <is_speaker_phoneon value="0" />
+            <is_cell_sar_sensor value="0" />
+
+            <sar_cell_reduce value="1" />
+        </config>
+        <config><!-- 11 -->
+            <is_sub1_voice value="1" />
+            <is_wifi_connected value="0" />
+            <is_wifi_ap_opened value="0" />
+            <is_headset_insert value="0" />
+            <is_speaker_phoneon value="0" />
+            <is_cell_sar_sensor value="0" />
+
+            <sar_cell_reduce value="1" />
+        </config>
+
+		<!--Group 5 Voice + headset + wifi on + is_sub1_data_connected sensor on-->
+        <config><!-- 12 -->
+            <is_sub0_voice value="1" />
+            <is_wifi_connected value="1" />
+            <is_wifi_ap_opened value="0" />
+            <is_headset_insert value="1" />
+            <is_speaker_phoneon value="0" />
+            <is_cell_sar_sensor value="1" />
+
+            <sar_cell_reduce value="3" />
+            <sar_wifi_reduce value="1" />
+        </config>
+        <config><!-- 13 -->
+            <is_sub1_voice value="1" />
+            <is_wifi_connected value="1" />
+            <is_wifi_ap_opened value="0" />
+            <is_headset_insert value="1" />
+            <is_speaker_phoneon value="0" />
+            <is_cell_sar_sensor value="1" />
+
+            <sar_cell_reduce value="3" />
+            <sar_wifi_reduce value="1" />
+        </config>
+        <config><!-- 14 -->
+            <is_sub0_voice value="1" />
+            <is_wifi_connected value="0" />
+            <is_wifi_ap_opened value="1" />
+            <is_headset_insert value="1" />
+            <is_speaker_phoneon value="0" />
+            <is_cell_sar_sensor value="1" />
+
+            <sar_cell_reduce value="3" />
+            <sar_wifi_reduce value="1" />
+        </config>
+        <config><!-- 15 -->
+            <is_sub1_voice value="1" />
+            <is_wifi_connected value="0" />
+            <is_wifi_ap_opened value="1" />
+            <is_headset_insert value="1" />
+            <is_speaker_phoneon value="0" />
+            <is_cell_sar_sensor value="1" />
+
+            <sar_cell_reduce value="3" />
+            <sar_wifi_reduce value="1" />
+        </config>
+
+		<!--Group 6 Voice + headset + wifi on + is_sub1_data_connected sensor off-->
+        <config><!-- 16 -->
+            <is_sub0_voice value="1" />
+            <is_wifi_connected value="1" />
+            <is_wifi_ap_opened value="0" />
+            <is_headset_insert value="1" />
+            <is_speaker_phoneon value="0" />
+            <is_cell_sar_sensor value="0" />
+
+            <sar_cell_reduce value="1" />
+            <sar_wifi_reduce value="1" />
+        </config>
+        <config><!-- 17 -->
+            <is_sub1_voice value="1" />
+            <is_wifi_connected value="1" />
+            <is_wifi_ap_opened value="0" />
+            <is_headset_insert value="1" />
+            <is_speaker_phoneon value="0" />
+            <is_cell_sar_sensor value="0" />
+
+            <sar_cell_reduce value="1" />
+            <sar_wifi_reduce value="1" />
+        </config>
+        <config><!-- 18 -->
+            <is_sub0_voice value="1" />
+            <is_wifi_connected value="0" />
+            <is_wifi_ap_opened value="1" />
+            <is_headset_insert value="1" />
+            <is_speaker_phoneon value="0" />
+            <is_cell_sar_sensor value="0" />
+
+            <sar_cell_reduce value="1" />
+            <sar_wifi_reduce value="1" />
+        </config>
+        <config><!-- 19 -->
+            <is_sub1_voice value="1" />
+            <is_wifi_connected value="0" />
+            <is_wifi_ap_opened value="1" />
+            <is_headset_insert value="1" />
+            <is_speaker_phoneon value="0" />
+            <is_cell_sar_sensor value="0" />
+
+            <sar_cell_reduce value="1" />
+            <sar_wifi_reduce value="1" />
+        </config>
+
+		<!--Group 7 Voice + headset + wifi off + is_sub1_data_connected sensor on-->
+        <config><!-- 20 -->
+            <is_sub0_voice value="1" />
+            <is_wifi_connected value="0" />
+            <is_wifi_ap_opened value="0" />
+            <is_headset_insert value="1" />
+            <is_speaker_phoneon value="0" />
+            <is_cell_sar_sensor value="1" />
+
+            <sar_cell_reduce value="3" />
+        </config>
+        <config><!-- 21 -->
+            <is_sub1_voice value="1" />
+            <is_wifi_connected value="0" />
+            <is_wifi_ap_opened value="0" />
+            <is_headset_insert value="1" />
+            <is_speaker_phoneon value="0" />
+            <is_cell_sar_sensor value="1" />
+
+            <sar_cell_reduce value="3" />
+        </config>
+
+		<!--Group 8 Voice + headset + wifi off + is_sub1_data_connected sensor off-->
+        <config><!-- 22 -->
+            <is_sub0_voice value="1" />
+            <is_wifi_connected value="0" />
+            <is_wifi_ap_opened value="0" />
+            <is_headset_insert value="1" />
+            <is_speaker_phoneon value="0" />
+            <is_cell_sar_sensor value="0" />
+
+            <sar_cell_reduce value="1" />
+        </config>
+        <config><!-- 23 -->
+            <is_sub1_voice value="1" />
+            <is_wifi_connected value="0" />
+            <is_wifi_ap_opened value="0" />
+            <is_headset_insert value="1" />
+            <is_speaker_phoneon value="0" />
+            <is_cell_sar_sensor value="0" />
+
+            <sar_cell_reduce value="1" />
+        </config>
+
+		<!--Group 9 Voice + speaker + wifi on + is_sub1_data_connected sensor on-->
+        <config><!-- 24 -->
+            <is_sub0_voice value="1" />
+            <is_wifi_connected value="1" />
+            <is_wifi_ap_opened value="0" />
+            <is_headset_insert value="0" />
+            <is_speaker_phoneon value="1" />
+            <is_cell_sar_sensor value="1" />
+
+            <sar_cell_reduce value="3" />
+            <sar_wifi_reduce value="1" />
+        </config>
+        <config><!-- 25 -->
+            <is_sub1_voice value="1" />
+            <is_wifi_connected value="1" />
+            <is_wifi_ap_opened value="0" />
+            <is_headset_insert value="0" />
+            <is_speaker_phoneon value="1" />
+            <is_cell_sar_sensor value="1" />
+
+            <sar_cell_reduce value="3" />
+            <sar_wifi_reduce value="1" />
+        </config>
+        <config><!-- 26 -->
+            <is_sub0_voice value="1" />
+            <is_wifi_connected value="0" />
+            <is_wifi_ap_opened value="1" />
+            <is_headset_insert value="0" />
+            <is_speaker_phoneon value="1" />
+            <is_cell_sar_sensor value="1" />
+
+            <sar_cell_reduce value="3" />
+            <sar_wifi_reduce value="1" />
+        </config>
+        <config><!-- 27 -->
+            <is_sub1_voice value="1" />
+            <is_wifi_connected value="0" />
+            <is_wifi_ap_opened value="1" />
+            <is_headset_insert value="0" />
+            <is_speaker_phoneon value="1" />
+            <is_cell_sar_sensor value="1" />
+
+            <sar_cell_reduce value="3" />
+            <sar_wifi_reduce value="1" />
+        </config>
+
+		<!--Group 10 Voice + speaker + wifi on + is_sub1_data_connected sensor off-->
+        <config><!-- 28 -->
+            <is_sub0_voice value="1" />
+            <is_wifi_connected value="1" />
+            <is_wifi_ap_opened value="0" />
+            <is_headset_insert value="0" />
+            <is_speaker_phoneon value="1" />
+            <is_cell_sar_sensor value="0" />
+
+            <sar_cell_reduce value="1" />
+            <sar_wifi_reduce value="1" />
+        </config>
+        <config><!-- 29 -->
+            <is_sub1_voice value="1" />
+            <is_wifi_connected value="1" />
+            <is_wifi_ap_opened value="0" />
+            <is_headset_insert value="0" />
+            <is_speaker_phoneon value="1" />
+            <is_cell_sar_sensor value="0" />
+
+            <sar_cell_reduce value="1" />
+            <sar_wifi_reduce value="1" />
+        </config>
+        <config><!-- 30 -->
+            <is_sub0_voice value="1" />
+            <is_wifi_connected value="0" />
+            <is_wifi_ap_opened value="1" />
+            <is_headset_insert value="0" />
+            <is_speaker_phoneon value="1" />
+            <is_cell_sar_sensor value="0" />
+
+            <sar_cell_reduce value="1" />
+            <sar_wifi_reduce value="1" />
+        </config>
+        <config><!-- 31 -->
+            <is_sub1_voice value="1" />
+            <is_wifi_connected value="0" />
+            <is_wifi_ap_opened value="1" />
+            <is_headset_insert value="0" />
+            <is_speaker_phoneon value="1" />
+            <is_cell_sar_sensor value="0" />
+
+            <sar_cell_reduce value="1" />
+            <sar_wifi_reduce value="1" />
+        </config>
+
+		<!--Group 11 Voice + speaker + wifi off + is_sub1_data_connected sensor on-->
+        <config><!-- 32 -->
+            <is_sub0_voice value="1" />
+            <is_wifi_connected value="0" />
+            <is_wifi_ap_opened value="0" />
+            <is_headset_insert value="0" />
+            <is_speaker_phoneon value="1" />
+            <is_cell_sar_sensor value="1" />
+
+            <sar_cell_reduce value="3" />
+        </config>
+        <config><!-- 33 -->
+            <is_sub1_voice value="1" />
+            <is_wifi_connected value="0" />
+            <is_wifi_ap_opened value="0" />
+            <is_headset_insert value="0" />
+            <is_speaker_phoneon value="1" />
+            <is_cell_sar_sensor value="1" />
+
+            <sar_cell_reduce value="3" />
+        </config>
+
+		<!--Group 12 Voice + speaker + wifi off + is_sub1_data_connected sensor off-->
+        <config><!-- 34 -->
+            <is_sub0_voice value="1" />
+            <is_wifi_connected value="0" />
+            <is_wifi_ap_opened value="0" />
+            <is_headset_insert value="0" />
+            <is_speaker_phoneon value="1" />
+            <is_cell_sar_sensor value="0" />
+
+            <sar_cell_reduce value="1" />
+        </config>
+        <config><!-- 35 -->
+            <is_sub1_voice value="1" />
+            <is_wifi_connected value="0" />
+            <is_wifi_ap_opened value="0" />
+            <is_headset_insert value="0" />
+            <is_speaker_phoneon value="1" />
+            <is_cell_sar_sensor value="0" />
+
+            <sar_cell_reduce value="1" />
+        </config>
+
+		<!--Group 13 Data + wifi on + is_sub1_data_connected sensor on-->
+        <config><!-- 36 -->
+            <is_sub0_data_connected value="1" />
+            <is_wifi_connected value="1" />
+            <is_wifi_ap_opened value="0" />
+            <is_cell_sar_sensor value="1" />
+
+            <sar_cell_reduce value="3" />
+            <sar_wifi_reduce value="1" />
+        </config>
+        <config><!-- 37 -->
+            <is_sub1_data_connected value="1" />
+            <is_wifi_connected value="1" />
+            <is_wifi_ap_opened value="0" />
+            <is_cell_sar_sensor value="1" />
+
+            <sar_cell_reduce value="3" />
+            <sar_wifi_reduce value="1" />
+        </config>
+        <config><!-- 38 -->
+            <is_sub0_data_connected value="1" />
+            <is_wifi_connected value="0" />
+            <is_wifi_ap_opened value="1" />
+            <is_cell_sar_sensor value="1" />
+
+            <sar_cell_reduce value="3" />
+            <sar_wifi_reduce value="1" />
+        </config>
+        <config><!-- 39 -->
+            <is_sub1_data_connected value="1" />
+            <is_wifi_connected value="0" />
+            <is_wifi_ap_opened value="1" />
+            <is_cell_sar_sensor value="1" />
+
+            <sar_cell_reduce value="3" />
+            <sar_wifi_reduce value="1" />
+        </config>
+
+		<!--Group 14 Data + wifi off + is_sub1_data_connected sensor on-->
+        <config><!-- 40 -->
+            <is_sub0_data_connected value="1" />
+            <is_wifi_connected value="0" />
+            <is_wifi_ap_opened value="0" />
+            <is_cell_sar_sensor value="1" />
+
+            <sar_cell_reduce value="3" />
+        </config>
+        <config><!-- 41 -->
+            <is_sub1_data_connected value="1" />
+            <is_wifi_connected value="0" />
+            <is_wifi_ap_opened value="0" />
+            <is_cell_sar_sensor value="1" />
+
+            <sar_cell_reduce value="3" />
+        </config>
+
+		<!--Group 15 Data + wifi on + is_sub1_data_connected sensor off-->
+		<!--Only Hotspot with sar sensor off or no sar sensor should use this condition -->
+        <config><!-- 42 -->
+            <is_sub0_data_connected value="1" />
+            <is_wifi_connected value="0" />
+            <is_wifi_ap_opened value="1" />
+            <is_cell_sar_sensor value="0" />
+
+            <sar_cell_reduce value="4" />
+            <sar_wifi_reduce value="1" />
+        </config>
+        <config><!-- 43 -->
+            <is_sub1_data_connected value="1" />
+            <is_wifi_connected value="0" />
+            <is_wifi_ap_opened value="1" />
+            <is_cell_sar_sensor value="0" />
+
+            <sar_cell_reduce value="4" />
+            <sar_wifi_reduce value="1" />
+        </config>
+        <config><!-- 44 -->
+            <is_sub0_data_connected value="1" />
+            <is_wifi_connected value="1" />
+            <is_wifi_ap_opened value="0" />
+            <is_cell_sar_sensor value="0" />
+
+            <sar_cell_reduce value="1" />
+            <sar_wifi_reduce value="1" />
+        </config>
+        <config><!-- 45 -->
+            <is_sub1_data_connected value="1" />
+            <is_wifi_connected value="1" />
+            <is_wifi_ap_opened value="0" />
+            <is_cell_sar_sensor value="0" />
+
+            <sar_cell_reduce value="1" />
+            <sar_wifi_reduce value="1" />
+        </config>
+
+		<!--Group 16 Data + wifi off + is_sub1_data_connected sensor off-->
+        <config><!-- 46 -->
+            <is_sub0_data_connected value="1" />
+            <is_wifi_connected value="0" />
+            <is_wifi_ap_opened value="0" />
+            <is_cell_sar_sensor value="0" />
+
+            <sar_cell_reduce value="1" />
+        </config>
+        <config><!-- 47 -->
+            <is_sub1_data_connected value="1" />
+            <is_wifi_connected value="0" />
+            <is_wifi_ap_opened value="0" />
+            <is_cell_sar_sensor value="0" />
+
+            <sar_cell_reduce value="1" />
+        </config>
+
+		<!--Group 17 RMC + wifi on + sar sensor on-->
+        <config><!-- 48 -->
+            <is_rmc_test_mode value="1" />
+            <is_wifi_connected value="1" />
+            <is_wifi_ap_opened value="0" />
+            <is_cell_sar_sensor value="1" />
+
+            <sar_cell_reduce value="3" />
+            <sar_wifi_reduce value="1" />
+        </config>
+        <config><!-- 49 -->
+            <is_rmc_test_mode value="1" />
+            <is_wifi_connected value="0" />
+            <is_wifi_ap_opened value="1" />
+            <is_cell_sar_sensor value="1" />
+
+            <sar_cell_reduce value="3" />
+            <sar_wifi_reduce value="1" />
+        </config>
+
+		<!--Group 18 RMC + wifi off + sar sensor on-->
+        <config><!-- 50 -->
+            <is_rmc_test_mode value="1" />
+            <is_wifi_connected value="0" />
+            <is_wifi_ap_opened value="0" />
+            <is_cell_sar_sensor value="1" />
+
+            <sar_cell_reduce value="3" />
+        </config>
+
+		<!--Group 19 RMC + wifi on + sar sensor off-->
+		<!--Only Hotspot with sar sensor off or no sar sensor should use this condition -->
+        <config><!-- 51 -->
+            <is_rmc_test_mode value="1" />
+            <is_wifi_connected value="0" />
+            <is_wifi_ap_opened value="1" />
+            <is_cell_sar_sensor value="0" />
+
+            <sar_cell_reduce value="4" />
+            <sar_wifi_reduce value="1" />
+        </config>
+        <config><!-- 52 -->
+            <is_rmc_test_mode value="1" />
+            <is_wifi_connected value="1" />
+            <is_wifi_ap_opened value="0" />
+            <is_cell_sar_sensor value="0" />
+
+            <sar_cell_reduce value="1" />
+            <sar_wifi_reduce value="1" />
+        </config>
+
+		<!--Group 20 RMC + wifi off + sar sensor off-->
+        <config><!-- 53 -->
+            <is_rmc_test_mode value="1" />
+            <is_wifi_connected value="0" />
+            <is_wifi_ap_opened value="0" />
+            <is_cell_sar_sensor value="0" />
+
+            <sar_cell_reduce value="1" />
+        </config>
+
+		<!--Group 1 Vowifi -->
+        <config><!-- 54 -->
+            <is_sub0_voice value="1" />
+            <is_wifi_connected value="1" />
+            <is_wifi_ap_opened value="0" />
+            <is_headset_insert value="0" />
+            <is_speaker_phoneon value="0" />
+
+            <sar_wifi_reduce value="13" />
+        </config>
+        <config><!-- 55 -->
+            <is_sub1_voice value="1" />
+            <is_wifi_connected value="1" />
+            <is_wifi_ap_opened value="0" />
+            <is_headset_insert value="0" />
+            <is_speaker_phoneon value="0" />
+
+            <sar_wifi_reduce value="13" />
+        </config>
+
+    </configs>
+</SarRuleConfig>

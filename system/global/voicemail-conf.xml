@@ -1,0 +1,952 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 当前版本号：Global_parameters V3.731
+SE13_version 20180709
+type=GLOBAL
+subtype=generic
+compatibleVersion=1目前包含 217个国家和地区，1334套运营商参数。 -->
+<voicemails version="1">
+    <voicemail carrier="etisalat" mvno_match_data="" mvno_type="" numeric="60203" vmnumber="444" vmtag="voicemail"/>
+    <voicemail carrier="Orange EG" mvno_match_data="" mvno_type="" numeric="60201" vmnumber="777" vmtag="voicemail"/>
+    <voicemail carrier="Vodafone" mvno_match_data="" mvno_type="" numeric="60202" vmnumber="808" vmtag="voicemail"/>
+    <voicemail carrier="ooredoo" mvno_match_data="" mvno_type="" numeric="60303" vmnumber="555" vmtag="voicemail"/>
+    <voicemail carrier="Orascom Telecom Algérie" mvno_match_data="" mvno_type="" numeric="60302" vmnumber="555" vmtag="voicemail"/>
+    <voicemail carrier="ATM MOBILIS" mvno_match_data="" mvno_type="" numeric="60301" vmnumber="123" vmtag="voicemail"/>
+    <voicemail carrier="Meditel" mvno_match_data="" mvno_type="" numeric="60400" vmnumber="123" vmtag="voicemail"/>
+    <voicemail carrier="Syriatel" mvno_match_data="" mvno_type="" numeric="41701" vmnumber="1777" vmtag="voicemail"/>
+    <voicemail carrier="MTN Syria" mvno_match_data="" mvno_type="" numeric="41702" vmnumber="094941" vmtag="voicemail"/>
+    <voicemail carrier="Orange" mvno_match_data="" mvno_type="" numeric="61002" vmnumber="130" vmtag="voicemail"/>
+    <voicemail carrier="MTN" mvno_match_data="" mvno_type="" numeric="63402" vmnumber="303" vmtag="voicemail"/>
+    <voicemail carrier="Sudani" mvno_match_data="" mvno_type="" numeric="63407" vmnumber="120120000" vmtag="voicemail"/>
+    <voicemail carrier="Zain" mvno_match_data="" mvno_type="" numeric="63401" vmnumber="1240" vmtag="voicemail"/>
+    <voicemail carrier="MTN" mvno_match_data="" mvno_type="" numeric="42102" vmnumber="777" vmtag="voicemail"/>
+    <voicemail carrier="SabaFon" mvno_match_data="" mvno_type="" numeric="42101" vmnumber="707" vmtag="voicemail"/>
+    <voicemail carrier="Tigo" mvno_match_data="" mvno_type="" numeric="62203" vmnumber="130" vmtag="voicemail"/>
+    <voicemail carrier="expresso" mvno_match_data="" mvno_type="" numeric="60803" vmnumber="1115" vmtag="voicemail"/>
+    <voicemail carrier="Sonatel" mvno_match_data="" mvno_type="" numeric="60801" vmnumber="602" vmtag="voicemail"/>
+    <voicemail carrier="ETC" mvno_match_data="" mvno_type="" numeric="63601" vmnumber="821" vmtag="voicemail"/>
+    <voicemail carrier="Orange" mvno_match_data="" mvno_type="" numeric="61404" vmnumber="888" vmtag="voicemail"/>
+    <voicemail carrier="ooredoo" mvno_match_data="" mvno_type="" numeric="60503" vmnumber="1777" vmtag="voicemail"/>
+    <voicemail carrier="Orange" mvno_match_data="" mvno_type="" numeric="60501" vmnumber="1188" vmtag="voicemail"/>
+    <voicemail carrier="Tunisie Telecom" mvno_match_data="" mvno_type="" numeric="60502" vmnumber="1700" vmtag="voicemail"/>
+    <voicemail carrier="SENTEL" mvno_match_data="" mvno_type="" numeric="60802" vmnumber="602" vmtag="voicemail"/>
+    <voicemail carrier="MOD" mvno_match_data="" mvno_type="" numeric="60209" vmnumber="900" vmtag="voicemail"/>
+    <voicemail carrier="T-Mobile" mvno_match_data="" mvno_type="" numeric="23203" vmnumber="+436762200" vmtag="voicemail"/>
+    <voicemail carrier="A1" mvno_match_data="" mvno_type="" numeric="23201" vmnumber="66477" vmtag="voicemail"/>
+    <voicemail carrier="tele.ring" mvno_match_data="" mvno_type="" numeric="23207" vmnumber="+4365011000" vmtag="voicemail"/>
+    <voicemail carrier="MOBILTEL" mvno_match_data="" mvno_type="" numeric="28401" vmnumber="131" vmtag="voicemail"/>
+    <voicemail carrier="Telekom Srpske" mvno_match_data="" mvno_type="" numeric="21805" vmnumber="+3876555400" vmtag="voicemail"/>
+    <voicemail carrier="Plus" mvno_match_data="" mvno_type="" numeric="26001" vmnumber="+48601222222" vmtag="voicemail"/>
+    <voicemail carrier="Orange" mvno_match_data="" mvno_type="" numeric="26003" vmnumber="*501" vmtag="voicemail"/>
+    <voicemail carrier="P4" mvno_match_data="" mvno_type="" numeric="26006" vmnumber="+48790200200" vmtag="voicemail"/>
+    <voicemail carrier="T-Mobile" mvno_match_data="" mvno_type="" numeric="26002" vmnumber="+48602950000" vmtag="voicemail"/>
+    <voicemail carrier="Telenor" mvno_match_data="" mvno_type="" numeric="23802" vmnumber="004560500000" vmtag="voicemail"/>
+    <voicemail carrier="3" mvno_match_data="" mvno_type="" numeric="23806" vmnumber="004531133333" vmtag="voicemail"/>
+    <voicemail carrier="Telia" mvno_match_data="" mvno_type="" numeric="23820" vmnumber="004528184000" vmtag="voicemail"/>
+    <voicemail carrier="TDC" mvno_match_data="" mvno_type="" numeric="23801" vmnumber="004520171717" vmtag="voicemail"/>
+    <voicemail carrier="T-Mobile" mvno_match_data="" mvno_type="" numeric="23001" vmnumber="+420603123311" vmtag="voicemail"/>
+    <voicemail carrier="O2" mvno_match_data="" mvno_type="" numeric="23002" vmnumber="+420602999999" vmtag="voicemail"/>
+    <voicemail carrier="Vodafone" mvno_match_data="" mvno_type="" numeric="23003" vmnumber="+420608989898" vmtag="voicemail"/>
+    <voicemail carrier="Vodafone" mvno_match_data="" mvno_type="" numeric="21910" vmnumber="+385917000" vmtag="voicemail"/>
+    <voicemail carrier="Tele2" mvno_match_data="" mvno_type="" numeric="21902" vmnumber="+385951000223" vmtag="voicemail"/>
+    <voicemail carrier="TM HR" mvno_match_data="" mvno_type="" numeric="21901" vmnumber="+38598151100" vmtag="voicemail"/>
+    <voicemail carrier="Omnitel" mvno_match_data="" mvno_type="" numeric="24601" vmnumber="+37069890001" vmtag="voicemail"/>
+    <voicemail carrier="Tele2" mvno_match_data="" mvno_type="" numeric="24603" vmnumber="+37068400222" vmtag="voicemail"/>
+    <voicemail carrier="Cosmote" mvno_match_data="" mvno_type="" numeric="22603" vmnumber="+40766177177" vmtag="voicemail"/>
+    <voicemail carrier="Cosmote" mvno_match_data="" mvno_type="" numeric="22606" vmnumber="+40766177177" vmtag="voicemail"/>
+    <voicemail carrier="Orange" mvno_match_data="" mvno_type="" numeric="22610" vmnumber="555" vmtag="voicemail"/>
+    <voicemail carrier="Vodafone" mvno_match_data="" mvno_type="" numeric="22601" vmnumber="+40722033334" vmtag="voicemail"/>
+    <voicemail carrier="T-Mobile" mvno_match_data="" mvno_type="" numeric="29401" vmnumber="+38970121212" vmtag="voicemail"/>
+    <voicemail carrier="Moldtelecom" mvno_match_data="" mvno_type="" numeric="25905" vmnumber="333" vmtag="voicemail"/>
+    <voicemail carrier="Moldcell" mvno_match_data="" mvno_type="" numeric="25902" vmnumber="9494" vmtag="voicemail"/>
+    <voicemail carrier="Telenor" mvno_match_data="" mvno_type="" numeric="22001" vmnumber="+38163909" vmtag="voicemail"/>
+    <voicemail carrier="Vip mobile" mvno_match_data="" mvno_type="" numeric="22005" vmnumber="+381607777" vmtag="voicemail"/>
+    <voicemail carrier="Orange" mvno_match_data="" mvno_type="" numeric="23101" vmnumber="555" vmtag="voicemail"/>
+    <voicemail carrier="DT" mvno_match_data="" mvno_type="" numeric="23102" vmnumber="+421903333999" vmtag="voicemail"/>
+    <voicemail carrier="vodafone" mvno_match_data="" mvno_type="" numeric="20205" vmnumber="121" vmtag="voicemail"/>
+    <voicemail carrier="Cosmote" mvno_match_data="" mvno_type="" numeric="20201" vmnumber="+306971000123" vmtag="voicemail"/>
+    <voicemail carrier="Wind" mvno_match_data="" mvno_type="" numeric="20210" vmnumber="122" vmtag="voicemail"/>
+    <voicemail carrier="Telenor" mvno_match_data="" mvno_type="" numeric="21601" vmnumber="170" vmtag="voicemail"/>
+    <voicemail carrier="T-Mobile" mvno_match_data="" mvno_type="" numeric="21630" vmnumber="+36309888444" vmtag="voicemail"/>
+    <voicemail carrier="Vodafone" mvno_match_data="" mvno_type="" numeric="21670" vmnumber="170" vmtag="voicemail"/>
+    <voicemail carrier="Cytamobile-Vodafone" mvno_match_data="" mvno_type="" numeric="28001" vmnumber="121" vmtag="voicemail"/>
+    <voicemail carrier="MTN" mvno_match_data="" mvno_type="" numeric="28010" vmnumber="121" vmtag="voicemail"/>
+    <voicemail carrier="Telekom Srbija" mvno_match_data="" mvno_type="" numeric="22003" vmnumber="+38164711" vmtag="voicemail"/>
+    <voicemail carrier="Telenor" mvno_match_data="" mvno_type="" numeric="29701" vmnumber="14077" vmtag="voicemail"/>
+    <voicemail carrier="Eronet" mvno_match_data="" mvno_type="" numeric="21803" vmnumber="+387633888" vmtag="voicemail"/>
+    <voicemail carrier="BH Mobile" mvno_match_data="" mvno_type="" numeric="21890" vmnumber="+38761123123" vmtag="voicemail"/>
+    <voicemail carrier="T-Mobile" mvno_match_data="" mvno_type="" numeric="29702" vmnumber="+3826714077" vmtag="voicemail"/>
+    <voicemail carrier="m:tel" mvno_match_data="" mvno_type="" numeric="29703" vmnumber="14777" vmtag="voicemail"/>
+    <voicemail carrier="Partner" mvno_match_data="" mvno_type="" numeric="42501" vmnumber="*151" vmtag="voicemail"/>
+    <voicemail carrier="Cellcom" mvno_match_data="" mvno_type="" numeric="42502" vmnumber="*151" vmtag="voicemail"/>
+    <voicemail carrier="Pelephone" mvno_match_data="" mvno_type="" numeric="42503" vmnumber="+972505000151" vmtag="voicemail"/>
+    <voicemail carrier="HOT Mobile" mvno_match_data="" mvno_type="" numeric="42507" vmnumber="*151" vmtag="voicemail"/>
+    <voicemail carrier="Golan Telecom" mvno_match_data="" mvno_type="" numeric="42508" vmnumber="*151" vmtag="voicemail"/>
+    <voicemail carrier="YouPhone" mvno_match_data="" mvno_type="" numeric="42514" vmnumber="*151" vmtag="voicemail"/>
+    <voicemail carrier="Home Celullar" mvno_match_data="" mvno_type="" numeric="42515" vmnumber="*151" vmtag="voicemail"/>
+    <voicemail carrier="Telenor DK" mvno_match_data="" mvno_type="" numeric="23877" vmnumber="004560500000" vmtag="voicemail"/>
+    <voicemail carrier="Vodafone" mvno_match_data="" mvno_type="" numeric="27602" vmnumber="135" vmtag="voicemail"/>
+    <voicemail carrier="TDC" mvno_match_data="" mvno_type="" numeric="24014" vmnumber="0046767202020" vmtag="voicemail"/>
+    <voicemail carrier="TDC" mvno_match_data="" mvno_type="" numeric="24208" vmnumber="004794505050" vmtag="voicemail"/>
+    <voicemail carrier="T-Mobile" mvno_match_data="" mvno_type="" numeric="22004" vmnumber="+3826714077" vmtag="voicemail"/>
+    <voicemail carrier="MTN" mvno_match_data="" mvno_type="" numeric="65510" vmnumber="132" vmtag="voicemail"/>
+    <voicemail carrier="Vodacom" mvno_match_data="" mvno_type="" numeric="65501" vmnumber="132" vmtag="voicemail"/>
+    <voicemail carrier="Cell C" mvno_match_data="" mvno_type="" numeric="65507" vmnumber="132" vmtag="voicemail"/>
+    <voicemail carrier="Telkom" mvno_match_data="" mvno_type="" numeric="65502" vmnumber="132" vmtag="voicemail"/>
+    <voicemail carrier="MTN Rwanda" mvno_match_data="" mvno_type="" numeric="63510" vmnumber="333" vmtag="voicemail"/>
+    <voicemail carrier="Unitel" mvno_match_data="" mvno_type="" numeric="63102" vmnumber="00244923119123" vmtag="voicemail"/>
+    <voicemail carrier="Orange" mvno_match_data="" mvno_type="" numeric="65202" vmnumber="133" vmtag="voicemail"/>
+    <voicemail carrier="Safaricom" mvno_match_data="" mvno_type="" numeric="63902" vmnumber="0722122" vmtag="voicemail"/>
+    <voicemail carrier="Tigo Tanzania" mvno_match_data="" mvno_type="" numeric="64002" vmnumber="*0*" vmtag="voicemail"/>
+    <voicemail carrier="MTN" mvno_match_data="" mvno_type="" numeric="64110" vmnumber="100" vmtag="voicemail"/>
+    <voicemail carrier="Orange" mvno_match_data="" mvno_type="" numeric="64700" vmnumber="800" vmtag="voicemail"/>
+    <voicemail carrier="SRR" mvno_match_data="" mvno_type="" numeric="64710" vmnumber="123" vmtag="voicemail"/>
+    <voicemail carrier="MASCOM" mvno_match_data="" mvno_type="" numeric="65201" vmnumber="123" vmtag="voicemail"/>
+    <voicemail carrier="Neotel" mvno_match_data="" mvno_type="" numeric="65513" vmnumber="132" vmtag="voicemail"/>
+    <voicemail carrier="Congo telecom" mvno_match_data="" mvno_type="" numeric="62903" vmnumber="185" vmtag="voicemail"/>
+    <voicemail carrier="rain" mvno_match_data="" mvno_type="" numeric="65538" vmnumber="132" vmtag="voicemail"/>
+    <voicemail carrier="rain" mvno_match_data="" mvno_type="" numeric="65519" vmnumber="132" vmtag="voicemail"/>
+    <voicemail carrier="中華電信" mvno_match_data="" mvno_type="" numeric="46692" vmnumber="777" vmtag="voicemail"/>
+    <voicemail carrier="遠傳電信" mvno_match_data="" mvno_type="" numeric="46601" vmnumber="222" vmtag="voicemail"/>
+    <voicemail carrier="台灣大哥大" mvno_match_data="" mvno_type="" numeric="46697" vmnumber="123" vmtag="voicemail"/>
+    <voicemail carrier="台灣之星" mvno_match_data="" mvno_type="" numeric="46689" vmnumber="777" vmtag="voicemail"/>
+    <voicemail carrier="GT 4G" mvno_match_data="" mvno_type="" numeric="46605" vmnumber="777" vmtag="voicemail"/>
+    <voicemail carrier="Telstra" mvno_match_data="" mvno_type="" numeric="50501" vmnumber="+61101" vmtag="voicemail"/>
+    <voicemail carrier="VHA" mvno_match_data="" mvno_type="" numeric="50503" vmnumber="121" vmtag="voicemail"/>
+    <voicemail carrier="Planet 3" mvno_match_data="" mvno_type="" numeric="50506" vmnumber="121" vmtag="voicemail"/>
+    <voicemail carrier="SingTel" mvno_match_data="" mvno_type="" numeric="52501" vmnumber="1389" vmtag="voicemail"/>
+    <voicemail carrier="M1" mvno_match_data="" mvno_type="" numeric="52503" vmnumber="1381" vmtag="voicemail"/>
+    <voicemail carrier="SingTel" mvno_match_data="" mvno_type="" numeric="52502" vmnumber="1389" vmtag="voicemail"/>
+    <voicemail carrier="Telecom" mvno_match_data="" mvno_type="" numeric="53005" vmnumber="+6483083210" vmtag="voicemail"/>
+    <voicemail carrier="Vodafone" mvno_match_data="" mvno_type="" numeric="53001" vmnumber="+6421700700" vmtag="voicemail"/>
+    <voicemail carrier="Digicel" mvno_match_data="" mvno_type="" numeric="53602" vmnumber="555" vmtag="voicemail"/>
+    <voicemail carrier="Digicel" mvno_match_data="" mvno_type="" numeric="54202" vmnumber="555" vmtag="voicemail"/>
+    <voicemail carrier="2degrees" mvno_match_data="" mvno_type="" numeric="53024" vmnumber="+64222022002" vmtag="voicemail"/>
+    <voicemail carrier="Digicel" mvno_match_data="" mvno_type="" numeric="54900" vmnumber="555" vmtag="voicemail"/>
+    <voicemail carrier="Bee Mobile" mvno_match_data="" mvno_type="" numeric="53701" vmnumber="1260" vmtag="voicemail"/>
+    <voicemail carrier="SMILE" mvno_match_data="" mvno_type="" numeric="54101" vmnumber="170" vmtag="voicemail"/>
+    <voicemail carrier="Bmobile" mvno_match_data="" mvno_type="" numeric="54002" vmnumber="1260" vmtag="voicemail"/>
+    <voicemail carrier="Telikom" mvno_match_data="" mvno_type="" numeric="53702" vmnumber="1201" vmtag="voicemail"/>
+    <voicemail carrier="Telikom PNG" mvno_match_data="" mvno_type="" numeric="53700" vmnumber="1201" vmtag="voicemail"/>
+    <voicemail carrier="etisalat" mvno_match_data="" mvno_type="" numeric="62160" vmnumber="252" vmtag="voicemail"/>
+    <voicemail carrier="MTN" mvno_match_data="" mvno_type="" numeric="62130" vmnumber="100" vmtag="voicemail"/>
+    <voicemail carrier="Globacom" mvno_match_data="" mvno_type="" numeric="62150" vmnumber="111" vmtag="voicemail"/>
+    <voicemail carrier="Airtel" mvno_match_data="" mvno_type="" numeric="62120" vmnumber="132" vmtag="voicemail"/>
+    <voicemail carrier="Orange" mvno_match_data="" mvno_type="" numeric="62402" vmnumber="999" vmtag="voicemail"/>
+    <voicemail carrier="Orange" mvno_match_data="" mvno_type="" numeric="61203" vmnumber="888" vmtag="voicemail"/>
+    <voicemail carrier="AIRTEL" mvno_match_data="" mvno_type="" numeric="61302" vmnumber="120" vmtag="voicemail"/>
+    <voicemail carrier="TELMOB" mvno_match_data="" mvno_type="" numeric="61301" vmnumber="1100" vmtag="voicemail"/>
+    <voicemail carrier="TELECEL" mvno_match_data="" mvno_type="" numeric="61303" vmnumber="123" vmtag="voicemail"/>
+    <voicemail carrier="Orange" mvno_match_data="" mvno_type="" numeric="62303" vmnumber="888" vmtag="voicemail"/>
+    <voicemail carrier="Camtel" mvno_match_data="" mvno_type="" numeric="62403" vmnumber="121" vmtag="voicemail"/>
+    <voicemail carrier="wholesale-Topman" mvno_match_data="" mvno_type="" numeric="61906" vmnumber="*57*128#" vmtag="voicemail"/>
+    <voicemail carrier="KPN/Hi" mvno_match_data="" mvno_type="" numeric="20408" vmnumber="1233" vmtag="voicemail"/>
+    <voicemail carrier="Vodafone" mvno_match_data="" mvno_type="" numeric="20404" vmnumber="+31654501233" vmtag="voicemail"/>
+    <voicemail carrier="T-Mobile" mvno_match_data="" mvno_type="" numeric="20416" vmnumber="+31624001233" vmtag="voicemail"/>
+    <voicemail carrier="Telfort" mvno_match_data="" mvno_type="" numeric="20412" vmnumber="1233" vmtag="voicemail"/>
+    <voicemail carrier="Tele2 NL" mvno_match_data="" mvno_type="" numeric="20402" vmnumber="+31640192940" vmtag="voicemail"/>
+    <voicemail carrier="Ziggo" mvno_match_data="" mvno_type="" numeric="20415" vmnumber="31686501233" vmtag="voicemail"/>
+    <voicemail carrier="T-mobile" mvno_match_data="" mvno_type="" numeric="20420" vmnumber="+31624001233" vmtag="voicemail"/>
+    <voicemail carrier="Proximus" mvno_match_data="" mvno_type="" numeric="20601" vmnumber="+32475151969" vmtag="voicemail"/>
+    <voicemail carrier="Base Belgium" mvno_match_data="" mvno_type="" numeric="20620" vmnumber="1955" vmtag="voicemail"/>
+    <voicemail carrier="Mobistar" mvno_match_data="" mvno_type="" numeric="20610" vmnumber="5555" vmtag="voicemail"/>
+    <voicemail carrier="Telenet" mvno_match_data="" mvno_type="" numeric="20605" vmnumber="5555" vmtag="voicemail"/>
+    <voicemail carrier="SFR" mvno_match_data="" mvno_type="" numeric="20810" vmnumber="123" vmtag="voicemail"/>
+    <voicemail carrier="Bouygues" mvno_match_data="" mvno_type="" numeric="20820" vmnumber="+33660660001" vmtag="voicemail"/>
+    <voicemail carrier="Orange" mvno_match_data="" mvno_type="" numeric="20801" vmnumber="888" vmtag="voicemail"/>
+    <voicemail carrier="NRJ Mobile" mvno_match_data="" mvno_type="" numeric="20826" vmnumber="777" vmtag="voicemail"/>
+    <voicemail carrier="Femtocell" mvno_match_data="" mvno_type="" numeric="20811" vmnumber="123" vmtag="voicemail"/>
+    <voicemail carrier="Vodafone" mvno_match_data="" mvno_type="" numeric="21401" vmnumber="22177" vmtag="voicemail"/>
+    <voicemail carrier="Jazztel" mvno_match_data="" mvno_type="" numeric="21421" vmnumber="1222" vmtag="voicemail"/>
+    <voicemail carrier="TME" mvno_match_data="" mvno_type="" numeric="21407" vmnumber="123" vmtag="voicemail"/>
+    <voicemail carrier="Yoigo" mvno_match_data="" mvno_type="" numeric="21404" vmnumber="+34633633633" vmtag="voicemail"/>
+    <voicemail carrier="KPN ES" mvno_match_data="" mvno_type="" numeric="21419" vmnumber="1213" vmtag="voicemail"/>
+    <voicemail carrier="ONO" mvno_match_data="" mvno_type="" numeric="21418" vmnumber="1214" vmtag="voicemail"/>
+    <voicemail carrier="Tuenti" mvno_match_data="" mvno_type="" numeric="21432" vmnumber="22123" vmtag="voicemail"/>
+    <voicemail carrier="Vodafone" mvno_match_data="" mvno_type="" numeric="22210" vmnumber="42020" vmtag="voicemail"/>
+    <voicemail carrier="3" mvno_match_data="" mvno_type="" numeric="22299" vmnumber="4133" vmtag="voicemail"/>
+    <voicemail carrier="WIND" mvno_match_data="" mvno_type="" numeric="22288" vmnumber="4200" vmtag="voicemail"/>
+    <voicemail carrier="TIM" mvno_match_data="" mvno_type="" numeric="22201" vmnumber="41901" vmtag="voicemail"/>
+    <voicemail carrier="Sunrise" mvno_match_data="" mvno_type="" numeric="22802" vmnumber="+41763333333" vmtag="voicemail"/>
+    <voicemail carrier="Swisscom" mvno_match_data="" mvno_type="" numeric="22801" vmnumber="+41794997979" vmtag="voicemail"/>
+    <voicemail carrier="T-mobile UK" mvno_match_data="" mvno_type="" numeric="23430" vmnumber="222" vmtag="voicemail"/>
+    <voicemail carrier="T-mobile UK" mvno_match_data="" mvno_type="" numeric="23431" vmnumber="222" vmtag="voicemail"/>
+    <voicemail carrier="T-mobile UK" mvno_match_data="" mvno_type="" numeric="23432" vmnumber="222" vmtag="voicemail"/>
+    <voicemail carrier="3" mvno_match_data="" mvno_type="" numeric="23420" vmnumber="+447782333123" vmtag="voicemail"/>
+    <voicemail carrier="Vodafone" mvno_match_data="" mvno_type="" numeric="23415" vmnumber="121" vmtag="voicemail"/>
+    <voicemail carrier="Orange UK" mvno_match_data="" mvno_type="" numeric="23433" vmnumber="07973100123" vmtag="voicemail"/>
+    <voicemail carrier="Orange UK" mvno_match_data="" mvno_type="" numeric="23434" vmnumber="07973100123" vmtag="voicemail"/>
+    <voicemail carrier="Orange UK" mvno_match_data="" mvno_type="" numeric="23486" vmnumber="07973100123" vmtag="voicemail"/>
+    <voicemail carrier="3" mvno_match_data="" mvno_type="" numeric="23594" vmnumber="+447782333123" vmtag="voicemail"/>
+    <voicemail carrier="Vodafone" mvno_match_data="" mvno_type="" numeric="26202" vmnumber="5500" vmtag="voicemail"/>
+    <voicemail carrier="T-Mobile" mvno_match_data="" mvno_type="" numeric="26201" vmnumber="3311" vmtag="voicemail"/>
+    <voicemail carrier="NOS" mvno_match_data="" mvno_type="" numeric="26803" vmnumber="133" vmtag="voicemail"/>
+    <voicemail carrier="TMN" mvno_match_data="" mvno_type="" numeric="26806" vmnumber="+351962000000" vmtag="voicemail"/>
+    <voicemail carrier="Vodafone" mvno_match_data="" mvno_type="" numeric="26801" vmnumber="123" vmtag="voicemail"/>
+    <voicemail carrier="Lux GSM" mvno_match_data="" mvno_type="" numeric="27001" vmnumber="621" vmtag="voicemail"/>
+    <voicemail carrier="Tango" mvno_match_data="" mvno_type="" numeric="27077" vmnumber="691" vmtag="voicemail"/>
+    <voicemail carrier="Orange Lux" mvno_match_data="" mvno_type="" numeric="27099" vmnumber="661" vmtag="voicemail"/>
+    <voicemail carrier="3" mvno_match_data="" mvno_type="" numeric="27205" vmnumber="171" vmtag="voicemail"/>
+    <voicemail carrier="Meteor" mvno_match_data="" mvno_type="" numeric="27203" vmnumber="171" vmtag="voicemail"/>
+    <voicemail carrier="Tesco" mvno_match_data="" mvno_type="" numeric="27211" vmnumber="171" vmtag="voicemail"/>
+    <voicemail carrier="O2" mvno_match_data="" mvno_type="" numeric="27202" vmnumber="171" vmtag="voicemail"/>
+    <voicemail carrier="Vodafone" mvno_match_data="" mvno_type="" numeric="27201" vmnumber="171" vmtag="voicemail"/>
+    <voicemail carrier="iD" mvno_match_data="" mvno_type="" numeric="27216" vmnumber="171" vmtag="voicemail"/>
+    <voicemail carrier="VODAFONE" mvno_match_data="" mvno_type="" numeric="27801" vmnumber="+35699909909" vmtag="voicemail"/>
+    <voicemail carrier="SALT FL" mvno_match_data="" mvno_type="" numeric="29502" vmnumber="+4237801000" vmtag="voicemail"/>
+    <voicemail carrier="Sure (Jersey) Limited" mvno_match_data="" mvno_type="" numeric="23455" vmnumber="171" vmtag="voicemail"/>
+    <voicemail carrier="PosteMobile" mvno_match_data="" mvno_type="" numeric="22233" vmnumber="427242" vmtag="voicemail"/>
+    <voicemail carrier="TeleCable" mvno_match_data="" mvno_type="" numeric="21416" vmnumber="333" vmtag="voicemail"/>
+    <voicemail carrier="FASTWEB" mvno_match_data="" mvno_type="" numeric="22208" vmnumber="4141" vmtag="voicemail"/>
+    <voicemail carrier="Virgin Media Ireland" mvno_match_data="" mvno_type="" numeric="27215" vmnumber="+353896191171" vmtag="voicemail"/>
+    <voicemail carrier="Avea" mvno_match_data="" mvno_type="" numeric="28603" vmnumber="999" vmtag="voicemail"/>
+    <voicemail carrier="Avea" mvno_match_data="" mvno_type="" numeric="28604" vmnumber="999" vmtag="voicemail"/>
+    <voicemail carrier="Turkcell" mvno_match_data="" mvno_type="" numeric="28601" vmnumber="905327533111" vmtag="voicemail"/>
+    <voicemail carrier="Vodafone" mvno_match_data="" mvno_type="" numeric="28602" vmnumber="+905427542000" vmtag="voicemail"/>
+    <voicemail carrier="Geocell" mvno_match_data="" mvno_type="" numeric="28201" vmnumber="7020" vmtag="voicemail"/>
+    <voicemail carrier="KCELL" mvno_match_data="" mvno_type="" numeric="40102" vmnumber="2000" vmtag="voicemail"/>
+    <voicemail carrier="Tele2" mvno_match_data="" mvno_type="" numeric="40177" vmnumber="2000" vmtag="voicemail"/>
+    <voicemail carrier="TMO" mvno_match_data="" mvno_type="" numeric="310160" vmnumber="123" vmtag="voicemail"/>
+    <voicemail carrier="TMO" mvno_match_data="" mvno_type="" numeric="310210" vmnumber="123" vmtag="voicemail"/>
+    <voicemail carrier="TMO" mvno_match_data="" mvno_type="" numeric="310230" vmnumber="123" vmtag="voicemail"/>
+    <voicemail carrier="TMO" mvno_match_data="" mvno_type="" numeric="310240" vmnumber="123" vmtag="voicemail"/>
+    <voicemail carrier="TMO" mvno_match_data="" mvno_type="" numeric="310250" vmnumber="123" vmtag="voicemail"/>
+    <voicemail carrier="TMO" mvno_match_data="" mvno_type="" numeric="310260" vmnumber="123" vmtag="voicemail"/>
+    <voicemail carrier="TMO" mvno_match_data="" mvno_type="" numeric="310270" vmnumber="123" vmtag="voicemail"/>
+    <voicemail carrier="TMO" mvno_match_data="" mvno_type="" numeric="310300" vmnumber="123" vmtag="voicemail"/>
+    <voicemail carrier="TMO" mvno_match_data="" mvno_type="" numeric="310310" vmnumber="123" vmtag="voicemail"/>
+    <voicemail carrier="TMO" mvno_match_data="" mvno_type="" numeric="310490" vmnumber="123" vmtag="voicemail"/>
+    <voicemail carrier="TMO" mvno_match_data="" mvno_type="" numeric="310530" vmnumber="123" vmtag="voicemail"/>
+    <voicemail carrier="TMO" mvno_match_data="" mvno_type="" numeric="310580" vmnumber="123" vmtag="voicemail"/>
+    <voicemail carrier="TMO" mvno_match_data="" mvno_type="" numeric="310590" vmnumber="123" vmtag="voicemail"/>
+    <voicemail carrier="TMO" mvno_match_data="" mvno_type="" numeric="310640" vmnumber="123" vmtag="voicemail"/>
+    <voicemail carrier="TMO" mvno_match_data="" mvno_type="" numeric="310660" vmnumber="123" vmtag="voicemail"/>
+    <voicemail carrier="TMO" mvno_match_data="" mvno_type="" numeric="310800" vmnumber="123" vmtag="voicemail"/>
+    <voicemail carrier="TMO" mvno_match_data="" mvno_type="" numeric="310220" vmnumber="123" vmtag="voicemail"/>
+    <voicemail carrier="TMO" mvno_match_data="" mvno_type="" numeric="310200" vmnumber="123" vmtag="voicemail"/>
+    <voicemail carrier="Verizon Wireless" mvno_match_data="" mvno_type="" numeric="311480" vmnumber="*86" vmtag="voicemail"/>
+    <voicemail carrier="Bluegrass Wireless LLC" mvno_match_data="" mvno_type="" numeric="311810" vmnumber="*86" vmtag="voicemail"/>
+    <voicemail carrier="Telcel" mvno_match_data="" mvno_type="" numeric="334020" vmnumber="*86" vmtag="voicemail"/>
+    <voicemail carrier="IUSACELL" mvno_match_data="" mvno_type="" numeric="334050" vmnumber="*86" vmtag="voicemail"/>
+    <voicemail carrier="Movistar" mvno_match_data="" mvno_type="" numeric="334030" vmnumber="*86" vmtag="voicemail"/>
+    <voicemail carrier="Movistar" mvno_match_data="" mvno_type="" numeric="33403" vmnumber="*86" vmtag="voicemail"/>
+    <voicemail carrier="TIGO" mvno_match_data="" mvno_type="" numeric="732103" vmnumber="*123" vmtag="voicemail"/>
+    <voicemail carrier="TIGO" mvno_match_data="" mvno_type="" numeric="732111" vmnumber="*123" vmtag="voicemail"/>
+    <voicemail carrier="Movistar" mvno_match_data="" mvno_type="" numeric="732123" vmnumber="*123" vmtag="voicemail"/>
+    <voicemail carrier="Movilnet" mvno_match_data="" mvno_type="" numeric="73406" vmnumber="*9" vmtag="voicemail"/>
+    <voicemail carrier="Digitel" mvno_match_data="" mvno_type="" numeric="73401" vmnumber="124" vmtag="voicemail"/>
+    <voicemail carrier="Digitel" mvno_match_data="" mvno_type="" numeric="73402" vmnumber="124" vmtag="voicemail"/>
+    <voicemail carrier="Digitel" mvno_match_data="" mvno_type="" numeric="73403" vmnumber="124" vmtag="voicemail"/>
+    <voicemail carrier="Movistar" mvno_match_data="" mvno_type="" numeric="73404" vmnumber="*2" vmtag="voicemail"/>
+    <voicemail carrier="ETECSA" mvno_match_data="" mvno_type="" numeric="36801" vmnumber="*123" vmtag="voicemail"/>
+    <voicemail carrier="Claro" mvno_match_data="" mvno_type="" numeric="70401" vmnumber="*80" vmtag="voicemail"/>
+    <voicemail carrier="movistar" mvno_match_data="" mvno_type="" numeric="70403" vmnumber="*86" vmtag="voicemail"/>
+    <voicemail carrier="Tigo" mvno_match_data="" mvno_type="" numeric="70402" vmnumber="*77" vmtag="voicemail"/>
+    <voicemail carrier="Claro" mvno_match_data="" mvno_type="" numeric="71021" vmnumber="*80" vmtag="voicemail"/>
+    <voicemail carrier="movistar" mvno_match_data="" mvno_type="" numeric="71030" vmnumber="*86" vmtag="voicemail"/>
+    <voicemail carrier="movistar" mvno_match_data="" mvno_type="" numeric="710300" vmnumber="*86" vmtag="voicemail"/>
+    <voicemail carrier="Claro" mvno_match_data="" mvno_type="" numeric="70601" vmnumber="*80" vmtag="voicemail"/>
+    <voicemail carrier="movistar" mvno_match_data="" mvno_type="" numeric="70604" vmnumber="*86" vmtag="voicemail"/>
+    <voicemail carrier="Tigo" mvno_match_data="" mvno_type="" numeric="70603" vmnumber="*80" vmtag="voicemail"/>
+    <voicemail carrier="NLA" mvno_match_data="" mvno_type="" numeric="708001" vmnumber="*80" vmtag="voicemail"/>
+    <voicemail carrier="NLA" mvno_match_data="" mvno_type="" numeric="70802" vmnumber="*90" vmtag="voicemail"/>
+    <voicemail carrier="NLA" mvno_match_data="" mvno_type="" numeric="708020" vmnumber="*90" vmtag="voicemail"/>
+    <voicemail carrier="Claro" mvno_match_data="" mvno_type="" numeric="71203" vmnumber="*80" vmtag="voicemail"/>
+    <voicemail carrier="movistar" mvno_match_data="" mvno_type="" numeric="71204" vmnumber="*1690" vmtag="voicemail"/>
+    <voicemail carrier="ICE" mvno_match_data="" mvno_type="" numeric="71201" vmnumber="1190" vmtag="voicemail"/>
+    <voicemail carrier="Claro" mvno_match_data="" mvno_type="" numeric="71403" vmnumber="*111" vmtag="voicemail"/>
+    <voicemail carrier="movistar" mvno_match_data="" mvno_type="" numeric="714020" vmnumber="*86" vmtag="voicemail"/>
+    <voicemail carrier="C&amp;W" mvno_match_data="" mvno_type="" numeric="71401" vmnumber="*111" vmtag="voicemail"/>
+    <voicemail carrier="Claro" mvno_match_data="" mvno_type="" numeric="37002" vmnumber="*99" vmtag="voicemail"/>
+    <voicemail carrier="Altice" mvno_match_data="" mvno_type="" numeric="37001" vmnumber="*777" vmtag="voicemail"/>
+    <voicemail carrier="Claro" mvno_match_data="" mvno_type="" numeric="330110" vmnumber="*86" vmtag="voicemail"/>
+    <voicemail carrier="Claro" mvno_match_data="" mvno_type="" numeric="74001" vmnumber="#99" vmtag="voicemail"/>
+    <voicemail carrier="movistar" mvno_match_data="" mvno_type="" numeric="74000" vmnumber="*82" vmtag="voicemail"/>
+    <voicemail carrier="CNT" mvno_match_data="" mvno_type="" numeric="74002" vmnumber="*123" vmtag="voicemail"/>
+    <voicemail carrier="C&amp;W" mvno_match_data="" mvno_type="" numeric="36611" vmnumber="123" vmtag="voicemail"/>
+    <voicemail carrier="C&amp;W" mvno_match_data="" mvno_type="" numeric="366110" vmnumber="123" vmtag="voicemail"/>
+    <voicemail carrier="Claro" mvno_match_data="" mvno_type="" numeric="71073" vmnumber="*80" vmtag="voicemail"/>
+    <voicemail carrier="UNE" mvno_match_data="" mvno_type="" numeric="732142" vmnumber="*123" vmtag="voicemail"/>
+    <voicemail carrier="Claro" mvno_match_data="" mvno_type="" numeric="740010" vmnumber="#99" vmtag="voicemail"/>
+    <voicemail carrier="movistar" mvno_match_data="" mvno_type="" numeric="71402" vmnumber="*86" vmtag="voicemail"/>
+    <voicemail carrier="ICE" mvno_match_data="" mvno_type="" numeric="71202" vmnumber="1190" vmtag="voicemail"/>
+    <voicemail carrier="Nextel" mvno_match_data="" mvno_type="" numeric="334090" vmnumber="*86" vmtag="voicemail"/>
+    <voicemail carrier="Tigo" mvno_match_data="" mvno_type="" numeric="704020" vmnumber="*77" vmtag="voicemail"/>
+    <voicemail carrier="C&amp;W" mvno_match_data="" mvno_type="" numeric="346140" vmnumber="123" vmtag="voicemail"/>
+    <voicemail carrier="C&amp;W" mvno_match_data="" mvno_type="" numeric="34614" vmnumber="123" vmtag="voicemail"/>
+    <voicemail carrier="C&amp;W" mvno_match_data="" mvno_type="" numeric="338180" vmnumber="123" vmtag="voicemail"/>
+    <voicemail carrier="C&amp;W" mvno_match_data="" mvno_type="" numeric="33818" vmnumber="123" vmtag="voicemail"/>
+    <voicemail carrier="C&amp;W" mvno_match_data="" mvno_type="" numeric="365840" vmnumber="123" vmtag="voicemail"/>
+    <voicemail carrier="C&amp;W" mvno_match_data="" mvno_type="" numeric="36584" vmnumber="123" vmtag="voicemail"/>
+    <voicemail carrier="C&amp;W" mvno_match_data="" mvno_type="" numeric="344920" vmnumber="123" vmtag="voicemail"/>
+    <voicemail carrier="C&amp;W" mvno_match_data="" mvno_type="" numeric="34492" vmnumber="123" vmtag="voicemail"/>
+    <voicemail carrier="C&amp;W" mvno_match_data="" mvno_type="" numeric="342600" vmnumber="123" vmtag="voicemail"/>
+    <voicemail carrier="C&amp;W" mvno_match_data="" mvno_type="" numeric="34260" vmnumber="123" vmtag="voicemail"/>
+    <voicemail carrier="C&amp;W" mvno_match_data="" mvno_type="" numeric="348170" vmnumber="123" vmtag="voicemail"/>
+    <voicemail carrier="C&amp;W" mvno_match_data="" mvno_type="" numeric="34817" vmnumber="123" vmtag="voicemail"/>
+    <voicemail carrier="C&amp;W" mvno_match_data="" mvno_type="" numeric="352110" vmnumber="123" vmtag="voicemail"/>
+    <voicemail carrier="C&amp;W" mvno_match_data="" mvno_type="" numeric="35211" vmnumber="123" vmtag="voicemail"/>
+    <voicemail carrier="C&amp;W" mvno_match_data="" mvno_type="" numeric="354860" vmnumber="123" vmtag="voicemail"/>
+    <voicemail carrier="C&amp;W" mvno_match_data="" mvno_type="" numeric="35486" vmnumber="123" vmtag="voicemail"/>
+    <voicemail carrier="C&amp;W" mvno_match_data="" mvno_type="" numeric="356110" vmnumber="123" vmtag="voicemail"/>
+    <voicemail carrier="C&amp;W" mvno_match_data="" mvno_type="" numeric="35611" vmnumber="123" vmtag="voicemail"/>
+    <voicemail carrier="C&amp;W" mvno_match_data="" mvno_type="" numeric="358110" vmnumber="123" vmtag="voicemail"/>
+    <voicemail carrier="C&amp;W" mvno_match_data="" mvno_type="" numeric="35811" vmnumber="123" vmtag="voicemail"/>
+    <voicemail carrier="C&amp;W" mvno_match_data="" mvno_type="" numeric="360110" vmnumber="123" vmtag="voicemail"/>
+    <voicemail carrier="C&amp;W" mvno_match_data="" mvno_type="" numeric="36011" vmnumber="123" vmtag="voicemail"/>
+    <voicemail carrier="C&amp;W" mvno_match_data="" mvno_type="" numeric="376350" vmnumber="123" vmtag="voicemail"/>
+    <voicemail carrier="C&amp;W" mvno_match_data="" mvno_type="" numeric="37635" vmnumber="123" vmtag="voicemail"/>
+    <voicemail carrier="BTC" mvno_match_data="" mvno_type="" numeric="36439" vmnumber="123" vmtag="voicemail"/>
+    <voicemail carrier="BTC" mvno_match_data="" mvno_type="" numeric="364390" vmnumber="123" vmtag="voicemail"/>
+    <voicemail carrier="Avantel" mvno_match_data="" mvno_type="" numeric="732130" vmnumber="3508888888" vmtag="voicemail"/>
+    <voicemail carrier="ETB" mvno_match_data="" mvno_type="" numeric="732187" vmnumber="*123" vmtag="voicemail"/>
+    <voicemail carrier="Tigo" mvno_match_data="" mvno_type="" numeric="706030" vmnumber="*80" vmtag="voicemail"/>
+    <voicemail carrier="Trilogy Dominicana S.A." mvno_match_data="" mvno_type="" numeric="37004" vmnumber="*89" vmtag="voicemail"/>
+    <voicemail carrier="TSTT" mvno_match_data="" mvno_type="" numeric="37412" vmnumber="*91" vmtag="voicemail"/>
+    <voicemail carrier="TSTT" mvno_match_data="" mvno_type="" numeric="374129" vmnumber="*91" vmtag="voicemail"/>
+    <voicemail carrier="C&amp;W" mvno_match_data="" mvno_type="" numeric="714010" vmnumber="*111" vmtag="voicemail"/>
+    <voicemail carrier="Caricel" mvno_match_data="" mvno_type="" numeric="338020" vmnumber="123" vmtag="voicemail"/>
+    <voicemail carrier="CBL" mvno_match_data="" mvno_type="" numeric="36449" vmnumber="500" vmtag="voicemail"/>
+    <voicemail carrier="DIGICEL" mvno_match_data="" mvno_type="" numeric="36302" vmnumber="144" vmtag="voicemail"/>
+    <voicemail carrier="DIGICEL" mvno_match_data="" mvno_type="" numeric="36269" vmnumber="144" vmtag="voicemail"/>
+    <voicemail carrier="DIGICEL" mvno_match_data="" mvno_type="" numeric="348770" vmnumber="#123" vmtag="voicemail"/>
+    <voicemail carrier="DIGICEL" mvno_match_data="" mvno_type="" numeric="70602" vmnumber="*123" vmtag="voicemail"/>
+    <voicemail carrier="DIGICEL" mvno_match_data="" mvno_type="" numeric="34020" vmnumber="660" vmtag="voicemail"/>
+    <voicemail carrier="DIGICEL" mvno_match_data="" mvno_type="" numeric="73801" vmnumber="123" vmtag="voicemail"/>
+    <voicemail carrier="DIGICEL" mvno_match_data="" mvno_type="" numeric="37201" vmnumber="123" vmtag="voicemail"/>
+    <voicemail carrier="DIGICEL" mvno_match_data="" mvno_type="" numeric="714040" vmnumber="123" vmtag="voicemail"/>
+    <voicemail carrier="DIGICEL" mvno_match_data="" mvno_type="" numeric="71404" vmnumber="123" vmtag="voicemail"/>
+    <voicemail carrier="DIGICEL" mvno_match_data="" mvno_type="" numeric="74603" vmnumber="143" vmtag="voicemail"/>
+    <voicemail carrier="DIGICEL" mvno_match_data="" mvno_type="" numeric="374130" vmnumber="123" vmtag="voicemail"/>
+    <voicemail carrier="DIGICEL" mvno_match_data="" mvno_type="" numeric="37413" vmnumber="123" vmtag="voicemail"/>
+    <voicemail carrier="IUSACELL" mvno_match_data="" mvno_type="" numeric="33405" vmnumber="*86" vmtag="voicemail"/>
+    <voicemail carrier="CBL" mvno_match_data="" mvno_type="" numeric="364490" vmnumber="500" vmtag="voicemail"/>
+    <voicemail carrier="Open Mobile" mvno_match_data="" mvno_type="" numeric="330120" vmnumber="123" vmtag="voicemail"/>
+    <voicemail carrier="Open Mobile" mvno_match_data="" mvno_type="" numeric="33000" vmnumber="123" vmtag="voicemail"/>
+    <voicemail carrier="Ozone" mvno_match_data="" mvno_type="" numeric="342800" vmnumber="*123" vmtag="voicemail"/>
+    <voicemail carrier="Telcel" mvno_match_data="" mvno_type="" numeric="33420" vmnumber="*86" vmtag="voicemail"/>
+    <voicemail carrier="Claro" mvno_match_data="" mvno_type="" numeric="72405" vmnumber="*100" vmtag="voicemail"/>
+    <voicemail carrier="VIVO" mvno_match_data="" mvno_type="" numeric="72406" vmnumber="*555" vmtag="voicemail"/>
+    <voicemail carrier="VIVO" mvno_match_data="" mvno_type="" numeric="72410" vmnumber="*555" vmtag="voicemail"/>
+    <voicemail carrier="VIVO" mvno_match_data="" mvno_type="" numeric="72411" vmnumber="*555" vmtag="voicemail"/>
+    <voicemail carrier="VIVO" mvno_match_data="" mvno_type="" numeric="72423" vmnumber="*555" vmtag="voicemail"/>
+    <voicemail carrier="Tim" mvno_match_data="" mvno_type="" numeric="72402" vmnumber="*100" vmtag="voicemail"/>
+    <voicemail carrier="Tim" mvno_match_data="" mvno_type="" numeric="72403" vmnumber="*100" vmtag="voicemail"/>
+    <voicemail carrier="Tim" mvno_match_data="" mvno_type="" numeric="72404" vmnumber="*100" vmtag="voicemail"/>
+    <voicemail carrier="Oi" mvno_match_data="" mvno_type="" numeric="72431" vmnumber="*100" vmtag="voicemail"/>
+    <voicemail carrier="AmazoniaC" mvno_match_data="" mvno_type="" numeric="72424" vmnumber="*100" vmtag="voicemail"/>
+    <voicemail carrier="Oi" mvno_match_data="" mvno_type="" numeric="72416" vmnumber="*100" vmtag="voicemail"/>
+    <voicemail carrier="Algar Telecom" mvno_match_data="" mvno_type="" numeric="72432" vmnumber="*100" vmtag="voicemail"/>
+    <voicemail carrier="Algar Telecom" mvno_match_data="" mvno_type="" numeric="72433" vmnumber="*100" vmtag="voicemail"/>
+    <voicemail carrier="Algar Telecom" mvno_match_data="" mvno_type="" numeric="72434" vmnumber="*100" vmtag="voicemail"/>
+    <voicemail carrier="Nextel" mvno_match_data="" mvno_type="" numeric="72439" vmnumber="*100" vmtag="voicemail"/>
+    <voicemail carrier="Claro AR" mvno_match_data="" mvno_type="" numeric="722310" vmnumber="*2747" vmtag="voicemail"/>
+    <voicemail carrier="personal" mvno_match_data="" mvno_type="" numeric="72234" vmnumber="*555" vmtag="voicemail"/>
+    <voicemail carrier="personal" mvno_match_data="" mvno_type="" numeric="722341" vmnumber="*555" vmtag="voicemail"/>
+    <voicemail carrier="Movistar" mvno_match_data="" mvno_type="" numeric="72207" vmnumber="555" vmtag="voicemail"/>
+    <voicemail carrier="Tigo" mvno_match_data="" mvno_type="" numeric="74404" vmnumber="*98" vmtag="voicemail"/>
+    <voicemail carrier="Claro" mvno_match_data="" mvno_type="" numeric="74402" vmnumber="555" vmtag="voicemail"/>
+    <voicemail carrier="Personal" mvno_match_data="" mvno_type="" numeric="74405" vmnumber="*555" vmtag="voicemail"/>
+    <voicemail carrier="Vox" mvno_match_data="" mvno_type="" numeric="74401" vmnumber="*222" vmtag="voicemail"/>
+    <voicemail carrier="Claro" mvno_match_data="" mvno_type="" numeric="74810" vmnumber="555" vmtag="voicemail"/>
+    <voicemail carrier="Movistar" mvno_match_data="" mvno_type="" numeric="74807" vmnumber="6684" vmtag="voicemail"/>
+    <voicemail carrier="Movistar" mvno_match_data="" mvno_type="" numeric="73002" vmnumber="500" vmtag="voicemail"/>
+    <voicemail carrier="entel" mvno_match_data="" mvno_type="" numeric="73001" vmnumber="#123" vmtag="voicemail"/>
+    <voicemail carrier="entel" mvno_match_data="" mvno_type="" numeric="73010" vmnumber="#123" vmtag="voicemail"/>
+    <voicemail carrier="Claro" mvno_match_data="" mvno_type="" numeric="73003" vmnumber="*20" vmtag="voicemail"/>
+    <voicemail carrier="vtr" mvno_match_data="" mvno_type="" numeric="73008" vmnumber="#111" vmtag="voicemail"/>
+    <voicemail carrier="Movistar" mvno_match_data="" mvno_type="" numeric="71606" vmnumber="*169" vmtag="voicemail"/>
+    <voicemail carrier="Claro" mvno_match_data="" mvno_type="" numeric="71610" vmnumber="131" vmtag="voicemail"/>
+    <voicemail carrier="entel" mvno_match_data="" mvno_type="" numeric="71617" vmnumber="124" vmtag="voicemail"/>
+    <voicemail carrier="TIGO" mvno_match_data="" mvno_type="" numeric="73603" vmnumber="*123" vmtag="voicemail"/>
+    <voicemail carrier="Entel" mvno_match_data="" mvno_type="" numeric="73602" vmnumber="106" vmtag="voicemail"/>
+    <voicemail carrier="Nuevatel" mvno_match_data="" mvno_type="" numeric="73601" vmnumber="106" vmtag="voicemail"/>
+    <voicemail carrier="vtr" mvno_match_data="" mvno_type="" numeric="73005" vmnumber="#111" vmtag="voicemail"/>
+    <voicemail carrier="GTD" mvno_match_data="" mvno_type="" numeric="73007" vmnumber="100" vmtag="voicemail"/>
+    <voicemail carrier="Bitel" mvno_match_data="" mvno_type="" numeric="71615" vmnumber="154" vmtag="voicemail"/>
+    <voicemail carrier="WOM" mvno_match_data="" mvno_type="" numeric="73009" vmnumber="+56964109999" vmtag="voicemail"/>
+    <voicemail carrier="Antel" mvno_match_data="" mvno_type="" numeric="74801" vmnumber="*66" vmtag="voicemail"/>
+    <voicemail carrier="Cotas" mvno_match_data="" mvno_type="" numeric="73604" vmnumber="106" vmtag="voicemail"/>
+    <voicemail carrier="Correios" mvno_match_data="" mvno_type="" numeric="72417" vmnumber="*289" vmtag="voicemail"/>
+    <voicemail carrier="Porto Seguro Conecta" mvno_match_data="" mvno_type="" numeric="72454" vmnumber="*100" vmtag="voicemail"/>
+    <voicemail carrier="Mobile Tele Systems LLC" mvno_match_data="" mvno_type="" numeric="25702" vmnumber="0881" vmtag="voicemail"/>
+    <voicemail carrier="FE Velcom" mvno_match_data="" mvno_type="" numeric="25701" vmnumber="+375296000441" vmtag="voicemail"/>
+    <voicemail carrier="Life" mvno_match_data="" mvno_type="" numeric="25704" vmnumber="985" vmtag="voicemail"/>
+    <voicemail carrier="VIP" mvno_match_data="" mvno_type="" numeric="25099" vmnumber="0600" vmtag="voicemail"/>
+    <voicemail carrier="MegaFon" mvno_match_data="" mvno_type="" numeric="25002" vmnumber="0525" vmtag="voicemail"/>
+    <voicemail carrier="MTS" mvno_match_data="" mvno_type="" numeric="25001" vmnumber="0860" vmtag="voicemail"/>
+    <voicemail carrier="BeeLine / ArmenTel" mvno_match_data="" mvno_type="" numeric="28301" vmnumber="0600" vmtag="voicemail"/>
+    <voicemail carrier="VivaCell / MTS" mvno_match_data="" mvno_type="" numeric="28305" vmnumber="130" vmtag="voicemail"/>
+    <voicemail carrier="Orange Armenia" mvno_match_data="" mvno_type="" numeric="28310" vmnumber="444" vmtag="voicemail"/>
+    <voicemail carrier="TELE2" mvno_match_data="" mvno_type="" numeric="25020" vmnumber="600" vmtag="voicemail"/>
+    <voicemail carrier="Docomo" mvno_match_data="" mvno_type="" numeric="44010" vmnumber="1417" vmtag="voicemail"/>
+    <voicemail carrier="Emobile" mvno_match_data="" mvno_type="" numeric="44000" vmnumber="1416" vmtag="voicemail"/>
+    <voicemail carrier="Softbank" mvno_match_data="" mvno_type="" numeric="44020" vmnumber="1416" vmtag="voicemail"/>
+    <voicemail carrier="KDDI" mvno_match_data="" mvno_type="" numeric="44051" vmnumber="1417" vmtag="voicemail"/>
+    <voicemail carrier="T-Mobile A" mvno_match_data="" mvno_type="" numeric="23203" vmnumber="+436762200" vmtag=""/>
+    <voicemail carrier="3 AT" mvno_match_data="" mvno_type="" numeric="23210" vmnumber="" vmtag=""/>
+    <voicemail carrier="telering" mvno_match_data="" mvno_type="" numeric="23207" vmnumber="+4365011000" vmtag=""/>
+    <voicemail carrier="T-Mobile.pl" mvno_match_data="" mvno_type="" numeric="26002" vmnumber="+48602950000" vmtag=""/>
+    <voicemail carrier="Telenor DK" mvno_match_data="" mvno_type="" numeric="23802" vmnumber="004560500000" vmtag=""/>
+    <voicemail carrier="3 DK" mvno_match_data="" mvno_type="" numeric="23806" vmnumber="004531133333" vmtag=""/>
+    <voicemail carrier="Telia DK" mvno_match_data="" mvno_type="" numeric="23820" vmnumber="004528184000" vmtag=""/>
+    <voicemail carrier="TDC DK" mvno_match_data="" mvno_type="" numeric="23801" vmnumber="004520171717" vmtag=""/>
+    <voicemail carrier="T-Mobile CZ" mvno_match_data="" mvno_type="" numeric="23001" vmnumber="+420603123311" vmtag=""/>
+    <voicemail carrier="Vodafone CZ" mvno_match_data="" mvno_type="" numeric="23003" vmnumber="+420608989898" vmtag=""/>
+    <voicemail carrier="HT HR" mvno_match_data="" mvno_type="" numeric="21901" vmnumber="+38598151100" vmtag=""/>
+    <voicemail carrier="TELEKOM.RO" mvno_match_data="" mvno_type="" numeric="22603" vmnumber="+40766177177" vmtag=""/>
+    <voicemail carrier="TELEKOM.RO" mvno_match_data="" mvno_type="" numeric="22606" vmnumber="+40766177177" vmtag=""/>
+    <voicemail carrier="Vodafone RO" mvno_match_data="" mvno_type="" numeric="22601" vmnumber="+40722033334" vmtag=""/>
+    <voicemail carrier="Telekom MK" mvno_match_data="" mvno_type="" numeric="29401" vmnumber="+38970121212" vmtag=""/>
+    <voicemail carrier="Network Norway" mvno_match_data="" mvno_type="" numeric="24205" vmnumber="" vmtag=""/>
+    <voicemail carrier="Telia" mvno_match_data="" mvno_type="" numeric="24202" vmnumber="" vmtag=""/>
+    <voicemail carrier="Tele2" mvno_match_data="" mvno_type="" numeric="24007" vmnumber="" vmtag=""/>
+    <voicemail carrier="Telenor SE" mvno_match_data="" mvno_type="" numeric="24008" vmnumber="" vmtag=""/>
+    <voicemail carrier="Telia" mvno_match_data="" mvno_type="" numeric="24001" vmnumber="" vmtag=""/>
+    <voicemail carrier="Telekom SK" mvno_match_data="" mvno_type="" numeric="23102" vmnumber="+421903333999" vmtag=""/>
+    <voicemail carrier="vodafone GR" mvno_match_data="" mvno_type="" numeric="20205" vmnumber="121" vmtag=""/>
+    <voicemail carrier="GR COSMOTE" mvno_match_data="" mvno_type="" numeric="20201" vmnumber="+306971000123" vmtag=""/>
+    <voicemail carrier="Telekom HU" mvno_match_data="" mvno_type="" numeric="21630" vmnumber="+36309888444" vmtag=""/>
+    <voicemail carrier="vodafone HU" mvno_match_data="" mvno_type="" numeric="21670" vmnumber="170" vmtag=""/>
+    <voicemail carrier="A1 SI" mvno_match_data="" mvno_type="" numeric="29340" vmnumber="" vmtag=""/>
+    <voicemail carrier="yesss!" mvno_match_data="" mvno_type="" numeric="23212" vmnumber="" vmtag=""/>
+    <voicemail carrier="Telekom.me" mvno_match_data="" mvno_type="" numeric="29702" vmnumber="+3826714077" vmtag=""/>
+    <voicemail carrier="Vodafone AL" mvno_match_data="" mvno_type="" numeric="27602" vmnumber="135" vmtag=""/>
+    <voicemail carrier="Telekom.me" mvno_match_data="" mvno_type="" numeric="22004" vmnumber="+3826714077" vmtag=""/>
+    <voicemail carrier="Vodacom SA" mvno_match_data="" mvno_type="" numeric="65501" vmnumber="132" vmtag=""/>
+    <voicemail carrier="RE FREE" mvno_match_data="" mvno_type="" numeric="64703" vmnumber="" vmtag=""/>
+    <voicemail carrier="CSL" mvno_match_data="" mvno_type="" numeric="45400" vmnumber="" vmtag=""/>
+    <voicemail carrier="3 HK" mvno_match_data="" mvno_type="" numeric="45403" vmnumber="" vmtag=""/>
+    <voicemail carrier="CSL" mvno_match_data="" mvno_type="" numeric="45402" vmnumber="" vmtag=""/>
+    <voicemail carrier="CSL" mvno_match_data="" mvno_type="" numeric="45418" vmnumber="" vmtag=""/>
+    <voicemail carrier="YES OPTUS" mvno_match_data="" mvno_type="" numeric="50502" vmnumber="" vmtag=""/>
+    <voicemail carrier="GLOBE" mvno_match_data="" mvno_type="" numeric="51502" vmnumber="" vmtag=""/>
+    <voicemail carrier="Singtel" mvno_match_data="" mvno_type="" numeric="52501" vmnumber="1389" vmtag=""/>
+    <voicemail carrier="StarHub" mvno_match_data="" mvno_type="" numeric="52505" vmnumber="" vmtag=""/>
+    <voicemail carrier="StarHub" mvno_match_data="" mvno_type="" numeric="52505" vmnumber="" vmtag=""/>
+    <voicemail carrier="Spark NZ" mvno_match_data="" mvno_type="" numeric="53005" vmnumber="+6483083210" vmtag=""/>
+    <voicemail carrier="Digicel" mvno_match_data="" mvno_type="" numeric="54202" vmnumber="555" vmtag=""/>
+    <voicemail carrier="2degrees" mvno_match_data="" mvno_type="" numeric="53024" vmnumber="+64222022002" vmtag=""/>
+    <voicemail carrier="KPN" mvno_match_data="" mvno_type="" numeric="20408" vmnumber="1233" vmtag=""/>
+    <voicemail carrier="vodafone NL" mvno_match_data="" mvno_type="" numeric="20404" vmnumber="+31654501233" vmtag=""/>
+    <voicemail carrier="T-Mobile NL" mvno_match_data="" mvno_type="" numeric="20416" vmnumber="+31624001233" vmtag=""/>
+    <voicemail carrier="T-Mobile NL" mvno_match_data="" mvno_type="" numeric="20420" vmnumber="+31624001233" vmtag=""/>
+    <voicemail carrier="Proximus" mvno_match_data="" mvno_type="" numeric="20601" vmnumber="+32475151969" vmtag=""/>
+    <voicemail carrier="F SFR" mvno_match_data="" mvno_type="" numeric="20810" vmnumber="123" vmtag=""/>
+    <voicemail carrier="Free" mvno_match_data="" mvno_type="" numeric="20815" vmnumber="" vmtag=""/>
+    <voicemail carrier="Orange F" mvno_match_data="" mvno_type="" numeric="20801" vmnumber="888" vmtag=""/>
+    <voicemail carrier="vodafone ES" mvno_match_data="" mvno_type="" numeric="21401" vmnumber="22177" vmtag=""/>
+    <voicemail carrier="JAZZTEL" mvno_match_data="" mvno_type="" numeric="21421" vmnumber="1222" vmtag=""/>
+    <voicemail carrier="Movistar" mvno_match_data="" mvno_type="" numeric="21407" vmnumber="123" vmtag=""/>
+    <voicemail carrier="simyo" mvno_match_data="" mvno_type="" numeric="21419" vmnumber="1213" vmtag=""/>
+    <voicemail carrier="vodafone IT" mvno_match_data="" mvno_type="" numeric="22210" vmnumber="42020" vmtag=""/>
+    <voicemail carrier="3 ITA" mvno_match_data="" mvno_type="" numeric="22299" vmnumber="4133" vmtag=""/>
+    <voicemail carrier="I TIM" mvno_match_data="" mvno_type="" numeric="22201" vmnumber="41901" vmtag=""/>
+    <voicemail carrier="EE" mvno_match_data="" mvno_type="" numeric="23430" vmnumber="222" vmtag=""/>
+    <voicemail carrier="3" mvno_match_data="" mvno_type="" numeric="23420" vmnumber="+447782333123" vmtag=""/>
+    <voicemail carrier="vodafone UK" mvno_match_data="" mvno_type="" numeric="23415" vmnumber="121" vmtag=""/>
+    <voicemail carrier="Vodafone.de" mvno_match_data="" mvno_type="" numeric="26202" vmnumber="5500" vmtag=""/>
+    <voicemail carrier="Telekom.de" mvno_match_data="" mvno_type="" numeric="26201" vmnumber="3311" vmtag=""/>
+    <voicemail carrier="o2 - de" mvno_match_data="" mvno_type="" numeric="26203" vmnumber="" vmtag=""/>
+    <voicemail carrier="vodafone P" mvno_match_data="" mvno_type="" numeric="26801" vmnumber="123" vmtag=""/>
+    <voicemail carrier="vodafone IE" mvno_match_data="" mvno_type="" numeric="27201" vmnumber="171" vmtag=""/>
+    <voicemail carrier="vodafone MT" mvno_match_data="" mvno_type="" numeric="27801" vmnumber="+35699909909" vmtag=""/>
+    <voicemail carrier="o2 - de" mvno_match_data="" mvno_type="" numeric="26207" vmnumber="" vmtag=""/>
+    <voicemail carrier="AISatSea" mvno_match_data="" mvno_type="" numeric="90145" vmnumber="" vmtag=""/>
+    <voicemail carrier="TURKCELL" mvno_match_data="" mvno_type="" numeric="28601" vmnumber="905327533111" vmtag=""/>
+    <voicemail carrier="VODAFONE TR" mvno_match_data="" mvno_type="" numeric="28602" vmnumber="+905427542000" vmtag=""/>
+    <voicemail carrier="T-Mobile" mvno_match_data="" mvno_type="" numeric="310160" vmnumber="123" vmtag=""/>
+    <voicemail carrier="T-Mobile" mvno_match_data="" mvno_type="" numeric="310210" vmnumber="123" vmtag=""/>
+    <voicemail carrier="T-Mobile" mvno_match_data="" mvno_type="" numeric="310230" vmnumber="123" vmtag=""/>
+    <voicemail carrier="T-Mobile" mvno_match_data="" mvno_type="" numeric="310240" vmnumber="123" vmtag=""/>
+    <voicemail carrier="T-Mobile" mvno_match_data="" mvno_type="" numeric="310250" vmnumber="123" vmtag=""/>
+    <voicemail carrier="T-Mobile" mvno_match_data="" mvno_type="" numeric="310260" vmnumber="123" vmtag=""/>
+    <voicemail carrier="T-Mobile" mvno_match_data="" mvno_type="" numeric="310270" vmnumber="123" vmtag=""/>
+    <voicemail carrier="T-Mobile" mvno_match_data="" mvno_type="" numeric="310300" vmnumber="123" vmtag=""/>
+    <voicemail carrier="T-Mobile" mvno_match_data="" mvno_type="" numeric="310310" vmnumber="123" vmtag=""/>
+    <voicemail carrier="T-Mobile" mvno_match_data="" mvno_type="" numeric="310490" vmnumber="123" vmtag=""/>
+    <voicemail carrier="T-Mobile" mvno_match_data="" mvno_type="" numeric="310530" vmnumber="123" vmtag=""/>
+    <voicemail carrier="T-Mobile" mvno_match_data="" mvno_type="" numeric="310580" vmnumber="123" vmtag=""/>
+    <voicemail carrier="T-Mobile" mvno_match_data="" mvno_type="" numeric="310590" vmnumber="123" vmtag=""/>
+    <voicemail carrier="T-Mobile" mvno_match_data="" mvno_type="" numeric="310640" vmnumber="123" vmtag=""/>
+    <voicemail carrier="T-Mobile" mvno_match_data="" mvno_type="" numeric="310660" vmnumber="123" vmtag=""/>
+    <voicemail carrier="T-Mobile" mvno_match_data="" mvno_type="" numeric="310800" vmnumber="123" vmtag=""/>
+    <voicemail carrier="T-Mobile" mvno_match_data="" mvno_type="" numeric="310220" vmnumber="123" vmtag=""/>
+    <voicemail carrier="T-Mobile" mvno_match_data="" mvno_type="" numeric="310200" vmnumber="123" vmtag=""/>
+    <voicemail carrier="Rogers" mvno_match_data="" mvno_type="" numeric="302720" vmnumber="" vmtag=""/>
+    <voicemail carrier="AT&amp;T" mvno_match_data="" mvno_type="" numeric="310410" vmnumber="" vmtag=""/>
+    <voicemail carrier="Duet" mvno_match_data="" mvno_type="" numeric="311530" vmnumber="" vmtag=""/>
+    <voicemail carrier="Mosiac" mvno_match_data="" mvno_type="" numeric="311500" vmnumber="" vmtag=""/>
+    <voicemail carrier="Fido" mvno_match_data="" mvno_type="" numeric="302370" vmnumber="" vmtag=""/>
+    <voicemail carrier="AT&amp;T" mvno_match_data="" mvno_type="" numeric="310380" vmnumber="" vmtag=""/>
+    <voicemail carrier="" mvno_match_data="" mvno_type="" numeric="311500" vmnumber="" vmtag=""/>
+    <voicemail carrier="" mvno_match_data="" mvno_type="" numeric="311530" vmnumber="" vmtag=""/>
+    <voicemail carrier="" mvno_match_data="" mvno_type="" numeric="311500" vmnumber="" vmtag=""/>
+    <voicemail carrier="Movistar" mvno_match_data="" mvno_type="" numeric="334030" vmnumber="*86" vmtag=""/>
+    <voicemail carrier="Movistar" mvno_match_data="" mvno_type="" numeric="33403" vmnumber="*86" vmtag=""/>
+    <voicemail carrier="TIGO" mvno_match_data="" mvno_type="" numeric="732103" vmnumber="*123" vmtag=""/>
+    <voicemail carrier="TIGO" mvno_match_data="" mvno_type="" numeric="732111" vmnumber="*123" vmtag=""/>
+    <voicemail carrier="Movistar" mvno_match_data="" mvno_type="" numeric="732123" vmnumber="*123" vmtag=""/>
+    <voicemail carrier="Movistar" mvno_match_data="" mvno_type="" numeric="70403" vmnumber="*86" vmtag=""/>
+    <voicemail carrier="FLOW" mvno_match_data="" mvno_type="" numeric="346140" vmnumber="123" vmtag=""/>
+    <voicemail carrier="FLOW" mvno_match_data="" mvno_type="" numeric="34614" vmnumber="123" vmtag=""/>
+    <voicemail carrier="FLOW" mvno_match_data="" mvno_type="" numeric="338180" vmnumber="123" vmtag=""/>
+    <voicemail carrier="FLOW" mvno_match_data="" mvno_type="" numeric="33818" vmnumber="123" vmtag=""/>
+    <voicemail carrier="FLOW" mvno_match_data="" mvno_type="" numeric="365840" vmnumber="123" vmtag=""/>
+    <voicemail carrier="FLOW" mvno_match_data="" mvno_type="" numeric="36584" vmnumber="123" vmtag=""/>
+    <voicemail carrier="FLOW" mvno_match_data="" mvno_type="" numeric="344920" vmnumber="123" vmtag=""/>
+    <voicemail carrier="FLOW" mvno_match_data="" mvno_type="" numeric="34492" vmnumber="123" vmtag=""/>
+    <voicemail carrier="FLOW" mvno_match_data="" mvno_type="" numeric="342600" vmnumber="123" vmtag=""/>
+    <voicemail carrier="FLOW" mvno_match_data="" mvno_type="" numeric="34260" vmnumber="123" vmtag=""/>
+    <voicemail carrier="FLOW" mvno_match_data="" mvno_type="" numeric="348170" vmnumber="123" vmtag=""/>
+    <voicemail carrier="FLOW" mvno_match_data="" mvno_type="" numeric="34817" vmnumber="123" vmtag=""/>
+    <voicemail carrier="FLOW" mvno_match_data="" mvno_type="" numeric="352110" vmnumber="123" vmtag=""/>
+    <voicemail carrier="FLOW" mvno_match_data="" mvno_type="" numeric="35211" vmnumber="123" vmtag=""/>
+    <voicemail carrier="FLOW" mvno_match_data="" mvno_type="" numeric="354860" vmnumber="123" vmtag=""/>
+    <voicemail carrier="FLOW" mvno_match_data="" mvno_type="" numeric="35486" vmnumber="123" vmtag=""/>
+    <voicemail carrier="FLOW" mvno_match_data="" mvno_type="" numeric="356110" vmnumber="123" vmtag=""/>
+    <voicemail carrier="FLOW" mvno_match_data="" mvno_type="" numeric="35611" vmnumber="123" vmtag=""/>
+    <voicemail carrier="FLOW" mvno_match_data="" mvno_type="" numeric="358110" vmnumber="123" vmtag=""/>
+    <voicemail carrier="FLOW" mvno_match_data="" mvno_type="" numeric="35811" vmnumber="123" vmtag=""/>
+    <voicemail carrier="FLOW" mvno_match_data="" mvno_type="" numeric="360110" vmnumber="123" vmtag=""/>
+    <voicemail carrier="FLOW" mvno_match_data="" mvno_type="" numeric="36011" vmnumber="123" vmtag=""/>
+    <voicemail carrier="FLOW" mvno_match_data="" mvno_type="" numeric="376350" vmnumber="123" vmtag=""/>
+    <voicemail carrier="FLOW" mvno_match_data="" mvno_type="" numeric="37635" vmnumber="123" vmtag=""/>
+    <voicemail carrier="AISatSea" mvno_match_data="" mvno_type="" numeric="90145" vmnumber="" vmtag=""/>
+    <voicemail carrier="DIGICEL" mvno_match_data="" mvno_type="" numeric="36269" vmnumber="144" vmtag=""/>
+    <voicemail carrier="DIGICEL" mvno_match_data="" mvno_type="" numeric="36269" vmnumber="144" vmtag=""/>
+    <voicemail carrier="entel" mvno_match_data="" mvno_type="" numeric="73001" vmnumber="#123" vmtag=""/>
+    <voicemail carrier="GTD Movil" mvno_match_data="" mvno_type="" numeric="73007" vmnumber="100" vmtag=""/>
+    <voicemail carrier="Oister DK" mvno_match_data="23806009" mvno_type="imsi" numeric="23806" vmnumber="" vmtag=""/>
+    <voicemail carrier="Call me" mvno_match_data="2382094" mvno_type="imsi" numeric="23820" vmnumber="" vmtag=""/>
+    <voicemail carrier="DLG Tele" mvno_match_data="2382093" mvno_type="imsi" numeric="23820" vmnumber="" vmtag=""/>
+    <voicemail carrier="YouSee" mvno_match_data="23801374" mvno_type="imsi" numeric="23801" vmnumber="" vmtag=""/>
+    <voicemail carrier="Fullrate" mvno_match_data="23801343" mvno_type="imsi" numeric="23801" vmnumber="" vmtag=""/>
+    <voicemail carrier="Telmore" mvno_match_data="23801381" mvno_type="imsi" numeric="23801" vmnumber="" vmtag=""/>
+    <voicemail carrier="Lebara" mvno_match_data="2380228" mvno_type="imsi" numeric="23802" vmnumber="004550101515" vmtag=""/>
+    <voicemail carrier="TDC SE" mvno_match_data="2380172" mvno_type="imsi" numeric="23801" vmnumber="0046767202020" vmtag=""/>
+    <voicemail carrier="TDC NO" mvno_match_data="2380171" mvno_type="imsi" numeric="23801" vmnumber="004794505050" vmtag=""/>
+    <voicemail carrier="UPC HU" mvno_match_data="204080753" mvno_type="imsi" numeric="20408" vmnumber="" vmtag=""/>
+    <voicemail carrier="Comviq" mvno_match_data="240077" mvno_type="imsi" numeric="24007" vmnumber="" vmtag=""/>
+    <voicemail carrier="Comviq" mvno_match_data="240078" mvno_type="imsi" numeric="24007" vmnumber="" vmtag=""/>
+    <voicemail carrier="Glocalnet" mvno_match_data="240080635" mvno_type="imsi" numeric="24008" vmnumber="" vmtag=""/>
+    <voicemail carrier="Glocalnet" mvno_match_data="240080735" mvno_type="imsi" numeric="24008" vmnumber="" vmtag=""/>
+    <voicemail carrier="YouSee" mvno_match_data="23801362" mvno_type="imsi" numeric="23801" vmnumber="" vmtag=""/>
+    <voicemail carrier="CBB" mvno_match_data="2380225" mvno_type="imsi" numeric="23802" vmnumber="" vmtag=""/>
+    <voicemail carrier="CBB" mvno_match_data="2380227" mvno_type="imsi" numeric="23802" vmnumber="" vmtag=""/>
+    <voicemail carrier="BiBoB" mvno_match_data="2380280" mvno_type="imsi" numeric="23802" vmnumber="" vmtag=""/>
+    <voicemail carrier="UPC AT" mvno_match_data="0x75617431" mvno_type="gid" numeric="23213" vmnumber="" vmtag=""/>
+    <voicemail carrier="Halebop" mvno_match_data="24001704" mvno_type="imsi" numeric="24001" vmnumber="" vmtag=""/>
+    <voicemail carrier="Halebop" mvno_match_data="24001714" mvno_type="imsi" numeric="24001" vmnumber="" vmtag=""/>
+    <voicemail carrier="" mvno_match_data="23207718" mvno_type="imsi" numeric="23207" vmnumber="" vmtag=""/>
+    <voicemail carrier="" mvno_match_data="2320776" mvno_type="imsi" numeric="23207" vmnumber="" vmtag=""/>
+    <voicemail carrier="" mvno_match_data="23207799" mvno_type="imsi" numeric="23207" vmnumber="" vmtag=""/>
+    <voicemail carrier="One Call" mvno_match_data="2420507" mvno_type="imsi" numeric="24205" vmnumber="" vmtag=""/>
+    <voicemail carrier="One Call" mvno_match_data="2420508" mvno_type="imsi" numeric="24205" vmnumber="" vmtag=""/>
+    <voicemail carrier="My Call" mvno_match_data="2420595" mvno_type="imsi" numeric="24205" vmnumber="" vmtag=""/>
+    <voicemail carrier="Heyah" mvno_match_data="heyah" mvno_type="spn" numeric="26002" vmnumber="+48602950000" vmtag=""/>
+    <voicemail carrier="Ge org!" mvno_match_data="Ge org!" mvno_type="spn" numeric="23212" vmnumber="" vmtag=""/>
+    <voicemail carrier="Chess" mvno_match_data="Chess" mvno_type="spn" numeric="24202" vmnumber="" vmtag=""/>
+    <voicemail carrier="T-Mobile A" mvno_match_data="0x01" mvno_type="gid" numeric="23203" vmnumber="+436762200" vmtag=""/>
+    <voicemail carrier="telering" mvno_match_data="0x07" mvno_type="gid" numeric="23207" vmnumber="+4365011000" vmtag=""/>
+    <voicemail carrier="telering" mvno_match_data="0xFF" mvno_type="gid" numeric="23207" vmnumber="+4365011000" vmtag=""/>
+    <voicemail carrier="T-Mobile.pl" mvno_match_data="0x11" mvno_type="gid" numeric="26002" vmnumber="+48602950000" vmtag=""/>
+    <voicemail carrier="T-Mobile.pl" mvno_match_data="0x12" mvno_type="gid" numeric="26002" vmnumber="+48602950000" vmtag=""/>
+    <voicemail carrier="T-Mobile.pl" mvno_match_data="0x16" mvno_type="gid" numeric="26002" vmnumber="+48602950000" vmtag=""/>
+    <voicemail carrier="T-Mobile.pl" mvno_match_data="0x17" mvno_type="gid" numeric="26002" vmnumber="+48602950000" vmtag=""/>
+    <voicemail carrier="T-Mobile.pl" mvno_match_data="0x21" mvno_type="gid" numeric="26002" vmnumber="+48602950000" vmtag=""/>
+    <voicemail carrier="T-Mobile.pl" mvno_match_data="0x22" mvno_type="gid" numeric="26002" vmnumber="+48602950000" vmtag=""/>
+    <voicemail carrier="T-Mobile.pl" mvno_match_data="0x24" mvno_type="gid" numeric="26002" vmnumber="+48602950000" vmtag=""/>
+    <voicemail carrier="T-Mobile.pl" mvno_match_data="0x26" mvno_type="gid" numeric="26002" vmnumber="+48602950000" vmtag=""/>
+    <voicemail carrier="T-Mobile.pl" mvno_match_data="T-Mobile.pl" mvno_type="spn" numeric="26002" vmnumber="+48602950000" vmtag=""/>
+    <voicemail carrier="T-Mobile.pl" mvno_match_data="T-Mobile.pl Q" mvno_type="spn" numeric="26002" vmnumber="+48602950000" vmtag=""/>
+    <voicemail carrier="Heyah" mvno_match_data="0x23" mvno_type="gid" numeric="26002" vmnumber="+48602950000" vmtag=""/>
+    <voicemail carrier="GR COSMOTE" mvno_match_data="0xFF" mvno_type="gid" numeric="20201" vmnumber="+306971000123" vmtag=""/>
+    <voicemail carrier="T-Mobile CZ" mvno_match_data="T-Mobile CZ" mvno_type="spn" numeric="23001" vmnumber="+420603123311" vmtag=""/>
+    <voicemail carrier="HT HR" mvno_match_data="0x01" mvno_type="gid" numeric="21901" vmnumber="+38598151100" vmtag=""/>
+    <voicemail carrier="HT HR" mvno_match_data="0x02" mvno_type="gid" numeric="21901" vmnumber="+38598151100" vmtag=""/>
+    <voicemail carrier="HT HR" mvno_match_data="0x03" mvno_type="gid" numeric="21901" vmnumber="+38598151100" vmtag=""/>
+    <voicemail carrier="HT HR" mvno_match_data="0x99" mvno_type="gid" numeric="21901" vmnumber="+38598151100" vmtag=""/>
+    <voicemail carrier="HT HR" mvno_match_data="T-Mobile HR" mvno_type="spn" numeric="21901" vmnumber="+38598151100" vmtag=""/>
+    <voicemail carrier="HT HR" mvno_match_data="HT HR" mvno_type="spn" numeric="21901" vmnumber="+38598151100" vmtag=""/>
+    <voicemail carrier="Telekom HU" mvno_match_data="Telekom HU" mvno_type="spn" numeric="21630" vmnumber="+36309888444" vmtag=""/>
+    <voicemail carrier="Telekom HU" mvno_match_data="T-Mobile H" mvno_type="spn" numeric="21630" vmnumber="+36309888444" vmtag=""/>
+    <voicemail carrier="Telekom MK" mvno_match_data="0xFF" mvno_type="gid" numeric="29401" vmnumber="+38970121212" vmtag=""/>
+    <voicemail carrier="Telekom MK" mvno_match_data="Telekom.mk" mvno_type="spn" numeric="29401" vmnumber="+38970121212" vmtag=""/>
+    <voicemail carrier="Telekom.me" mvno_match_data="Telekom.me" mvno_type="spn" numeric="29702" vmnumber="+3826714077" vmtag=""/>
+    <voicemail carrier="Telekom SK" mvno_match_data="Telekom SK" mvno_type="spn" numeric="23102" vmnumber="+421903333999" vmtag=""/>
+    <voicemail carrier="Telekom SK" mvno_match_data="Juro.sk" mvno_type="spn" numeric="23102" vmnumber="+421903333999" vmtag=""/>
+    <voicemail carrier="TELEKOM.RO" mvno_match_data="TELEKOM.RO" mvno_type="spn" numeric="22603" vmnumber="+40766177177" vmtag=""/>
+    <voicemail carrier="TELEKOM.RO" mvno_match_data="COSMOTE" mvno_type="spn" numeric="22603" vmnumber="+40766177177" vmtag=""/>
+    <voicemail carrier="TELEKOM.RO" mvno_match_data="frog" mvno_type="spn" numeric="22603" vmnumber="+40766177177" vmtag=""/>
+    <voicemail carrier="TELEKOM.RO" mvno_match_data="MTV Mobile" mvno_type="spn" numeric="22603" vmnumber="+40766177177" vmtag=""/>
+    <voicemail carrier="TELEKOM.RO" mvno_match_data="TELEKOM.RO" mvno_type="spn" numeric="22606" vmnumber="+40766177177" vmtag=""/>
+    <voicemail carrier="TELEKOM.RO" mvno_match_data="COSMOTE" mvno_type="spn" numeric="22606" vmnumber="+40766177177" vmtag=""/>
+    <voicemail carrier="TELEKOM.RO" mvno_match_data="frog" mvno_type="spn" numeric="22606" vmnumber="+40766177177" vmtag=""/>
+    <voicemail carrier="TELEKOM.RO" mvno_match_data="MTV Mobile" mvno_type="spn" numeric="22606" vmnumber="+40766177177" vmtag=""/>
+    <voicemail carrier="Telekom.me" mvno_match_data="Telekom.me" mvno_type="spn" numeric="22004" vmnumber="+3826714077" vmtag=""/>
+    <voicemail carrier="bonbon" mvno_match_data="0x10" mvno_type="gid" numeric="21901" vmnumber="" vmtag=""/>
+    <voicemail carrier="bonbon" mvno_match_data="0x11" mvno_type="gid" numeric="21901" vmnumber="" vmtag=""/>
+    <voicemail carrier="bonbon" mvno_match_data="0x12" mvno_type="gid" numeric="21901" vmnumber="" vmtag=""/>
+    <voicemail carrier="bonbon" mvno_match_data="bonbon" mvno_type="spn" numeric="21901" vmnumber="" vmtag=""/>
+    <voicemail carrier="MediaMarkt" mvno_match_data="232104600" mvno_type="imsi" numeric="23210" vmnumber="" vmtag=""/>
+    <voicemail carrier="MediaMarkt" mvno_match_data="232104601" mvno_type="imsi" numeric="23210" vmnumber="" vmtag=""/>
+    <voicemail carrier="MediaMarkt" mvno_match_data="232104602" mvno_type="imsi" numeric="23210" vmnumber="" vmtag=""/>
+    <voicemail carrier="MediaMarkt" mvno_match_data="232104603" mvno_type="imsi" numeric="23210" vmnumber="" vmtag=""/>
+    <voicemail carrier="MediaMarkt" mvno_match_data="232104604" mvno_type="imsi" numeric="23210" vmnumber="" vmtag=""/>
+    <voicemail carrier="Saturn" mvno_match_data="232104605" mvno_type="imsi" numeric="23210" vmnumber="" vmtag=""/>
+    <voicemail carrier="Saturn" mvno_match_data="232104606" mvno_type="imsi" numeric="23210" vmnumber="" vmtag=""/>
+    <voicemail carrier="Saturn" mvno_match_data="232104607" mvno_type="imsi" numeric="23210" vmnumber="" vmtag=""/>
+    <voicemail carrier="Saturn" mvno_match_data="232104608" mvno_type="imsi" numeric="23210" vmnumber="" vmtag=""/>
+    <voicemail carrier="Saturn" mvno_match_data="232104609" mvno_type="imsi" numeric="23210" vmnumber="" vmtag=""/>
+    <voicemail carrier="A1 SI" mvno_match_data="293400130" mvno_type="imsi" numeric="29340" vmnumber="" vmtag=""/>
+    <voicemail carrier="vodafone HU" mvno_match_data="spn_null" mvno_type="spn" numeric="21670" vmnumber="170" vmtag=""/>
+    <voicemail carrier="vodafone HU" mvno_match_data="voda" mvno_type="spn" numeric="21670" vmnumber="170" vmtag=""/>
+    <voicemail carrier="vodafone GR" mvno_match_data="spn_null" mvno_type="spn" numeric="20205" vmnumber="121" vmtag=""/>
+    <voicemail carrier="vodafone GR" mvno_match_data="voda" mvno_type="spn" numeric="20205" vmnumber="121" vmtag=""/>
+    <voicemail carrier="Vodafone CZ" mvno_match_data="spn_null" mvno_type="spn" numeric="23003" vmnumber="+420608989898" vmtag=""/>
+    <voicemail carrier="Vodafone CZ" mvno_match_data="voda" mvno_type="spn" numeric="23003" vmnumber="+420608989898" vmtag=""/>
+    <voicemail carrier="Vodafone RO" mvno_match_data="spn_null" mvno_type="spn" numeric="22601" vmnumber="+40722033334" vmtag=""/>
+    <voicemail carrier="Vodafone RO" mvno_match_data="voda" mvno_type="spn" numeric="22601" vmnumber="+40722033334" vmtag=""/>
+    <voicemail carrier="Vodafone AL" mvno_match_data="spn_null" mvno_type="spn" numeric="27602" vmnumber="135" vmtag=""/>
+    <voicemail carrier="Vodafone AL" mvno_match_data="voda" mvno_type="spn" numeric="27602" vmnumber="135" vmtag=""/>
+    <voicemail carrier="Free" mvno_match_data="0xF2330002" mvno_type="gid" numeric="64703" vmnumber="" vmtag=""/>
+    <voicemail carrier="Vodacom SA" mvno_match_data="spn_null" mvno_type="spn" numeric="65501" vmnumber="132" vmtag=""/>
+    <voicemail carrier="Vodacom SA" mvno_match_data="voda" mvno_type="spn" numeric="65501" vmnumber="132" vmtag=""/>
+    <voicemail carrier="StarHub" mvno_match_data="0x0A" mvno_type="gid" numeric="52505" vmnumber="" vmtag=""/>
+    <voicemail carrier="CSL" mvno_match_data="0x01010000" mvno_type="gid" numeric="45418" vmnumber="" vmtag=""/>
+    <voicemail carrier="CSL" mvno_match_data="0x01020000" mvno_type="gid" numeric="45418" vmnumber="" vmtag=""/>
+    <voicemail carrier="CSL" mvno_match_data="0x01030000" mvno_type="gid" numeric="45418" vmnumber="" vmtag=""/>
+    <voicemail carrier="CSL" mvno_match_data="0x01040000" mvno_type="gid" numeric="45418" vmnumber="" vmtag=""/>
+    <voicemail carrier="CSL" mvno_match_data="0x02020001" mvno_type="gid" numeric="45418" vmnumber="" vmtag=""/>
+    <voicemail carrier="CSL" mvno_match_data="0x02030001" mvno_type="gid" numeric="45418" vmnumber="" vmtag=""/>
+    <voicemail carrier="CSL" mvno_match_data="0x02020002" mvno_type="gid" numeric="45418" vmnumber="" vmtag=""/>
+    <voicemail carrier="CSL" mvno_match_data="0x01010000" mvno_type="gid" numeric="45400" vmnumber="" vmtag=""/>
+    <voicemail carrier="CSL" mvno_match_data="0x01020000" mvno_type="gid" numeric="45400" vmnumber="" vmtag=""/>
+    <voicemail carrier="CSL" mvno_match_data="0x01030000" mvno_type="gid" numeric="45400" vmnumber="" vmtag=""/>
+    <voicemail carrier="CSL" mvno_match_data="0x01040000" mvno_type="gid" numeric="45400" vmnumber="" vmtag=""/>
+    <voicemail carrier="CSL" mvno_match_data="0x02020001" mvno_type="gid" numeric="45400" vmnumber="" vmtag=""/>
+    <voicemail carrier="CSL" mvno_match_data="0x02030001" mvno_type="gid" numeric="45400" vmnumber="" vmtag=""/>
+    <voicemail carrier="CSL" mvno_match_data="0x02020002" mvno_type="gid" numeric="45400" vmnumber="" vmtag=""/>
+    <voicemail carrier="CSL" mvno_match_data="0x01010000" mvno_type="gid" numeric="45402" vmnumber="" vmtag=""/>
+    <voicemail carrier="CSL" mvno_match_data="0x01020000" mvno_type="gid" numeric="45402" vmnumber="" vmtag=""/>
+    <voicemail carrier="CSL" mvno_match_data="0x01030000" mvno_type="gid" numeric="45402" vmnumber="" vmtag=""/>
+    <voicemail carrier="CSL" mvno_match_data="0x01040000" mvno_type="gid" numeric="45402" vmnumber="" vmtag=""/>
+    <voicemail carrier="CSL" mvno_match_data="0x02020001" mvno_type="gid" numeric="45402" vmnumber="" vmtag=""/>
+    <voicemail carrier="CSL" mvno_match_data="0x02030001" mvno_type="gid" numeric="45402" vmnumber="" vmtag=""/>
+    <voicemail carrier="CSL" mvno_match_data="0x02020002" mvno_type="gid" numeric="45402" vmnumber="" vmtag=""/>
+    <voicemail carrier="Mo" mvno_match_data="0x0405" mvno_type="gid" numeric="45403" vmnumber="" vmtag=""/>
+    <voicemail carrier="Digicel" mvno_match_data="Digicel" mvno_type="spn" numeric="33805" vmnumber="555" vmtag=""/>
+    <voicemail carrier="Virgin Mobile" mvno_match_data="505029" mvno_type="imsi" numeric="50502" vmnumber="" vmtag=""/>
+    <voicemail carrier="Skinny" mvno_match_data="5300520" mvno_type="imsi" numeric="53005" vmnumber="0064204864236" vmtag=""/>
+    <voicemail carrier="DIGICEL" mvno_match_data="DIGICEL" mvno_type="spn" numeric="53703" vmnumber="555" vmtag=""/>
+    <voicemail carrier="Digicel" mvno_match_data="5420202" mvno_type="imsi" numeric="54202" vmnumber="555" vmtag=""/>
+    <voicemail carrier="Digicel" mvno_match_data="Digicel" mvno_type="spn" numeric="53988" vmnumber="555" vmtag=""/>
+    <voicemail carrier="Digicel" mvno_match_data="Digicel" mvno_type="spn" numeric="54105" vmnumber="555" vmtag=""/>
+    <voicemail carrier="ABS-CBN" mvno_match_data="ABS-CBN" mvno_type="spn" numeric="51502" vmnumber="" vmtag=""/>
+    <voicemail carrier="Warehouse" mvno_match_data="5302410" mvno_type="imsi" numeric="53024" vmnumber="+64284808808" vmtag=""/>
+    <voicemail carrier="Hollandsnieuwe" mvno_match_data="Hollandsnieuwe" mvno_type="spn" numeric="20404" vmnumber="+31637001233" vmtag=""/>
+    <voicemail carrier="Ziggo" mvno_match_data="ziggo.dataxs.mob" mvno_type="spn" numeric="20404" vmnumber="31637001233" vmtag=""/>
+    <voicemail carrier="Ziggo" mvno_match_data="2040807500" mvno_type="imsi" numeric="20408" vmnumber="" vmtag=""/>
+    <voicemail carrier="Ziggo" mvno_match_data="2040807501" mvno_type="imsi" numeric="20408" vmnumber="" vmtag=""/>
+    <voicemail carrier="Ziggo" mvno_match_data="2040807502" mvno_type="imsi" numeric="20408" vmnumber="" vmtag=""/>
+    <voicemail carrier="Ziggo" mvno_match_data="2040807503" mvno_type="imsi" numeric="20408" vmnumber="" vmtag=""/>
+    <voicemail carrier="Ziggo" mvno_match_data="2040807504" mvno_type="imsi" numeric="20408" vmnumber="" vmtag=""/>
+    <voicemail carrier="Ziggo" mvno_match_data="204080751" mvno_type="imsi" numeric="20408" vmnumber="" vmtag=""/>
+    <voicemail carrier="Hollandsnieuwe" mvno_match_data="hollandsnieuwe" mvno_type="spn" numeric="20404" vmnumber="+31654501233" vmtag=""/>
+    <voicemail carrier="Ben NL" mvno_match_data="204164442" mvno_type="imsi" numeric="20416" vmnumber="+31624001233" vmtag=""/>
+    <voicemail carrier="Ben NL" mvno_match_data="204164542" mvno_type="imsi" numeric="20416" vmnumber="+31624001233" vmtag=""/>
+    <voicemail carrier="Ben NL" mvno_match_data="2041646420" mvno_type="imsi" numeric="20416" vmnumber="+31624001233" vmtag=""/>
+    <voicemail carrier="Ben NL" mvno_match_data="204164742" mvno_type="imsi" numeric="20416" vmnumber="+31624001233" vmtag=""/>
+    <voicemail carrier="voiceworks" mvno_match_data="204080950" mvno_type="imsi" numeric="20408" vmnumber="" vmtag=""/>
+    <voicemail carrier="" mvno_match_data="20601889" mvno_type="imsi" numeric="20601" vmnumber="5555" vmtag=""/>
+    <voicemail carrier="Ziggo" mvno_match_data="Ziggo" mvno_type="spn" numeric="20601" vmnumber="31686501233" vmtag=""/>
+    <voicemail carrier="" mvno_match_data="LeclercMobile" mvno_type="spn" numeric="20810" vmnumber="" vmtag=""/>
+    <voicemail carrier="tuenti" mvno_match_data="tuenti" mvno_type="spn" numeric="21405" vmnumber="22123" vmtag=""/>
+    <voicemail carrier="Orange" mvno_match_data="Orange" mvno_type="spn" numeric="21403" vmnumber="242" vmtag=""/>
+    <voicemail carrier="Mobil R" mvno_match_data="2140612" mvno_type="imsi" numeric="21406" vmnumber="+34698111277" vmtag=""/>
+    <voicemail carrier="telecable" mvno_match_data="2140613" mvno_type="imsi" numeric="21406" vmnumber="333" vmtag=""/>
+    <voicemail carrier="" mvno_match_data="EUSKALTEL" mvno_type="spn" numeric="21403" vmnumber="2242" vmtag=""/>
+    <voicemail carrier="" mvno_match_data="RACC" mvno_type="spn" numeric="21403" vmnumber="2242" vmtag=""/>
+    <voicemail carrier="Carrefour" mvno_match_data="Carrefour" mvno_type="spn" numeric="21403" vmnumber="242" vmtag=""/>
+    <voicemail carrier="MASMOVIL" mvno_match_data="MASMOVIL" mvno_type="spn" numeric="21403" vmnumber="" vmtag=""/>
+    <voicemail carrier="Ibercom" mvno_match_data="Ibercom" mvno_type="spn" numeric="21403" vmnumber="" vmtag=""/>
+    <voicemail carrier="Happy" mvno_match_data="Happy" mvno_type="spn" numeric="21403" vmnumber="" vmtag=""/>
+    <voicemail carrier="CABLE movil" mvno_match_data="CABLE movil" mvno_type="spn" numeric="21403" vmnumber="" vmtag=""/>
+    <voicemail carrier="FASTWEB" mvno_match_data="222998" mvno_type="imsi" numeric="22299" vmnumber="4141" vmtag=""/>
+    <voicemail carrier="Daily Telecom" mvno_match_data="222101306" mvno_type="imsi" numeric="22210" vmnumber="" vmtag=""/>
+    <voicemail carrier="Daily Telecom" mvno_match_data="222101406" mvno_type="imsi" numeric="22210" vmnumber="" vmtag=""/>
+    <voicemail carrier="O2 - UK" mvno_match_data="0x00" mvno_type="file" numeric="23410" vmnumber="901" vmtag=""/>
+    <voicemail carrier="O2 - UK" mvno_match_data="0x20" mvno_type="file" numeric="23410" vmnumber="901" vmtag=""/>
+    <voicemail carrier="O2 - UK" mvno_match_data="0x00" mvno_type="file" numeric="23410" vmnumber="901" vmtag=""/>
+    <voicemail carrier="O2 - UK" mvno_match_data="0x01" mvno_type="file" numeric="23410" vmnumber="901" vmtag=""/>
+    <voicemail carrier="TalkTalk" mvno_match_data="TalkTalk" mvno_type="spn" numeric="23415" vmnumber="121" vmtag=""/>
+    <voicemail carrier="Tesco" mvno_match_data="0x0A" mvno_type="gid" numeric="23410" vmnumber="905" vmtag=""/>
+    <voicemail carrier="Sainsbury's" mvno_match_data="Sainsbury's" mvno_type="spn" numeric="23415" vmnumber="121" vmtag=""/>
+    <voicemail carrier="Talkmobile" mvno_match_data="Talkmobile" mvno_type="spn" numeric="23415" vmnumber="121" vmtag=""/>
+    <voicemail carrier="Virgin" mvno_match_data="0x28" mvno_type="gid" numeric="23430" vmnumber="222" vmtag=""/>
+    <voicemail carrier="BT OnePhone" mvno_match_data="0xB2" mvno_type="gid" numeric="23430" vmnumber="" vmtag=""/>
+    <voicemail carrier="BT" mvno_match_data="0xB3" mvno_type="gid" numeric="23430" vmnumber="" vmtag=""/>
+    <voicemail carrier="BT" mvno_match_data="0xC3" mvno_type="gid" numeric="23430" vmnumber="" vmtag=""/>
+    <voicemail carrier="Tele2 NL" mvno_match_data="24007602" mvno_type="imsi" numeric="24007" vmnumber="+31640192940" vmtag=""/>
+    <voicemail carrier="Tele2 NL" mvno_match_data="24007603" mvno_type="imsi" numeric="24007" vmnumber="+31640192940" vmtag=""/>
+    <voicemail carrier="Tele2 NL" mvno_match_data="24007604" mvno_type="imsi" numeric="24007" vmnumber="+31640192940" vmtag=""/>
+    <voicemail carrier="Tele2 NL" mvno_match_data="24007605" mvno_type="imsi" numeric="24007" vmnumber="+31640192940" vmtag=""/>
+    <voicemail carrier="Tele2 NL" mvno_match_data="24007606" mvno_type="imsi" numeric="24007" vmnumber="+31640192940" vmtag=""/>
+    <voicemail carrier="Tele2 NL" mvno_match_data="24007607" mvno_type="imsi" numeric="24007" vmnumber="+31640192940" vmtag=""/>
+    <voicemail carrier="Tele2 NL" mvno_match_data="24007608" mvno_type="imsi" numeric="24007" vmnumber="+31640192940" vmtag=""/>
+    <voicemail carrier="Tele2 NL" mvno_match_data="24007609" mvno_type="imsi" numeric="24007" vmnumber="+31640192940" vmtag=""/>
+    <voicemail carrier="Tele2 NL" mvno_match_data="24007610" mvno_type="imsi" numeric="24007" vmnumber="+31640192940" vmtag=""/>
+    <voicemail carrier="Tele2 NL" mvno_match_data="24007611" mvno_type="imsi" numeric="24007" vmnumber="+31640192940" vmtag=""/>
+    <voicemail carrier="Tele2 NL" mvno_match_data="24007612" mvno_type="imsi" numeric="24007" vmnumber="+31640192940" vmtag=""/>
+    <voicemail carrier="Tele2 NL" mvno_match_data="24007619" mvno_type="imsi" numeric="24007" vmnumber="+31640192940" vmtag=""/>
+    <voicemail carrier="Tchibo" mvno_match_data="26207500" mvno_type="imsi" numeric="26207" vmnumber="" vmtag=""/>
+    <voicemail carrier="Fonic" mvno_match_data="26207515" mvno_type="imsi" numeric="26207" vmnumber="" vmtag=""/>
+    <voicemail carrier="Otelo" mvno_match_data="Otelo" mvno_type="spn" numeric="26202" vmnumber="5500" vmtag=""/>
+    <voicemail carrier="iD" mvno_match_data="0x0305" mvno_type="gid" numeric="23420" vmnumber="+447782333123" vmtag=""/>
+    <voicemail carrier="TalkTalk" mvno_match_data="0x537" mvno_type="gid" numeric="23410" vmnumber="" vmtag=""/>
+    <voicemail carrier="Pepephone" mvno_match_data="pepephone" mvno_type="spn" numeric="21405" vmnumber="22123" vmtag=""/>
+    <voicemail carrier="Pepephone" mvno_match_data="Pepephone" mvno_type="spn" numeric="21405" vmnumber="22123" vmtag=""/>
+    <voicemail carrier="tuenti" mvno_match_data="Tuenti" mvno_type="spn" numeric="21405" vmnumber="22123" vmtag=""/>
+    <voicemail carrier="ONO" mvno_match_data="ONO" mvno_type="spn" numeric="21405" vmnumber="1214" vmtag=""/>
+    <voicemail carrier="Pepephone" mvno_match_data="2140602" mvno_type="imsi" numeric="21406" vmnumber="22123" vmtag=""/>
+    <voicemail carrier="" mvno_match_data="0x44" mvno_type="gid" numeric="26201" vmnumber="3311" vmtag=""/>
+    <voicemail carrier="simyo" mvno_match_data="simyo" mvno_type="spn" numeric="21403" vmnumber="1213" vmtag=""/>
+    <voicemail carrier="Virgin" mvno_match_data="0x28" mvno_type="gid" numeric="23438" vmnumber="222" vmtag=""/>
+    <voicemail carrier="Postmobile" mvno_match_data="27201110" mvno_type="imsi" numeric="27201" vmnumber="171" vmtag=""/>
+    <voicemail carrier="JAZZTEL" mvno_match_data="JAZZTEL" mvno_type="spn" numeric="21403" vmnumber="1222" vmtag=""/>
+    <voicemail carrier="JAZZTEL" mvno_match_data="JAZZTEL" mvno_type="spn" numeric="21407" vmnumber="1222" vmtag=""/>
+    <voicemail carrier="MovilDIA" mvno_match_data="MovilDIA" mvno_type="spn" numeric="21403" vmnumber="" vmtag=""/>
+    <voicemail carrier="LlamaYA" mvno_match_data="LlamaYA" mvno_type="spn" numeric="21403" vmnumber="" vmtag=""/>
+    <voicemail carrier="YOU Mobile" mvno_match_data="You Mobile" mvno_type="spn" numeric="21403" vmnumber="" vmtag=""/>
+    <voicemail carrier="LCR" mvno_match_data="LCR" mvno_type="spn" numeric="21403" vmnumber="" vmtag=""/>
+    <voicemail carrier="IOS" mvno_match_data="IOS" mvno_type="spn" numeric="21403" vmnumber="" vmtag=""/>
+    <voicemail carrier="Mobil R" mvno_match_data="21403508" mvno_type="imsi" numeric="21403" vmnumber="+34698111277" vmtag=""/>
+    <voicemail carrier="Mobil R" mvno_match_data="21403509" mvno_type="imsi" numeric="21403" vmnumber="+34698111277" vmtag=""/>
+    <voicemail carrier="Lowi" mvno_match_data="Lowi" mvno_type="spn" numeric="21406" vmnumber="" vmtag=""/>
+    <voicemail carrier="Eroski Movil" mvno_match_data="Eroski Movil" mvno_type="spn" numeric="21406" vmnumber="22177" vmtag=""/>
+    <voicemail carrier="PosteMobile" mvno_match_data="PosteMobile" mvno_type="spn" numeric="22210" vmnumber="427242" vmtag=""/>
+    <voicemail carrier="Coop Voce" mvno_match_data="Coop Mobile" mvno_type="spn" numeric="22201" vmnumber="" vmtag=""/>
+    <voicemail carrier="Coop Voce" mvno_match_data="COOP" mvno_type="spn" numeric="22201" vmnumber="" vmtag=""/>
+    <voicemail carrier="Coop Voce" mvno_match_data="COOP !OBILE" mvno_type="spn" numeric="22201" vmnumber="" vmtag=""/>
+    <voicemail carrier="Coop Voce" mvno_match_data="COOP MOBLIE" mvno_type="spn" numeric="22201" vmnumber="" vmtag=""/>
+    <voicemail carrier="upc ch" mvno_match_data="0x75636831" mvno_type="gid" numeric="20601" vmnumber="" vmtag=""/>
+    <voicemail carrier="LEBARA" mvno_match_data="Lebara" mvno_type="spn" numeric="21406" vmnumber="" vmtag=""/>
+    <voicemail carrier="HITS" mvno_match_data="Hits" mvno_type="spn" numeric="21406" vmnumber="" vmtag=""/>
+    <voicemail carrier="T-Mobile NL" mvno_match_data="0xFF" mvno_type="gid" numeric="20416" vmnumber="+31624001233" vmtag=""/>
+    <voicemail carrier="T-Mobile NL" mvno_match_data="T-Mobile NL" mvno_type="spn" numeric="20416" vmnumber="+31624001233" vmtag=""/>
+    <voicemail carrier="T-Mobile NL" mvno_match_data="0xFF" mvno_type="gid" numeric="20420" vmnumber="+31624001233" vmtag=""/>
+    <voicemail carrier="T-Mobile NL" mvno_match_data="T-Mobile NL" mvno_type="spn" numeric="20420" vmnumber="+31624001233" vmtag=""/>
+    <voicemail carrier="Ben NL" mvno_match_data="0x5F" mvno_type="gid" numeric="20416" vmnumber="+31624001233" vmtag=""/>
+    <voicemail carrier="Ben NL" mvno_match_data="Ben NL" mvno_type="spn" numeric="20416" vmnumber="+31624001233" vmtag=""/>
+    <voicemail carrier="Telekom.de" mvno_match_data="0x01" mvno_type="gid" numeric="26201" vmnumber="3311" vmtag=""/>
+    <voicemail carrier="Telekom.de" mvno_match_data="0x02" mvno_type="gid" numeric="26201" vmnumber="3311" vmtag=""/>
+    <voicemail carrier="Telekom.de" mvno_match_data="0x03" mvno_type="gid" numeric="26201" vmnumber="3311" vmtag=""/>
+    <voicemail carrier="Telekom.de" mvno_match_data="0x04" mvno_type="gid" numeric="26201" vmnumber="3311" vmtag=""/>
+    <voicemail carrier="Telekom.de" mvno_match_data="0x99" mvno_type="gid" numeric="26201" vmnumber="3311" vmtag=""/>
+    <voicemail carrier="Telekom.de" mvno_match_data="Telekom.de" mvno_type="spn" numeric="26201" vmnumber="3311" vmtag=""/>
+    <voicemail carrier="Telekom.de" mvno_match_data="T-Mobile D" mvno_type="spn" numeric="26201" vmnumber="3311" vmtag=""/>
+    <voicemail carrier="Telekom.de" mvno_match_data="Business" mvno_type="spn" numeric="26201" vmnumber="3311" vmtag=""/>
+    <voicemail carrier="Telekom.de" mvno_match_data="Privat" mvno_type="spn" numeric="26201" vmnumber="3311" vmtag=""/>
+    <voicemail carrier="" mvno_match_data="congstar" mvno_type="spn" numeric="26201" vmnumber="3311" vmtag=""/>
+    <voicemail carrier="" mvno_match_data="congstar.de" mvno_type="spn" numeric="26201" vmnumber="3311" vmtag=""/>
+    <voicemail carrier="Telekom.de" mvno_match_data="0x4B" mvno_type="gid" numeric="26201" vmnumber="3311" vmtag=""/>
+    <voicemail carrier="telecable" mvno_match_data="telecable" mvno_type="spn" numeric="21405" vmnumber="333" vmtag=""/>
+    <voicemail carrier="" mvno_match_data="0x4E524A31" mvno_type="gid" numeric="20801" vmnumber="888" vmtag=""/>
+    <voicemail carrier="Giffgaff" mvno_match_data="0x4D564E45" mvno_type="gid" numeric="23410" vmnumber="901" vmtag=""/>
+    <voicemail carrier="vodafone NL" mvno_match_data="spn_null" mvno_type="spn" numeric="20404" vmnumber="+31654501233" vmtag=""/>
+    <voicemail carrier="vodafone NL" mvno_match_data="voda" mvno_type="spn" numeric="20404" vmnumber="+31654501233" vmtag=""/>
+    <voicemail carrier="vodafone NL" mvno_match_data="204043" mvno_type="imsi" numeric="20404" vmnumber="+31654501233" vmtag=""/>
+    <voicemail carrier="vodafone NL" mvno_match_data="204046" mvno_type="imsi" numeric="20404" vmnumber="+31654501233" vmtag=""/>
+    <voicemail carrier="vodafone IT" mvno_match_data="spn_null" mvno_type="spn" numeric="22210" vmnumber="42020" vmtag=""/>
+    <voicemail carrier="vodafone IT" mvno_match_data="voda" mvno_type="spn" numeric="22210" vmnumber="42020" vmtag=""/>
+    <voicemail carrier="Vodafone.de" mvno_match_data="spn_null" mvno_type="spn" numeric="26202" vmnumber="5500" vmtag=""/>
+    <voicemail carrier="Vodafone.de" mvno_match_data="voda" mvno_type="spn" numeric="26202" vmnumber="5500" vmtag=""/>
+    <voicemail carrier="vodafone IE" mvno_match_data="spn_null" mvno_type="spn" numeric="27201" vmnumber="171" vmtag=""/>
+    <voicemail carrier="vodafone IE" mvno_match_data="voda" mvno_type="spn" numeric="27201" vmnumber="171" vmtag=""/>
+    <voicemail carrier="vodafone UK" mvno_match_data="spn_null" mvno_type="spn" numeric="23415" vmnumber="121" vmtag=""/>
+    <voicemail carrier="vodafone UK" mvno_match_data="voda" mvno_type="spn" numeric="23415" vmnumber="121" vmtag=""/>
+    <voicemail carrier="" mvno_match_data="0x4E524A31" mvno_type="gid" numeric="20810" vmnumber="123" vmtag=""/>
+    <voicemail carrier="1&amp;1" mvno_match_data="26207414" mvno_type="imsi" numeric="26207" vmnumber="" vmtag=""/>
+    <voicemail carrier="1&amp;1" mvno_match_data="26203293" mvno_type="imsi" numeric="26203" vmnumber="" vmtag=""/>
+    <voicemail carrier="1&amp;1" mvno_match_data="26203330" mvno_type="imsi" numeric="26203" vmnumber="" vmtag=""/>
+    <voicemail carrier="1&amp;1" mvno_match_data="0x11" mvno_type="gid" numeric="26202" vmnumber="" vmtag=""/>
+    <voicemail carrier="Operador" mvno_match_data="214340104" mvno_type="imsi" numeric="21434" vmnumber="" vmtag=""/>
+    <voicemail carrier="Free" mvno_match_data="0xF2330002" mvno_type="gid" numeric="20815" vmnumber="" vmtag=""/>
+    <voicemail carrier="ho." mvno_match_data="ho." mvno_type="spn" numeric="22210" vmnumber="" vmtag=""/>
+    <voicemail carrier="vodafone P" mvno_match_data="spn_null" mvno_type="spn" numeric="26801" vmnumber="123" vmtag=""/>
+    <voicemail carrier="vodafone P" mvno_match_data="voda" mvno_type="spn" numeric="26801" vmnumber="123" vmtag=""/>
+    <voicemail carrier="vodafone ES" mvno_match_data="spn_null" mvno_type="spn" numeric="21401" vmnumber="22177" vmtag=""/>
+    <voicemail carrier="vodafone ES" mvno_match_data="voda" mvno_type="spn" numeric="21401" vmnumber="22177" vmtag=""/>
+    <voicemail carrier="vodafone MT" mvno_match_data="spn_null" mvno_type="spn" numeric="27801" vmnumber="+35699909909" vmtag=""/>
+    <voicemail carrier="vodafone MT" mvno_match_data="voda" mvno_type="spn" numeric="27801" vmnumber="+35699909909" vmtag=""/>
+    <voicemail carrier="" mvno_match_data="ERG mobile" mvno_type="spn" numeric="22210" vmnumber="" vmtag=""/>
+    <voicemail carrier="" mvno_match_data="1 MOBILE" mvno_type="spn" numeric="22210" vmnumber="" vmtag=""/>
+    <voicemail carrier="" mvno_match_data="Optima" mvno_type="spn" numeric="22210" vmnumber="" vmtag=""/>
+    <voicemail carrier="" mvno_match_data="TAZA" mvno_type="spn" numeric="22210" vmnumber="" vmtag=""/>
+    <voicemail carrier="1&amp;1" mvno_match_data="0x118004" mvno_type="gid" numeric="26207" vmnumber="" vmtag=""/>
+    <voicemail carrier="1&amp;1" mvno_match_data="0x118006" mvno_type="gid" numeric="26207" vmnumber="" vmtag=""/>
+    <voicemail carrier="Iliad Int" mvno_match_data="0xF003" mvno_type="gid" numeric="20815" vmnumber="" vmtag=""/>
+    <voicemail carrier="ILIAD" mvno_match_data="0xF003" mvno_type="gid" numeric="22250" vmnumber="" vmtag=""/>
+    <voicemail carrier="EE" mvno_match_data="0xEE" mvno_type="gid" numeric="23430" vmnumber="222" vmtag=""/>
+    <voicemail carrier="" mvno_match_data="21403506" mvno_type="imsi" numeric="21403" vmnumber="" vmtag=""/>
+    <voicemail carrier="JAZZTEL" mvno_match_data="JAZZTEL" mvno_type="spn" numeric="21421" vmnumber="1222" vmtag=""/>
+    <voicemail carrier="simyo" mvno_match_data="simyo" mvno_type="spn" numeric="21419" vmnumber="1213" vmtag=""/>
+    <voicemail carrier="Giffgaff" mvno_match_data="0x508F" mvno_type="gid" numeric="23410" vmnumber="901" vmtag=""/>
+    <voicemail carrier="o2 - de" mvno_match_data="0x000000" mvno_type="gid" numeric="26203" vmnumber="" vmtag=""/>
+    <voicemail carrier="o2 - de" mvno_match_data="0x000500" mvno_type="gid" numeric="26203" vmnumber="" vmtag=""/>
+    <voicemail carrier="o2 - de" mvno_match_data="0x010301" mvno_type="gid" numeric="26203" vmnumber="" vmtag=""/>
+    <voicemail carrier="o2 - de" mvno_match_data="0x010901" mvno_type="gid" numeric="26203" vmnumber="" vmtag=""/>
+    <voicemail carrier="o2 - de" mvno_match_data="0x000000" mvno_type="gid" numeric="26207" vmnumber="" vmtag=""/>
+    <voicemail carrier="o2 - de" mvno_match_data="0x000500" mvno_type="gid" numeric="26207" vmnumber="" vmtag=""/>
+    <voicemail carrier="o2 - de" mvno_match_data="0x010301" mvno_type="gid" numeric="26207" vmnumber="" vmtag=""/>
+    <voicemail carrier="o2 - de" mvno_match_data="0x010901" mvno_type="gid" numeric="26207" vmnumber="" vmtag=""/>
+    <voicemail carrier="" mvno_match_data="0x0309" mvno_type="gid" numeric="23420" vmnumber="" vmtag=""/>
+    <voicemail carrier="" mvno_match_data="0x0310" mvno_type="gid" numeric="23420" vmnumber="" vmtag=""/>
+    <voicemail carrier="" mvno_match_data="24007561" mvno_type="imsi" numeric="24007" vmnumber="" vmtag=""/>
+    <voicemail carrier="" mvno_match_data="0x0C" mvno_type="gid" numeric="23457" vmnumber="" vmtag=""/>
+    <voicemail carrier="Virgin Mobile" mvno_match_data="Virgin Mobile" mvno_type="spn" numeric="42005" vmnumber="" vmtag=""/>
+    <voicemail carrier="FRiENDi mobile" mvno_match_data="FRiENDi mobile" mvno_type="spn" numeric="42005" vmnumber="" vmtag=""/>
+    <voicemail carrier="TCELL" mvno_match_data="2860159" mvno_type="imsi" numeric="28601" vmnumber="8780" vmtag=""/>
+    <voicemail carrier="VODAFONE TR" mvno_match_data="spn_null" mvno_type="spn" numeric="28602" vmnumber="+905427542000" vmtag=""/>
+    <voicemail carrier="VODAFONE TR" mvno_match_data="voda" mvno_type="spn" numeric="28602" vmnumber="+905427542000" vmtag=""/>
+    <voicemail carrier="TELUS" mvno_match_data="0x5455" mvno_type="gid" numeric="302220" vmnumber="" vmtag=""/>
+    <voicemail carrier="Bell" mvno_match_data="0x3D" mvno_type="gid" numeric="302610" vmnumber="" vmtag=""/>
+    <voicemail carrier="TELUS" mvno_match_data="0x5455" mvno_type="gid" numeric="302221" vmnumber="" vmtag=""/>
+    <voicemail carrier="KOODO" mvno_match_data="0x4B4F" mvno_type="gid" numeric="302220" vmnumber="" vmtag=""/>
+    <voicemail carrier="KOODO" mvno_match_data="0x4B4F" mvno_type="gid" numeric="302221" vmnumber="" vmtag=""/>
+    <voicemail carrier="PC mobile" mvno_match_data="0x5043" mvno_type="gid" numeric="302220" vmnumber="" vmtag=""/>
+    <voicemail carrier="PC mobile" mvno_match_data="0x5043" mvno_type="gid" numeric="302221" vmnumber="" vmtag=""/>
+    <voicemail carrier="GCI" mvno_match_data="0x0050" mvno_type="gid" numeric="311370" vmnumber="" vmtag=""/>
+    <voicemail carrier="" mvno_match_data="0xD4" mvno_type="gid" numeric="302720" vmnumber="" vmtag=""/>
+    <voicemail carrier="MetroPCS" mvno_match_data="0x6D38" mvno_type="gid" numeric="310160" vmnumber="123" vmtag=""/>
+    <voicemail carrier="MetroPCS" mvno_match_data="0x6D38" mvno_type="gid" numeric="310210" vmnumber="123" vmtag=""/>
+    <voicemail carrier="MetroPCS" mvno_match_data="0x6D38" mvno_type="gid" numeric="310230" vmnumber="123" vmtag=""/>
+    <voicemail carrier="MetroPCS" mvno_match_data="0x6D38" mvno_type="gid" numeric="310240" vmnumber="123" vmtag=""/>
+    <voicemail carrier="MetroPCS" mvno_match_data="0x6D38" mvno_type="gid" numeric="310250" vmnumber="123" vmtag=""/>
+    <voicemail carrier="MetroPCS" mvno_match_data="0x6D38" mvno_type="gid" numeric="310260" vmnumber="123" vmtag=""/>
+    <voicemail carrier="MetroPCS" mvno_match_data="0x6D38" mvno_type="gid" numeric="310270" vmnumber="123" vmtag=""/>
+    <voicemail carrier="MetroPCS" mvno_match_data="0x6D38" mvno_type="gid" numeric="310300" vmnumber="123" vmtag=""/>
+    <voicemail carrier="MetroPCS" mvno_match_data="0x6D38" mvno_type="gid" numeric="310310" vmnumber="123" vmtag=""/>
+    <voicemail carrier="MetroPCS" mvno_match_data="0x6D38" mvno_type="gid" numeric="310490" vmnumber="123" vmtag=""/>
+    <voicemail carrier="MetroPCS" mvno_match_data="0x6D38" mvno_type="gid" numeric="310530" vmnumber="123" vmtag=""/>
+    <voicemail carrier="MetroPCS" mvno_match_data="0x6D38" mvno_type="gid" numeric="310580" vmnumber="123" vmtag=""/>
+    <voicemail carrier="MetroPCS" mvno_match_data="0x6D38" mvno_type="gid" numeric="310590" vmnumber="123" vmtag=""/>
+    <voicemail carrier="MetroPCS" mvno_match_data="0x6D38" mvno_type="gid" numeric="310640" vmnumber="123" vmtag=""/>
+    <voicemail carrier="MetroPCS" mvno_match_data="0x6D38" mvno_type="gid" numeric="310660" vmnumber="123" vmtag=""/>
+    <voicemail carrier="MetroPCS" mvno_match_data="0x6D38" mvno_type="gid" numeric="310800" vmnumber="123" vmtag=""/>
+    <voicemail carrier="MetroPCS" mvno_match_data="0x6D38" mvno_type="gid" numeric="310220" vmnumber="123" vmtag=""/>
+    <voicemail carrier="MetroPCS" mvno_match_data="0x6D38" mvno_type="gid" numeric="310200" vmnumber="123" vmtag=""/>
+    <voicemail carrier="GCI" mvno_match_data="0x0310" mvno_type="gid" numeric="311370" vmnumber="" vmtag=""/>
+    <voicemail carrier="Public mobile" mvno_match_data="0x4D4F" mvno_type="gid" numeric="302220" vmnumber="" vmtag=""/>
+    <voicemail carrier="Public mobile" mvno_match_data="0x4D4F" mvno_type="gid" numeric="302221" vmnumber="" vmtag=""/>
+    <voicemail carrier="" mvno_match_data="0x2AC9" mvno_type="gid" numeric="310410" vmnumber="" vmtag=""/>
+    <voicemail carrier="" mvno_match_data="0x2AC9" mvno_type="gid" numeric="310260" vmnumber="" vmtag=""/>
+    <voicemail carrier="" mvno_match_data="0xDEFF" mvno_type="gid" numeric="310410" vmnumber="" vmtag=""/>
+    <voicemail carrier="" mvno_match_data="0xDEFF" mvno_type="gid" numeric="310260" vmnumber="" vmtag=""/>
+    <voicemail carrier="" mvno_match_data="0x534D" mvno_type="gid" numeric="310260" vmnumber="" vmtag=""/>
+    <voicemail carrier="" mvno_match_data="31026077" mvno_type="imsi" numeric="310260" vmnumber="" vmtag=""/>
+    <voicemail carrier="" mvno_match_data="31026078" mvno_type="imsi" numeric="310260" vmnumber="" vmtag=""/>
+    <voicemail carrier="" mvno_match_data="31026079" mvno_type="imsi" numeric="310260" vmnumber="" vmtag=""/>
+    <voicemail carrier="" mvno_match_data="0xD2" mvno_type="gid" numeric="302720" vmnumber="" vmtag=""/>
+    <voicemail carrier="" mvno_match_data="0xBA" mvno_type="gid" numeric="302720" vmnumber="" vmtag=""/>
+    <voicemail carrier="" mvno_match_data="0xCC" mvno_type="gid" numeric="302720" vmnumber="" vmtag=""/>
+    <voicemail carrier="" mvno_match_data="0xDD" mvno_type="gid" numeric="302370" vmnumber="" vmtag=""/>
+    <voicemail carrier="" mvno_match_data="0x4201" mvno_type="gid" numeric="310410" vmnumber="" vmtag=""/>
+    <voicemail carrier="" mvno_match_data="0x4201" mvno_type="gid" numeric="310260" vmnumber="" vmtag=""/>
+    <voicemail carrier="MTS" mvno_match_data="0x2C" mvno_type="gid" numeric="302660" vmnumber="" vmtag=""/>
+    <voicemail carrier="" mvno_match_data="0x4153" mvno_type="gid" numeric="310260" vmnumber="" vmtag=""/>
+    <voicemail carrier="" mvno_match_data="0x6136" mvno_type="gid" numeric="310260" vmnumber="" vmtag=""/>
+    <voicemail carrier="" mvno_match_data="0x4753" mvno_type="gid" numeric="310260" vmnumber="" vmtag=""/>
+    <voicemail carrier="" mvno_match_data="0x6C79" mvno_type="gid" numeric="310260" vmnumber="" vmtag=""/>
+    <voicemail carrier="" mvno_match_data="0x554D" mvno_type="gid" numeric="310260" vmnumber="" vmtag=""/>
+    <voicemail carrier="" mvno_match_data="0x6135" mvno_type="gid" numeric="310260" vmnumber="" vmtag=""/>
+    <voicemail carrier="" mvno_match_data="0x4D4D" mvno_type="gid" numeric="310260" vmnumber="" vmtag=""/>
+    <voicemail carrier="" mvno_match_data="0x62FF" mvno_type="gid" numeric="310410" vmnumber="" vmtag=""/>
+    <voicemail carrier="" mvno_match_data="0x44FF" mvno_type="gid" numeric="310410" vmnumber="" vmtag=""/>
+    <voicemail carrier="" mvno_match_data="0x49FF" mvno_type="gid" numeric="310410" vmnumber="" vmtag=""/>
+    <voicemail carrier="" mvno_match_data="0x49FF" mvno_type="gid" numeric="310410" vmnumber="" vmtag=""/>
+    <voicemail carrier="" mvno_match_data="0xDEFF" mvno_type="gid" numeric="310410" vmnumber="" vmtag=""/>
+    <voicemail carrier="" mvno_match_data="0xDEFF" mvno_type="gid" numeric="310410" vmnumber="" vmtag=""/>
+    <voicemail carrier="" mvno_match_data="0x49FF" mvno_type="gid" numeric="310410" vmnumber="" vmtag=""/>
+    <voicemail carrier="" mvno_match_data="0x4201" mvno_type="gid" numeric="310410" vmnumber="" vmtag=""/>
+    <voicemail carrier="" mvno_match_data="0x4358" mvno_type="gid" numeric="310260" vmnumber="" vmtag=""/>
+    <voicemail carrier="" mvno_match_data="0x4358" mvno_type="gid" numeric="310260" vmnumber="" vmtag=""/>
+    <voicemail carrier="" mvno_match_data="0x4358" mvno_type="gid" numeric="310260" vmnumber="" vmtag=""/>
+    <voicemail carrier="AT&amp;T" mvno_match_data="0x50FF" mvno_type="gid" numeric="310380" vmnumber="" vmtag=""/>
+    <voicemail carrier="Virgin" mvno_match_data="0x3E" mvno_type="gid" numeric="302610" vmnumber="" vmtag=""/>
+    <voicemail carrier="Solo" mvno_match_data="0x3F" mvno_type="gid" numeric="302610" vmnumber="" vmtag=""/>
+    <voicemail carrier="PC Mobile" mvno_match_data="0x40" mvno_type="gid" numeric="302610" vmnumber="" vmtag=""/>
+    <voicemail carrier="" mvno_match_data="0x2801" mvno_type="gid" numeric="310260" vmnumber="+18056377243" vmtag=""/>
+    <voicemail carrier="Google Project Fi" mvno_match_data="31026097" mvno_type="imsi" numeric="310260" vmnumber="" vmtag=""/>
+    <voicemail carrier="MTS" mvno_match_data="0x2C" mvno_type="gid" numeric="302370" vmnumber="" vmtag=""/>
+    <voicemail carrier="UNE" mvno_match_data="7321030027" mvno_type="imsi" numeric="732103" vmnumber="*123" vmtag=""/>
+    <voicemail carrier="UNE" mvno_match_data="7321030028" mvno_type="imsi" numeric="732103" vmnumber="*123" vmtag=""/>
+    <voicemail carrier="UNE" mvno_match_data="7321030029" mvno_type="imsi" numeric="732103" vmnumber="*123" vmtag=""/>
+    <voicemail carrier="ETB MOVIL" mvno_match_data="732103017" mvno_type="imsi" numeric="732103" vmnumber="*123" vmtag=""/>
+    <voicemail carrier="Uff!" mvno_match_data="732103018" mvno_type="imsi" numeric="732103" vmnumber="*123" vmtag=""/>
+    <voicemail carrier="Uff!" mvno_match_data="732103019" mvno_type="imsi" numeric="732103" vmnumber="*123" vmtag=""/>
+    <voicemail carrier="Uff!" mvno_match_data="732103023713" mvno_type="imsi" numeric="732103" vmnumber="*123" vmtag=""/>
+    <voicemail carrier="Uff!" mvno_match_data="732103023714" mvno_type="imsi" numeric="732103" vmnumber="*123" vmtag=""/>
+    <voicemail carrier="Uff!" mvno_match_data="732103023715" mvno_type="imsi" numeric="732103" vmnumber="*123" vmtag=""/>
+    <voicemail carrier="Uff!" mvno_match_data="732103023716" mvno_type="imsi" numeric="732103" vmnumber="*123" vmtag=""/>
+    <voicemail carrier="Uff!" mvno_match_data="732103023717" mvno_type="imsi" numeric="732103" vmnumber="*123" vmtag=""/>
+    <voicemail carrier="Uff!" mvno_match_data="732103023718" mvno_type="imsi" numeric="732103" vmnumber="*123" vmtag=""/>
+    <voicemail carrier="Uff!" mvno_match_data="732103023719" mvno_type="imsi" numeric="732103" vmnumber="*123" vmtag=""/>
+    <voicemail carrier="Uff!" mvno_match_data="73210302372" mvno_type="imsi" numeric="732103" vmnumber="*123" vmtag=""/>
+    <voicemail carrier="Uff!" mvno_match_data="73210302373" mvno_type="imsi" numeric="732103" vmnumber="*123" vmtag=""/>
+    <voicemail carrier="Uff!" mvno_match_data="73210302374" mvno_type="imsi" numeric="732103" vmnumber="*123" vmtag=""/>
+    <voicemail carrier="Uff!" mvno_match_data="73210302375" mvno_type="imsi" numeric="732103" vmnumber="*123" vmtag=""/>
+    <voicemail carrier="Uff!" mvno_match_data="732103023760" mvno_type="imsi" numeric="732103" vmnumber="*123" vmtag=""/>
+    <voicemail carrier="Uff!" mvno_match_data="732103023761" mvno_type="imsi" numeric="732103" vmnumber="*123" vmtag=""/>
+    <voicemail carrier="UNE" mvno_match_data="732103024" mvno_type="imsi" numeric="732103" vmnumber="*123" vmtag=""/>
+    <voicemail carrier="movil exito" mvno_match_data="732103054" mvno_type="imsi" numeric="732103" vmnumber="*123" vmtag=""/>
+    <voicemail carrier="movil exito" mvno_match_data="732103055" mvno_type="imsi" numeric="732103" vmnumber="*123" vmtag=""/>
+    <voicemail carrier="Virgin Mobile" mvno_match_data="Virgin Mobile" mvno_type="spn" numeric="33403" vmnumber="*4828" vmtag=""/>
+    <voicemail carrier="Virgin Mobile" mvno_match_data="Virgin Mobile" mvno_type="spn" numeric="334030" vmnumber="*4828" vmtag=""/>
+    <voicemail carrier="Uff!" mvno_match_data="732111218" mvno_type="imsi" numeric="732111" vmnumber="*123" vmtag=""/>
+    <voicemail carrier="Uff!" mvno_match_data="732111219" mvno_type="imsi" numeric="732111" vmnumber="*123" vmtag=""/>
+    <voicemail carrier="movil exito" mvno_match_data="732111254" mvno_type="imsi" numeric="732111" vmnumber="*123" vmtag=""/>
+    <voicemail carrier="movil exito" mvno_match_data="732111255" mvno_type="imsi" numeric="732111" vmnumber="*123" vmtag=""/>
+    <voicemail carrier="Uff!" mvno_match_data="732111019" mvno_type="imsi" numeric="732111" vmnumber="*123" vmtag=""/>
+    <voicemail carrier="Uff!" mvno_match_data="732111018" mvno_type="imsi" numeric="732111" vmnumber="*123" vmtag=""/>
+    <voicemail carrier="Virgin Mobile" mvno_match_data="732123900" mvno_type="imsi" numeric="732123" vmnumber="*123" vmtag=""/>
+    <voicemail carrier="DIGICEL" mvno_match_data="338050830" mvno_type="imsi" numeric="33805" vmnumber="123" vmtag=""/>
+    <voicemail carrier="DIGICEL" mvno_match_data="338050830" mvno_type="imsi" numeric="338050" vmnumber="123" vmtag=""/>
+    <voicemail carrier="DIGICEL" mvno_match_data="338050834" mvno_type="imsi" numeric="33805" vmnumber="123" vmtag=""/>
+    <voicemail carrier="DIGICEL" mvno_match_data="338050834" mvno_type="imsi" numeric="338050" vmnumber="123" vmtag=""/>
+    <voicemail carrier="DIGICEL" mvno_match_data="3380505" mvno_type="imsi" numeric="33805" vmnumber="123" vmtag=""/>
+    <voicemail carrier="DIGICEL" mvno_match_data="3380505" mvno_type="imsi" numeric="338050" vmnumber="123" vmtag=""/>
+    <voicemail carrier="DIGICEL" mvno_match_data="338050833" mvno_type="imsi" numeric="33805" vmnumber="123" vmtag=""/>
+    <voicemail carrier="DIGICEL" mvno_match_data="338050833" mvno_type="imsi" numeric="338050" vmnumber="123" vmtag=""/>
+    <voicemail carrier="DIGICEL" mvno_match_data="338050842" mvno_type="imsi" numeric="338050" vmnumber="#123" vmtag=""/>
+    <voicemail carrier="DIGICEL" mvno_match_data="3380506" mvno_type="imsi" numeric="33805" vmnumber="123" vmtag=""/>
+    <voicemail carrier="DIGICEL" mvno_match_data="3380506" mvno_type="imsi" numeric="338050" vmnumber="123" vmtag=""/>
+    <voicemail carrier="DIGICEL" mvno_match_data="3380503" mvno_type="imsi" numeric="33805" vmnumber="123" vmtag=""/>
+    <voicemail carrier="DIGICEL" mvno_match_data="3380503" mvno_type="imsi" numeric="338050" vmnumber="123" vmtag=""/>
+    <voicemail carrier="DIGICEL" mvno_match_data="3380509" mvno_type="imsi" numeric="338050" vmnumber="123" vmtag=""/>
+    <voicemail carrier="DIGICEL" mvno_match_data="3380500" mvno_type="imsi" numeric="33805" vmnumber="123" vmtag=""/>
+    <voicemail carrier="DIGICEL" mvno_match_data="3380500" mvno_type="imsi" numeric="338050" vmnumber="123" vmtag=""/>
+    <voicemail carrier="DIGICEL" mvno_match_data="338050843" mvno_type="imsi" numeric="33805" vmnumber="123" vmtag=""/>
+    <voicemail carrier="DIGICEL" mvno_match_data="338050843" mvno_type="imsi" numeric="338050" vmnumber="123" vmtag=""/>
+    <voicemail carrier="DIGICEL" mvno_match_data="338050831" mvno_type="imsi" numeric="33805" vmnumber="123" vmtag=""/>
+    <voicemail carrier="DIGICEL" mvno_match_data="338050831" mvno_type="imsi" numeric="338050" vmnumber="123" vmtag=""/>
+    <voicemail carrier="DIGICEL" mvno_match_data="3380501" mvno_type="imsi" numeric="33805" vmnumber="123" vmtag=""/>
+    <voicemail carrier="DIGICEL" mvno_match_data="3380501" mvno_type="imsi" numeric="338050" vmnumber="123" vmtag=""/>
+    <voicemail carrier="DIGICEL" mvno_match_data="3380502" mvno_type="imsi" numeric="33805" vmnumber="123" vmtag=""/>
+    <voicemail carrier="DIGICEL" mvno_match_data="3380502" mvno_type="imsi" numeric="338050" vmnumber="123" vmtag=""/>
+    <voicemail carrier="DIGICEL" mvno_match_data="338050837" mvno_type="imsi" numeric="33805" vmnumber="123" vmtag=""/>
+    <voicemail carrier="DIGICEL" mvno_match_data="338050837" mvno_type="imsi" numeric="338050" vmnumber="123" vmtag=""/>
+    <voicemail carrier="" mvno_match_data="704038" mvno_type="imsi" numeric="70403" vmnumber="*86" vmtag=""/>
+    <voicemail carrier="Virgin Mobile" mvno_match_data="732123901" mvno_type="imsi" numeric="732123" vmnumber="*123" vmtag=""/>
+    <voicemail carrier="Virgin Mobile" mvno_match_data="732123902" mvno_type="imsi" numeric="732123" vmnumber="*123" vmtag=""/>
+    <voicemail carrier="Virgin Mobile" mvno_match_data="732123903" mvno_type="imsi" numeric="732123" vmnumber="*123" vmtag=""/>
+    <voicemail carrier="Virgin Mobile" mvno_match_data="732123904" mvno_type="imsi" numeric="732123" vmnumber="*123" vmtag=""/>
+    <voicemail carrier="Virgin Mobile" mvno_match_data="732123905" mvno_type="imsi" numeric="732123" vmnumber="*123" vmtag=""/>
+    <voicemail carrier="Virgin Mobile" mvno_match_data="732123906" mvno_type="imsi" numeric="732123" vmnumber="*123" vmtag=""/>
+    <voicemail carrier="Virgin Mobile" mvno_match_data="732123907" mvno_type="imsi" numeric="732123" vmnumber="*123" vmtag=""/>
+    <voicemail carrier="Virgin Mobile" mvno_match_data="732123908" mvno_type="imsi" numeric="732123" vmnumber="*123" vmtag=""/>
+    <voicemail carrier="FALABELLA" mvno_match_data="FALABELLA" mvno_type="spn" numeric="73001" vmnumber="+56952800500" vmtag=""/>
+    <voicemail carrier="Colo-Colo Móvil" mvno_match_data="7300704" mvno_type="imsi" numeric="73007" vmnumber="500" vmtag=""/>
+    <voicemail carrier="GTD" mvno_match_data="7300701" mvno_type="imsi" numeric="73007" vmnumber="100" vmtag=""/>
+    <voicemail carrier="Virgin" mvno_match_data="7300702" mvno_type="imsi" numeric="73007" vmnumber="300" vmtag=""/>
+</voicemails>

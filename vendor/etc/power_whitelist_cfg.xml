@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<WHITELIST>
+    <PerfService>
+        <Package name="com.imangi.templerun2">
+            <Activity name="Common">
+                <CMD_SET_CLUSTER_CPU_CORE_MIN Param1="0" Param2="3"/>
+            </Activity>
+        </Package>
+        <Package name="com.andromeda.androbench2">
+            <Activity name="Common">
+                <CMD_SET_SPORTS_MODE Param1="1"/>
+            </Activity>
+        </Package>
+        <Package name="com.futuremark.pcmark.android.benchmark">
+            <Activity name="Common">
+                <CMD_SET_SPORTS_MODE Param1="1"/>
+            </Activity>
+        </Package>
+        <Package name="com.antutu.ABenchMark">
+            <Activity name="Common">
+                <CMD_SET_SPORTS_MODE Param1="1"/>
+            </Activity>
+        </Package>
+        <Package name="com.antutu.benchmark.full">
+            <Activity name="Common">
+                <CMD_SET_SPORTS_MODE Param1="1"/>
+            </Activity>
+        </Package>
+        <Package name="com.primatelabs.geekbench">
+            <Activity name="Common">
+                <CMD_SET_SPORTS_MODE Param1="1"/>
+            </Activity>
+        </Package>
+        <Package name="com.aurorasoftworks.quadrant.ui.professional">
+            <Activity name="Common">
+                <CMD_SET_SPORTS_MODE Param1="1"/>
+            </Activity>
+        </Package>
+        <Package name="com.aurorasoftworks.quadrant.ui.advanced">
+            <Activity name="Common">
+                <CMD_SET_SPORTS_MODE Param1="1"/>
+            </Activity>
+        </Package>
+        <Package name="com.ludashi.benchmark">
+            <Activity name="Common">
+                <CMD_SET_SPORTS_MODE Param1="1"/>
+            </Activity>
+        </Package>
+        <Package name="com.tencent.tmgp.sgame">
+            <Activity name="Common">
+                <CMD_SET_PACK_BOOST_TIMEOUT Param1="25"/>
+                <CMD_SET_FSTB_FPS Param1="60" Param2="30"/>
+                <CMD_SET_FBT_FLOOR_BOUND Param1="1"/>
+                <CMD_SET_FBT_KMIN Param1="10"/>
+            </Activity>
+        </Package>
+        <Package name="com.gameloft.android.ANMP.GloftA8HM">
+            <Activity name="Common">
+                <CMD_SET_FSTB_FPS Param1="30" Param2="30"/>
+            </Activity>
+        </Package>
+        <Package name="com.happyelements.AndroidAnimal.qq">
+            <Activity name="Common">
+                <CMD_SET_CLUSTER_CPU_CORE_MAX Param1="0" Param2="3"/>
+                <CMD_SET_FSTB_FPS Param1="40" Param2="26"/>
+                <CMD_SET_CLUSTER_CPU_FREQ_MAX Param1="0"  Param2="1274000"/>
+                <CMD_SET_SCREEN_OFF_STATE  Param1="2" />
+                <CMD_SET_GPU_FREQ_MAX  Param1="2" />
+            </Activity>
+        </Package>
+        <Package name="com.vectorunit.red">
+            <Activity name="Common">
+                <CMD_SET_CLUSTER_CPU_CORE_MAX Param1="0" Param2="2"/>
+                <CMD_SET_CLUSTER_CPU_FREQ_MAX Param1="0"  Param2="962000"/>
+                <CMD_SET_SCREEN_OFF_STATE  Param1="2" />
+                <CMD_SET_GPU_FREQ_MAX  Param1="2" />
+            </Activity>
+        </Package>
+        <Package name="com.tencent.mtt">
+            <Activity name="Common">
+                <CMD_SET_CLUSTER_CPU_CORE_MAX Param1="0" Param2="2"/>
+                <CMD_SET_CLUSTER_CPU_FREQ_MAX Param1="0"  Param2="962000"/>
+                <CMD_SET_SCREEN_OFF_STATE  Param1="2" />
+                <CMD_SET_GPU_FREQ_MAX  Param1="2" />
+            </Activity>
+        </Package>
+        <Package name="com.tencent.mobileqq">
+            <Activity name="Common">
+                <CMD_SET_CLUSTER_CPU_CORE_MAX Param1="0" Param2="2"/>
+                <CMD_SET_CLUSTER_CPU_FREQ_MAX Param1="0"  Param2="1170000"/>
+                <CMD_SET_SCREEN_OFF_STATE  Param1="2" />
+                <CMD_SET_GPU_FREQ_MAX  Param1="2" />
+            </Activity>
+        </Package>
+        <Package name="com.tencent.mm">
+            <Activity name="Common">
+                <CMD_SET_CLUSTER_CPU_CORE_MAX Param1="0" Param2="3"/>
+                <CMD_SET_CLUSTER_CPU_FREQ_MAX Param1="0"  Param2="1274000"/>
+                <CMD_SET_SCREEN_OFF_STATE  Param1="2" />
+                <CMD_SET_GPU_FREQ_MAX  Param1="2" />
+            </Activity>
+        </Package>
+        <Package name="com.huawei.camera">
+            <Activity name="Common">
+                <CMD_SET_CLUSTER_CPU_FREQ_MAX Param1="0"  Param2="1274000"/>
+                <CMD_SET_SCREEN_OFF_STATE  Param1="2" />
+            </Activity>
+        </Package>
+        <Package name="com.UCMobile">
+            <Activity name="Common">
+                <CMD_SET_CLUSTER_CPU_CORE_MAX Param1="0" Param2="3"/>
+                <CMD_SET_CLUSTER_CPU_FREQ_MAX Param1="0"  Param2="1274000"/>
+                <CMD_SET_SCREEN_OFF_STATE  Param1="2" />
+                <CMD_SET_GPU_FREQ_MAX  Param1="2" />
+            </Activity>
+        </Package>
+        <Package name="com.tencent.clover">
+            <Activity name="Common">
+                <CMD_SET_CLUSTER_CPU_CORE_MAX Param1="0" Param2="3"/>
+                <CMD_SET_FSTB_FPS Param1="45" Param2="26"/>
+                <CMD_SET_CLUSTER_CPU_FREQ_MAX Param1="0"  Param2="1274000"/>
+                <CMD_SET_SCREEN_OFF_STATE  Param1="2" />
+                <CMD_SET_GPU_FREQ_MAX  Param1="2" />
+            </Activity>
+        </Package>
+        <Package name="com.supercell.boombeach.HUAWEI">
+            <Activity name="Common">
+                <CMD_SET_CLUSTER_CPU_CORE_MAX Param1="0" Param2="3"/>
+                <CMD_SET_FSTB_FPS Param1="45" Param2="30"/>
+                <CMD_SET_CLUSTER_CPU_FREQ_MAX Param1="0"  Param2="1274000"/>
+                <CMD_SET_SCREEN_OFF_STATE  Param1="2" />
+                <CMD_SET_GPU_FREQ_MAX  Param1="2" />
+            </Activity>
+        </Package>
+        <Package name="com.happyelements.AndroidAnimal">
+            <Activity name="Common">
+                <CMD_SET_CLUSTER_CPU_CORE_MAX Param1="0" Param2="3"/>
+                <CMD_SET_FSTB_FPS Param1="40" Param2="26"/>
+                <CMD_SET_CLUSTER_CPU_FREQ_MAX Param1="0"  Param2="1274000"/>
+                <CMD_SET_SCREEN_OFF_STATE  Param1="2" />
+                <CMD_SET_GPU_FREQ_MAX  Param1="2" />
+            </Activity>
+        </Package>
+        <Package name="com.huawei.android.launcher">
+            <Activity name="Common">
+                <CMD_SET_CLUSTER_CPU_CORE_MAX Param1="0" Param2="3"/>
+                <CMD_SET_FSTB_FPS Param1="40" Param2="26"/>
+                <CMD_SET_CLUSTER_CPU_FREQ_MAX Param1="0"  Param2="1274000"/>
+                <CMD_SET_SCREEN_OFF_STATE  Param1="2" />
+                <CMD_SET_GPU_FREQ_MAX  Param1="2" />
+            </Activity>
+        </Package>
+        <Package name="com.qiyi.video">
+            <Activity name="Common">
+                <CMD_SET_CLUSTER_CPU_CORE_MAX Param1="0" Param2="3"/>
+                <CMD_SET_CLUSTER_CPU_FREQ_MAX Param1="0"  Param2="1274000"/>
+                <CMD_SET_SCREEN_OFF_STATE  Param1="2" />
+                <CMD_SET_GPU_FREQ_MAX  Param1="2" />
+            </Activity>
+        </Package>
+        <Package name="com.android.gallery3d">
+            <Activity name="Common">
+                <CMD_SET_CLUSTER_CPU_CORE_MAX Param1="0" Param2="3"/>
+                <CMD_SET_FSTB_FPS Param1="40" Param2="26"/>
+                <CMD_SET_CLUSTER_CPU_FREQ_MAX Param1="0"  Param2="1274000"/>
+                <CMD_SET_SCREEN_OFF_STATE  Param1="2" />
+                <CMD_SET_GPU_FREQ_MAX  Param1="2" />
+            </Activity>
+        </Package>
+        <Package name="com.chaozh.iReaderFree">
+            <Activity name="Common">
+                <CMD_SET_CLUSTER_CPU_CORE_MAX Param1="0" Param2="3"/>
+                <CMD_SET_FSTB_FPS Param1="40" Param2="26"/>
+                <CMD_SET_CLUSTER_CPU_FREQ_MAX Param1="0"  Param2="1274000"/>
+                <CMD_SET_SCREEN_OFF_STATE  Param1="2" />
+                <CMD_SET_GPU_FREQ_MAX  Param1="2" />
+            </Activity>
+        </Package>
+        <Package name="com.taobao.taobao">
+            <Activity name="Common">
+                <CMD_SET_CLUSTER_CPU_CORE_MAX Param1="0" Param2="3"/>
+                <CMD_SET_FSTB_FPS Param1="40" Param2="26"/>
+                <CMD_SET_CLUSTER_CPU_FREQ_MAX Param1="0"  Param2="1274000"/>
+                <CMD_SET_SCREEN_OFF_STATE  Param1="2" />
+                <CMD_SET_GPU_FREQ_MAX  Param1="2" />
+            </Activity>
+        </Package>
+        <Package name="com.android.email">
+            <Activity name="Common">
+                <CMD_SET_CLUSTER_CPU_CORE_MAX Param1="0" Param2="3"/>
+                <CMD_SET_FSTB_FPS Param1="40" Param2="26"/>
+                <CMD_SET_CLUSTER_CPU_FREQ_MAX Param1="0"  Param2="1274000"/>
+                <CMD_SET_SCREEN_OFF_STATE  Param1="2" />
+                <CMD_SET_GPU_FREQ_MAX  Param1="2" />
+            </Activity>
+        </Package>
+        <Package name="com.netease.mail">
+            <Activity name="Common">
+                <CMD_SET_CLUSTER_CPU_CORE_MAX Param1="0" Param2="3"/>
+                <CMD_SET_FSTB_FPS Param1="40" Param2="26"/>
+                <CMD_SET_CLUSTER_CPU_FREQ_MAX Param1="0"  Param2="1274000"/>
+                <CMD_SET_SCREEN_OFF_STATE  Param1="2" />
+                <CMD_SET_GPU_FREQ_MAX  Param1="2" />
+            </Activity>
+        </Package>
+        <Package name="com.huawei.himovie">
+            <Activity name="Common">
+                <CMD_SET_CLUSTER_CPU_CORE_MAX Param1="0" Param2="3"/>
+                <CMD_SET_CLUSTER_CPU_FREQ_MAX Param1="0"  Param2="1274000"/>
+                <CMD_SET_SCREEN_OFF_STATE  Param1="2" />
+                <CMD_SET_GPU_FREQ_MAX  Param1="2" />
+            </Activity>
+        </Package>
+    </PerfService>
+</WHITELIST>
